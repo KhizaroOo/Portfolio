@@ -14,12 +14,7 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 7.0.x
-    
-    
-    - name: Dotnet Outdated Extended
-      uses: bumbummen99/dotnet-outdated-action@v4
-    
-    
+
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
     - name: Deploy to Github Pages
