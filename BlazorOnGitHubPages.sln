@@ -1,13 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorOnGitHubPages.Server", "BlazorOnGitHubPages\Server\BlazorOnGitHubPages.Server.csproj", "{3379BDA5-8C8F-4A1E-929C-41BA48522387}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorOnGitHubPages.Client", "BlazorOnGitHubPages\Client\BlazorOnGitHubPages.Client.csproj", "{4B30A04F-C027-46EB-9DB4-91553B7088AE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorOnGitHubPages.Shared", "BlazorOnGitHubPages\Shared\BlazorOnGitHubPages.Shared.csproj", "{AB07D876-FBCD-4587-A162-3959716CD40B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
