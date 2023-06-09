@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g0jsmdxxR4ETUUzjavVkhflpQXLNIHd/y5+M7WC2ZHyRr4eZQh51tpqoyMzDNYuLtdM2URKEl1PO4261JsN1Pg==",
+  "dgSpecHash": "7aqtCe7QcvxSculvv6C3FN0cVlzs2yX9rsykwN1TdsaGt66Xx5FZ5PgwMcv7hMZoIMF4ZSKFumnpYIaWw8ITPg==",
   "success": true,
   "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/BlazorOnGitHubPages.csproj",
   "expectedPackageFiles": [
+    "/Users/khizooo/.nuget/packages/docker.dotnet/3.125.15/docker.dotnet.3.125.15.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.authorization/7.0.5/microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components/7.0.5/microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.5/microsoft.aspnetcore.components.analyzers.7.0.5.nupkg.sha512",
@@ -28,9 +29,12 @@
     "/Users/khizooo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop/7.0.5/microsoft.jsinterop.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop.webassembly/7.0.5/microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.5/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
   ],
   "logs": []

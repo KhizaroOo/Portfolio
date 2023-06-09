@@ -2,6 +2,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/BlazorOnGitHubPages.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/BlazorOnGitHubPages.pdb
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.5.eed2cj62dt.js
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
@@ -38,6 +39,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/mscorlib.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/netstandard.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.AppContext.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Buffers.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Collections.Concurrent.dll
@@ -250,12 +252,14 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/BlazorOnGitHubPages.pdb.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/mscorlib.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Drawing.dll.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/BlazorOnGitHubPages.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Threading.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encoding.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Core.dll.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Data.Common.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/wwwroot/_framework/System.Numerics.dll.gz
@@ -404,6 +408,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/BlazorOnGitHubPages.staticwebassets.runtime.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/BlazorOnGitHubPages.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/BlazorOnGitHubPages.pdb
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Docker.DotNet.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
@@ -426,6 +431,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.JSInterop.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.JSInterop.WebAssembly.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Newtonsoft.Json.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/System.IO.Pipelines.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.CSharp.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/bin/Debug/net7.0/Microsoft.VisualBasic.Core.dll
@@ -608,6 +614,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/BlazorOnGitHubPages.AssemblyInfo.cs
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/BlazorOnGitHubPages.csproj.CoreCompileInputs.cache
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/BlazorOnGitHubPages.MvcApplicationPartsAssemblyInfo.cache
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/cHUIzJEL.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/nK92QL+8.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/gAjiKPIo.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/dAsb8ejt.gz
@@ -630,6 +637,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/YRw++tsw.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/NC+6k0fI.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/m78LLlWZ.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/BmfkYsOx.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/osKeWTRA.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/V0VsljVi.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/BlazorOnGitHubPages/obj/Debug/net7.0/build-gz/e9SZ7LuB.gz
