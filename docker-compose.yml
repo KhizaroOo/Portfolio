@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  blazorongithubpages:
+    image: ${DOCKER_REGISTRY-}blazorongithubpages
+    build:
+      context: .
+      dockerfile: BlazorOnGitHubPages/Dockerfile

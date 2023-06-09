@@ -1,21 +1,15 @@
-﻿<Properties StartupConfiguration="{01431FF4-AFBF-43A7-ABF9-16A144926869}|Default">
+﻿<Properties StartupConfiguration="{6C786271-E4C4-4FC2-97D9-5647E3490439}|https">
   <MonoDevelop.Ide.Workbench ActiveDocument="BlazorOnGitHubPages/Dockerfile">
     <Files>
       <File FileName="BlazorOnGitHubPages/Dockerfile" Line="23" Column="1" />
-      <File FileName="../../../../../../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" Line="191" Column="1" />
-      <File FileName="docker-compose.yml" Line="9" Column="1" />
-      <File FileName="docker-compose.override.yml" Line="1" Column="1" />
-      <File FileName=".dockerignore" Line="1" Column="1" />
-      <File FileName="../../../../../../../../../Users/khizooo/.nuget/NuGet/NuGet.Config" Line="1" Column="1" />
-      <File FileName="BlazorOnGitHubPages/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazorOnGitHubPages" expanded="True">
-            <Node name="docker-compose" expanded="True" selected="True">
-              <Node name="docker-compose.yml" expanded="True" />
-            </Node>
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="BlazorOnGitHubPages" expanded="True" />
+            <Node name="docker-compose" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
