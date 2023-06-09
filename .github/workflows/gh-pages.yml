@@ -1,11 +1,15 @@
 name: gh-pages
 
 on: [push]
-
+  
 jobs:
   build:
 
     runs-on: ubuntu-latest
+    
+    permissions:
+      id-token: write
+      contents: read
 
     steps:
     - uses: actions/checkout@v2
@@ -22,6 +26,8 @@ jobs:
       with:
         ACCESS_TOKEN: $
         BASE_BRANCH: main # The branch the action should deploy from.
-        BRANCH: main # The branch the action should deploy to.
+        BRANCH: development # The branch the action should deploy to.
         FOLDER: build/wwwroot # The folder the action should deploy.
         SINGLE_COMMIT: true
+        
+        
