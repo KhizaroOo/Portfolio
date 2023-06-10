@@ -21,8 +21,13 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 3.1.x
+        
+    - name: Publish .NET Core Project
+      run: dotnet publish BlazorGitHubPagesDemo.csproj -c Release -o release --nologo
 
-    - name: Deploy GitHub Pages site
-      uses: actions/deploy-pages@v2.0.1
+    - name: Commit wwwroot to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-          files: "PUBLISH*"
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: main
+        FOLDER: PUBLISH/wwwroot
