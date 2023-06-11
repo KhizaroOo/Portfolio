@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s5L5s2tVgtqeXJ83PuFw5ofKdJUYCowbOtLc013f+u3CCia5ji+86GzAJMw159TqJrVGaCVbW+yC9paFgB17XA==",
+  "dgSpecHash": "aI/pB0AE5u26LWEfnUM3y88/o51VfWURvu4X8zbXVchtXdPyWQSYw/XkhgOObOIuqR99fJjn5bX2HTkQSsu/YQ==",
   "success": true,
   "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite.csproj",
   "expectedPackageFiles": [
@@ -28,8 +28,6 @@
     "/Users/khizooo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop/7.0.5/microsoft.jsinterop.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop.webassembly/7.0.5/microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23062.2/microsoft.net.illink.tasks.7.0.100-1.23062.2.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.0-preview.4.23259.5/microsoft.net.sdk.webassembly.pack.8.0.0-preview.4.23259.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/mudblazor/6.4.1/mudblazor.6.4.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
