@@ -1,22 +1,16 @@
-﻿<Properties StartupConfiguration="{38B03A0F-0400-4095-A5B4-BDCF02CA3399}|https">
+﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Program.cs">
-    <Files>
-      <File FileName="MySite/Program.cs" Line="10" Column="34" />
-      <File FileName="MySite/MySite.csproj" Line="14" Column="14" />
-      <File FileName="MySite/_Imports.razor" Line="5" Column="21" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
-            <Node name="MySite" expanded="True" selected="True" />
+            <Node name="MySite" selected="True" />
           </Node>
         </State>
       </Pad>
