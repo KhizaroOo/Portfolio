@@ -20,4 +20,4 @@ jobs:
     - name: Publish DotNet
       uses: SpringHgui/publish-nuget@1.0.1
       with:
-        PROJECT_FILE_PATH:  PUBLISH/WEB.dll
+        PROJECT_FILE_PATH:  PUBLISH
