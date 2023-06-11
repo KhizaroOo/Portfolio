@@ -21,3 +21,4 @@ jobs:
       uses: SpringHgui/publish-nuget@1.0.1
       with:
         PROJECT_FILE_PATH:  PUBLISH
+        PROJECT_VERSION:  3.1
