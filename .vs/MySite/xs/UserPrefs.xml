@@ -12,7 +12,6 @@
           <Node name="MySite" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
             <Node name="MySite" expanded="True" selected="True">
-              <Node name="wwwroot" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
