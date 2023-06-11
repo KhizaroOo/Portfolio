@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/scopedcss/bundle/MySite.styles.css",
+      "PackagePath": "staticwebassets/MySite.styles.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
