@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9d1/b88xspRv7nTtNE9CJ6G4b7euGMT/1t319PoO1maUV7nciwLwdnTngmM2hOS1Q1+gKyYn94eJbN59iqgy6w==",
+  "dgSpecHash": "OQkJOGusojUsu6joXofzyUk020vgGdgFMHwPa0SK5tl3VPApw+CVq3pwfqU9I6PLR9/lsRDrpzvhNgzOzcOMZA==",
   "success": true,
-  "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite/MySite.csproj",
+  "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite.csproj",
   "expectedPackageFiles": [
     "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.authorization/7.0.5/microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components/7.0.5/microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
