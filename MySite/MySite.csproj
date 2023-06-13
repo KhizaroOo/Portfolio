@@ -15,4 +15,16 @@
     <PackageReference Include="MudBlazor" Version="6.4.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\LandingPage\" />
+    <Content Remove="wwwroot\LandingPage\css\" />
+    <Content Remove="wwwroot\LandingPage\js\" />
+    <Content Remove="wwwroot\LandingPage\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\LandingPage\" />
+    <Folder Include="wwwroot\LandingPage\css\" />
+    <Folder Include="wwwroot\LandingPage\js\" />
+    <Folder Include="wwwroot\LandingPage\img\" />
+  </ItemGroup>
 </Project>
