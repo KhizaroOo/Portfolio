@@ -28,6 +28,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Content.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0NvbnRlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1N3aXBlcnMvQXJ0c19Td2lwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1N3aXBlcnMvRXh0ZW5zaW9uc19Td2lwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1N3aXBlcnMvVGVjaF9Td2lwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

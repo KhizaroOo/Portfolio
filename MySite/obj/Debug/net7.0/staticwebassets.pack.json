@@ -37,12 +37,20 @@
       "PackagePath": "staticwebassets/LandingPage/css/Secondary.css"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/LandingPage/css/bootstrap-icons.css"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/custom.css",
       "PackagePath": "staticwebassets/LandingPage/css/custom.css"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/exm2kgx.css",
       "PackagePath": "staticwebassets/LandingPage/css/exm2kgx.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/font-awesome.css",
+      "PackagePath": "staticwebassets/LandingPage/css/font-awesome.css"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/font-icons.css",
@@ -59,6 +67,34 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/swiper.css",
       "PackagePath": "staticwebassets/LandingPage/css/swiper.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/css/unicons.css",
+      "PackagePath": "staticwebassets/LandingPage/css/unicons.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/unicons-14.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/unicons-14.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/fonts/unicons-6.woff2",
+      "PackagePath": "staticwebassets/LandingPage/fonts/unicons-6.woff2"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/1(1).jpg",
@@ -161,6 +197,10 @@
       "PackagePath": "staticwebassets/LandingPage/img/bitgo.svg"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/blur-bg.png",
+      "PackagePath": "staticwebassets/LandingPage/img/blur-bg.png"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/classic.jpg",
       "PackagePath": "staticwebassets/LandingPage/img/classic.jpg"
     },
@@ -173,12 +213,20 @@
       "PackagePath": "staticwebassets/LandingPage/img/coindcx.svg"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/favicon.ico",
+      "PackagePath": "staticwebassets/LandingPage/img/favicon.ico"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/logo.svg",
       "PackagePath": "staticwebassets/LandingPage/img/logo.svg"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/metamask.svg",
       "PackagePath": "staticwebassets/LandingPage/img/metamask.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/noise-paatern.png",
+      "PackagePath": "staticwebassets/LandingPage/img/noise-paatern.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/img/opensea.svg",

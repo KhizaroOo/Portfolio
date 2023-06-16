@@ -1,46 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
 
+<html dir="ltr" lang="en-US" class="skrollr skrollr-desktop" data-bs-theme="dark" style="--cnvs-viewport-width:1680; --cnvs-viewport-height:852; --cnvs-themecolor:#1EB0BB; --cnvs-themecolor-rgb:30,176,187; --cnvs-primary-font:Cabin Sketch; --cnvs-body-font:Comfortaa;">
+<!-- HEAD -->
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>MySite</title>
 
-    <!--For Publish To GitHub Pages-->
-    <base href="/Portfolio/" />
-
-    <!--For LocalHost-->
-    <!-- <base href="/" /> -->
-
-    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/app.css" rel="stylesheet" />
+    <!-- Common META -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SemiColonWeb">
     <link rel="icon" type="image/png" href="favicon.png" />
-    <link href="MySite.styles.css" rel="stylesheet" />
-    <link href="manifest.json" rel="manifest" />
-    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
-    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
-    <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
+    <!-- Common META -->
+    <!-- For Github Pages -->
+    <!-- <base href="/Portfolio/" />-->
+    <base href="/" />
+    <!-- For Github Pages -->
+    <!-- STYLES -->
+    <link rel="stylesheet" href="LandingPage/css/exm2kgx.css">
+    <link rel="stylesheet" href="LandingPage/css/style.css">
+    <link rel="stylesheet" href="LandingPage/css/font-icons.css">
+    <link rel="stylesheet" href="LandingPage/css/swiper.css">
+    <link rel="stylesheet" href="LandingPage/css/nft-marketplace.css">
+    <link rel="stylesheet" href="LandingPage/css/custom.css">
+    <link id="cnvs-switcher-custom-primary-font" href="LandingPage/css/Primary.css" rel="stylesheet" type="text/css">
+    <link id="cnvs-switcher-custom-body-font" href="LandingPage/css/Secondary.css" rel="stylesheet" type="text/css">
+    <!-- STYLES -->
+
 </head>
+<!-- HEAD -->
+<!-- BODY -->
+<body class="stretched dark device-xxl device-up-xxl device-up-xl device-up-lg device-up-md device-up-sm device-up-xs is-expanded-menu has-plugin-bootstrap has-plugin-isotope has-plugin-isotope-filter has-plugin-swiper has-plugin-countdown has-plugin-form has-plugin-notify has-plugin-lazyload has-plugin-flexslider" style="">
 
-<body>
+    <!-- LOADER -->
+    <div id="particles-nasa"><canvas class="particles-js-canvas-el" width="3360" height="1704" style="width: 100%; height: 100%;"></canvas></div>
+    <!-- LOADER -->
+    <!-- APP -->
     <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
-    </div>
 
-    <div id="blazor-error-ui">
-        An unhandled error has occurred.
-        <a href="" class="reload">Reload</a>
-        <a class="dismiss">🗙</a>
     </div>
-
+    <!-- APP -->
+    <!-- Go To Top -->
+    <div id="gotoTop" class="uil uil-angle-up"></div>
+    <!-- Go To Top -->
     <!-- Start Single Page Apps for GitHub Pages -->
-    <script type="text/javascript">
-        (function (l) {
+    <script type="text/javascript">(function (l) {
             if (l.search) {
                 var q = {};
                 l.search.slice(1).split('&').forEach(function (v) {
@@ -55,13 +58,39 @@
                     );
                 }
             }
-        }(window.location))
-    </script>
+        }(window.location))</script>
     <!-- End Single Page Apps for GitHub Pages -->
-
+    <!-- WEB Assembly | DotNet Core -->
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
-</body>
+    <!-- WEB Assembly | DotNet Core -->
+    <!-- Theme JS -->
+    <script src="LandingPage/js/plugins.min.js"></script>
+    <script src="LandingPage/js/functions.bundle.js"></script>
+    <script src="LandingPage/js/swiper-element-bundle.min.js"></script>
+    <script src="LandingPage/js/particles.min.js"></script>
+    <script src="LandingPage/js/particles-nasa.js"></script>
 
+    <script>// Countdown
+        jQuery(document).ready(function () {
+            jQuery('.nft-counter').countdown({ until: '+22d23m', compact: true });
+
+            var swiper = new Swiper(".swiper-container", {
+                effect: "cards",
+                grabCursor: true,
+                cardsEffect: {
+                    slideShadows: false
+                }
+
+            });
+
+        });
+    </script>
+
+    <script id="canvas-gtag-js" src="LandingPage/js/custom.js" async="" defer=""></script>
+    <!-- Theme JS -->
+
+</body>
+<!-- BODY -->
 </html>

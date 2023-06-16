@@ -830,3 +830,4 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/refint/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.pdb
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/ref/MySite.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Pages/LandingPages/Swipers/Short_App_Swiper.json
