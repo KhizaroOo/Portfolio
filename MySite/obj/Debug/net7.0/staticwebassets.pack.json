@@ -277,6 +277,10 @@
       "PackagePath": "staticwebassets/LandingPage/js/skrollr.min.js"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/js/swiper-element-bundle.min.js",
+      "PackagePath": "staticwebassets/LandingPage/js/swiper-element-bundle.min.js"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/css/.DS_Store",
       "PackagePath": "staticwebassets/css/.DS_Store"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ICuQhJJk6BqRwmHknJfWCaxF6UEDIybuBpd2Te7eLDM=",
+  "Hash": "uGyEJlaMXH+5GPRy8KI/9IVRJFYE7CTMQ9Vh7Bt49l8=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -8328,6 +8328,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/LandingPage/js/skrollr.min.js"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/js/swiper-element-bundle.min.js",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "LandingPage/js/swiper-element-bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/LandingPage/js/swiper-element-bundle.min.js"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/LandingPage/LP-Test.html",
