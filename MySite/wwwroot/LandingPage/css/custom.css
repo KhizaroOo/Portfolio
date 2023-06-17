@@ -60,3 +60,18 @@ swiper-slide {
 .header-misc-icon{
     margin:0.2px;
 }
+
+.Custom-Header{
+    background-color: #FFFFFF !important;
+    border: 5px solid black;
+}
+
+Header-Border-Gradient {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+}
+
+.Header-Border-Gradient-Purple {
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
