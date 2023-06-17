@@ -1,95 +1,111 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 
-<html dir="ltr" lang="en-US" class="skrollr skrollr-desktop" data-bs-theme="dark" style="--cnvs-viewport-width:1680; --cnvs-viewport-height:852; --cnvs-themecolor:#1EB0BB; --cnvs-themecolor-rgb:30,176,187; --cnvs-primary-font:Cabin Sketch; --cnvs-body-font:Comfortaa;">
-<!-- HEAD -->
+<!--
+    Website     https://www.khizooo.com
+    LinkedIn    https://www.linkedin.com/in/khizar-imtiaz
+    Facebook    https://www.facebook.com/khizoooartist
+    Twitter	    https://twitter.com/khizaroo
+    Instagram   https://www.instagram.com/khizooo_art
+    Pinterest   https://www.pinterest.com/KhizoOo_
+    Blogger     https://khizooo.blogspot.com
+    OpenSea     https://opensea.io/KhizoOo_
+-->
+
+<html lang="en">
+
+    <!-- HEAD -->
 <head>
 
     <!-- Common META -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="SemiColonWeb">
-    <link rel="icon" type="image/png" href="favicon.png" />
+    <meta name="author" content="KhizoOo">
+    <link rel="icon" type="image/png" href="Favicons/favicon-16.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="KhizoOo-Theme-01" content="KhizoOo" />
     <!-- Common META -->
     <!-- For Github Pages -->
     <base href="/Portfolio/" />
     <!-- For Github Pages -->
     <!-- STYLES -->
-    <link rel="stylesheet" href="LandingPage/css/exm2kgx.css">
-    <link rel="stylesheet" href="LandingPage/css/style.css">
-    <link rel="stylesheet" href="LandingPage/css/font-icons.css">
-    <link rel="stylesheet" href="LandingPage/css/swiper.css">
-    <link rel="stylesheet" href="LandingPage/css/nft-marketplace.css">
-    <link rel="stylesheet" href="LandingPage/css/custom.css">
-    <link id="cnvs-switcher-custom-primary-font" href="LandingPage/css/Primary.css" rel="stylesheet" type="text/css">
-    <link id="cnvs-switcher-custom-body-font" href="LandingPage/css/Secondary.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
+    <link rel="stylesheet" href="plugins/counto/animate.css">
+    <link rel="stylesheet" href="plugins/aos/aos.css">
+    <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
+    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="plugins/animated-text/animated-text.css">
     <!-- STYLES -->
-
+    <!-- MAIN STYLES -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- MAIN STYLES -->
 </head>
-<!-- HEAD -->
-<!-- BODY -->
-<body class="stretched dark device-xxl device-up-xxl device-up-xl device-up-lg device-up-md device-up-sm device-up-xs is-expanded-menu has-plugin-bootstrap has-plugin-isotope has-plugin-isotope-filter has-plugin-swiper has-plugin-countdown has-plugin-form has-plugin-notify has-plugin-lazyload has-plugin-flexslider" style="">
+    <!-- HEAD -->
+    <!-- BODY -->
+    <body>
 
-    <!-- LOADER -->
-    <div id="particles-nasa"><canvas class="particles-js-canvas-el" width="3360" height="1704" style="width: 100%; height: 100%;"></canvas></div>
-    <!-- LOADER -->
-    <!-- APP -->
-    <div id="app">
+        <!-- LOADER -->
+        <div id="particles-nasa"><canvas class="particles-js-canvas-el" width="3360" height="1704" style="width: 100%; height: 100%;"></canvas></div>
+        <!-- LOADER -->
 
-    </div>
-    <!-- APP -->
-    <!-- Go To Top -->
-    <div id="gotoTop" class="uil uil-angle-up"></div>
-    <!-- Go To Top -->
-    <!-- Start Single Page Apps for GitHub Pages -->
-    <script type="text/javascript">(function (l) {
-            if (l.search) {
-                var q = {};
-                l.search.slice(1).split('&').forEach(function (v) {
-                    var a = v.split('=');
-                    q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+        <!-- APP -->
+        <div id="app">
+
+        </div>
+        <!-- APP -->
+        <!-- Go To Top -->
+        <div id="gotoTop" class="uil uil-angle-up"></div>
+        <!-- Go To Top -->
+        <!-- Start Single Page Apps for GitHub Pages -->
+        <script type="text/javascript">(function (l) {
+                if (l.search) {
+                    var q = {};
+                    l.search.slice(1).split('&').forEach(function (v) {
+                        var a = v.split('=');
+                        q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+                    });
+                    if (q.p !== undefined) {
+                        window.history.replaceState(null, null,
+                            l.pathname.slice(0, -1) + (q.p || '') +
+                            (q.q ? ('?' + q.q) : '') +
+                            l.hash
+                        );
+                    }
+                }
+            }(window.location))</script>
+        <!-- End Single Page Apps for GitHub Pages -->
+        <!-- WEB Assembly | DotNet Core -->
+        <script src="_framework/blazor.webassembly.js"></script>
+        <script>navigator.serviceWorker.register('service-worker.js');</script>
+        <script src="_content/MudBlazor/MudBlazor.min.js"></script>
+        <!-- WEB Assembly | DotNet Core -->
+        <!-- Theme JS -->
+        <script src="LandingPage/js/plugins.min.js"></script>
+        <script src="LandingPage/js/functions.bundle.js"></script>
+        <script src="LandingPage/js/swiper-element-bundle.min.js"></script>
+        <script src="LandingPage/js/particles.min.js"></script>
+        <script src="LandingPage/js/particles-nasa.js"></script>
+
+        <script>// Countdown
+            jQuery(document).ready(function () {
+                jQuery('.nft-counter').countdown({ until: '+22d23m', compact: true });
+
+                var swiper = new Swiper(".swiper-container", {
+                    effect: "cards",
+                    grabCursor: true,
+                    cardsEffect: {
+                        slideShadows: false
+                    }
+
                 });
-                if (q.p !== undefined) {
-                    window.history.replaceState(null, null,
-                        l.pathname.slice(0, -1) + (q.p || '') +
-                        (q.q ? ('?' + q.q) : '') +
-                        l.hash
-                    );
-                }
-            }
-        }(window.location))</script>
-    <!-- End Single Page Apps for GitHub Pages -->
-    <!-- WEB Assembly | DotNet Core -->
-    <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
-    <script src="_content/MudBlazor/MudBlazor.min.js"></script>
-    <!-- WEB Assembly | DotNet Core -->
-    <!-- Theme JS -->
-    <script src="LandingPage/js/plugins.min.js"></script>
-    <script src="LandingPage/js/functions.bundle.js"></script>
-    <script src="LandingPage/js/swiper-element-bundle.min.js"></script>
-    <script src="LandingPage/js/particles.min.js"></script>
-    <script src="LandingPage/js/particles-nasa.js"></script>
 
-    <script>// Countdown
-        jQuery(document).ready(function () {
-            jQuery('.nft-counter').countdown({ until: '+22d23m', compact: true });
+            });</script>
 
-            var swiper = new Swiper(".swiper-container", {
-                effect: "cards",
-                grabCursor: true,
-                cardsEffect: {
-                    slideShadows: false
-                }
+        <script id="canvas-gtag-js" src="LandingPage/js/custom.js" async="" defer=""></script>
+        <!-- Theme JS -->
 
-            });
-
-        });
-    </script>
-
-    <script id="canvas-gtag-js" src="LandingPage/js/custom.js" async="" defer=""></script>
-    <!-- Theme JS -->
-
-</body>
-<!-- BODY -->
+    </body>
+    <!-- BODY -->
 </html>
