@@ -19,11 +19,9 @@
     <Folder Include="Pages\LandingPages\" />
     <Folder Include="Pages\LandingPages\Swipers\" />
     <Folder Include="Site-Data\" />
-    <Folder Include="wwwroot\Logo\" />
     <Folder Include="wwwroot\images\blog\" />
     <Folder Include="wwwroot\images\portfolio\" />
     <Folder Include="wwwroot\js\" />
-    <Folder Include="wwwroot\plugins\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
@@ -31,7 +29,6 @@
     <None Remove="Site-Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Remove="wwwroot\Logo\" />
     <Content Remove="wwwroot\css\style.css" />
     <Content Remove="wwwroot\css\style.css.map" />
     <Content Remove="wwwroot\images\blog\01.jpg" />
@@ -109,7 +106,6 @@
     <Content Remove="wwwroot\plugins\themify\fonts\themify.svg" />
     <Content Remove="wwwroot\plugins\themify\fonts\themify.ttf" />
     <Content Remove="wwwroot\plugins\themify\fonts\themify.woff" />
-    <Content Remove="wwwroot\plugins\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\css\style.css" />
