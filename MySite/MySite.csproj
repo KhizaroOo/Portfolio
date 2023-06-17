@@ -16,23 +16,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\LandingPage\" />
-    <Content Remove="wwwroot\LandingPage\css\" />
-    <Content Remove="wwwroot\LandingPage\js\" />
-    <Content Remove="wwwroot\LandingPage\img\" />
-    <Content Remove="wwwroot\LandingPage\fonts\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="wwwroot\LandingPage\" />
-    <Folder Include="wwwroot\LandingPage\css\" />
-    <Folder Include="wwwroot\LandingPage\js\" />
-    <Folder Include="wwwroot\LandingPage\img\" />
     <Folder Include="Pages\LandingPages\" />
-    <Folder Include="wwwroot\LandingPage\fonts\" />
     <Folder Include="Pages\LandingPages\Swipers\" />
+    <Folder Include="Site-Data\" />
+    <Folder Include="wwwroot\Logo\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
     <None Remove="Pages\LandingPages\Swipers\" />
+    <None Remove="Site-Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Logo\" />
   </ItemGroup>
 </Project>
