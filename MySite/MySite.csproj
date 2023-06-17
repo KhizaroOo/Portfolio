@@ -20,6 +20,8 @@
     <Folder Include="Pages\LandingPages\Swipers\" />
     <Folder Include="Site-Data\" />
     <Folder Include="wwwroot\Logo\" />
+    <Folder Include="wwwroot\images\blog\" />
+    <Folder Include="wwwroot\images\portfolio\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
@@ -28,5 +30,73 @@
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\Logo\" />
+    <Content Remove="wwwroot\css\style.css" />
+    <Content Remove="wwwroot\css\style.css.map" />
+    <Content Remove="wwwroot\images\blog\01.jpg" />
+    <Content Remove="wwwroot\images\blog\author1.jpg" />
+    <Content Remove="wwwroot\images\blog\author2.jpg" />
+    <Content Remove="wwwroot\images\blog\author3.jpg" />
+    <Content Remove="wwwroot\images\blog\minimal-1.jpg" />
+    <Content Remove="wwwroot\images\blog\minimal-2.jpg" />
+    <Content Remove="wwwroot\images\blog\minimal-3.jpg" />
+    <Content Remove="wwwroot\images\blog\minimal-4.jpg" />
+    <Content Remove="wwwroot\images\blog\s-1.jpg" />
+    <Content Remove="wwwroot\images\blog\s-2.jpg" />
+    <Content Remove="wwwroot\images\blog\" />
+    <Content Remove="wwwroot\images\portfolio\02.jpg" />
+    <Content Remove="wwwroot\images\portfolio\1.jpg" />
+    <Content Remove="wwwroot\images\portfolio\2.jpg" />
+    <Content Remove="wwwroot\images\portfolio\3.jpg" />
+    <Content Remove="wwwroot\images\portfolio\4.jpg" />
+    <Content Remove="wwwroot\images\portfolio\5.jpg" />
+    <Content Remove="wwwroot\images\portfolio\6.jpg" />
+    <Content Remove="wwwroot\images\portfolio\7.jpg" />
+    <Content Remove="wwwroot\images\portfolio\9.jpg" />
+    <Content Remove="wwwroot\images\portfolio\bag.jpg" />
+    <Content Remove="wwwroot\images\portfolio\bottle.jpg" />
+    <Content Remove="wwwroot\images\portfolio\m-3.jpg" />
+    <Content Remove="wwwroot\images\portfolio\" />
+    <Content Remove="wwwroot\images\about-img.jpg" />
+    <Content Remove="wwwroot\images\bg-3.jpg" />
+    <Content Remove="wwwroot\images\Header-bg.png" />
+    <Content Remove="wwwroot\images\home-2.jpg" />
+    <Content Remove="wwwroot\images\logo.png" />
+    <Content Remove="wwwroot\images\pattern-short.png" />
+    <Content Remove="wwwroot\images\profile.jpg" />
+    <Content Remove="wwwroot\images\signature.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\css\style.css.map" />
+    <None Include="wwwroot\images\blog\01.jpg" />
+    <None Include="wwwroot\images\blog\author1.jpg" />
+    <None Include="wwwroot\images\blog\author2.jpg" />
+    <None Include="wwwroot\images\blog\author3.jpg" />
+    <None Include="wwwroot\images\blog\minimal-1.jpg" />
+    <None Include="wwwroot\images\blog\minimal-2.jpg" />
+    <None Include="wwwroot\images\blog\minimal-3.jpg" />
+    <None Include="wwwroot\images\blog\minimal-4.jpg" />
+    <None Include="wwwroot\images\blog\s-1.jpg" />
+    <None Include="wwwroot\images\blog\s-2.jpg" />
+    <None Include="wwwroot\images\portfolio\02.jpg" />
+    <None Include="wwwroot\images\portfolio\1.jpg" />
+    <None Include="wwwroot\images\portfolio\2.jpg" />
+    <None Include="wwwroot\images\portfolio\3.jpg" />
+    <None Include="wwwroot\images\portfolio\4.jpg" />
+    <None Include="wwwroot\images\portfolio\5.jpg" />
+    <None Include="wwwroot\images\portfolio\6.jpg" />
+    <None Include="wwwroot\images\portfolio\7.jpg" />
+    <None Include="wwwroot\images\portfolio\9.jpg" />
+    <None Include="wwwroot\images\portfolio\bag.jpg" />
+    <None Include="wwwroot\images\portfolio\bottle.jpg" />
+    <None Include="wwwroot\images\portfolio\m-3.jpg" />
+    <None Include="wwwroot\images\about-img.jpg" />
+    <None Include="wwwroot\images\bg-3.jpg" />
+    <None Include="wwwroot\images\Header-bg.png" />
+    <None Include="wwwroot\images\home-2.jpg" />
+    <None Include="wwwroot\images\logo.png" />
+    <None Include="wwwroot\images\pattern-short.png" />
+    <None Include="wwwroot\images\profile.jpg" />
+    <None Include="wwwroot\images\signature.png" />
   </ItemGroup>
 </Project>
