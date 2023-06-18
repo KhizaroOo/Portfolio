@@ -1,74 +1,128 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
+/*
+    Website     https://www.khizooo.com
+    LinkedIn    https://www.linkedin.com/in/khizar-imtiaz
+    Facebook    https://www.facebook.com/khizoooartist
+    Twitter	    https://twitter.com/khizaroo
+    Instagram   https://www.instagram.com/khizooo_art
+    Pinterest   https://www.pinterest.com/KhizoOo_
+    Blogger     https://khizooo.blogspot.com
+    OpenSea     https://opensea.io/KhizoOo_
+*/
 
 
 
 (function ($) {
+
     'use strict';
+
+    // GENERAL
+    var Shuffle = window.Shuffle;
+    var jQuery = window.jQuery;
     
-AOS.init({
-    once: true
-});
 
-    // ----------------------- 
-        // Progress Bar--------------------
-        // 
-        // 
+    { // Animate On Scroll Library
 
-    $(window).on ('load', function (){ 
-          
-        $('.progress-bar').each(function(){
-                var width = $(this).data('percent');
-                $(this).css({'transition': 'width 3s'});
-                $(this).appear(function() {
-                    console.log('hello');
-                    $(this).css('width', width + '%');
-                    $(this).find('.count').countTo({
-                        from: 0,
-                        to: width,
-                        speed: 3000,
-                        refreshInterval: 50
+        try
+        {
+            AOS.init({ once: true });
+        }
+        catch (E) { console.log("Animate On Scroll Library"); }
+        
+    }
+
+    { // Progress Bar
+
+        try {
+            $(window).on('load', function () {
+                $('.progress-bar').each(function () {
+                    var width = $(this).data('percent');
+                    $(this).css({ 'transition': 'width 3s' });
+                    $(this).appear(function () {
+                        console.log('hello');
+                        $(this).css('width', width + '%');
+                        $(this).find('.count').countTo({
+                            from: 0,
+                            to: width,
+                            speed: 3000,
+                            refreshInterval: 50
+                        });
                     });
                 });
             });
-        }); 
-
-    $('.owl-carousel').owlCarousel({
-        items:1,
-        loop:true,
-        autoplay:true,
-        dots:false,
-        autoplayTimeout:8000
-    });
-
-    // Shuffle js filter and masonry
-    var Shuffle = window.Shuffle;
-    var jQuery = window.jQuery;
-
-    var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
-        itemSelector: '.shuffle-item',
-        buffer: 1
-    });
-
-    jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
-        var input = evt.currentTarget;
-        if (input.checked) {
-            myShuffle.filter(input.value);
         }
-    });
+        catch (E) { console.log("Progress Bar"); }
 
-     $('.portfolio-gallery').each(function () {
-        $(this).find('.popup-gallery').magnificPopup({
-            type: 'image',
-            gallery: {
-                enabled: true
-            }
-        });
-    });
+    }
 
+    { // OWL Carousel
+
+        try {
+            $('.owl-carousel').owlCarousel({
+                items: 1,
+                loop: true,
+                autoplay: true,
+                dots: false,
+                autoplayTimeout: 8000
+            });
+        }
+        catch (E) { console.log("OWL Carousel"); }
+
+    }
+
+    { // Art Shuffle
+
+        try {
+            var ArtShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-art'), {
+                itemSelector: '.shuffle-item',
+                buffer: 1
+            });
+
+            jQuery('.shuffle-wrapper-art input[name="shuffle-filter"]').on('change', function (evt) {
+                var input = evt.currentTarget;
+                if (input.checked) {
+                    ArtShuffle.filter(input.value);
+                }
+            });
+
+            $('.shuffle-wrapper-art .portfolio-gallery').each(function () {
+                $(this).find('.popup-gallery').magnificPopup({
+                    type: 'image',
+                    gallery: {
+                        enabled: true
+                    }
+                });
+            });
+        }
+        catch (E) { console.log("Art Shuffle"); }
+
+    }
+
+    { // Tech Shuffle
+
+        try {
+            var TechShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-tech'), {
+                itemSelector: '.shuffle-item',
+                buffer: 1
+            });
+
+            jQuery('.shuffle-wrapper-tech input[name="shuffle-filter"]').on('change', function (evt) {
+                var input = evt.currentTarget;
+                if (input.checked) {
+                    TechShuffle.filter(input.value);
+                }
+            });
+
+            $('.shuffle-wrapper-tech .portfolio-gallery').each(function () {
+                $(this).find('.popup-gallery').magnificPopup({
+                    type: 'image',
+                    gallery: {
+                        enabled: true
+                    }
+                });
+            });
+        }
+        catch (E) { console.log("Tech Shuffle"); }
+
+    }
 
 })(jQuery);

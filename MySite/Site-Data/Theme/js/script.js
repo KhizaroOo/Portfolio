@@ -1,18 +1,20 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
+/*
+    Website     https://www.khizooo.com
+    LinkedIn    https://www.linkedin.com/in/khizar-imtiaz
+    Facebook    https://www.facebook.com/khizoooartist
+    Twitter	    https://twitter.com/khizaroo
+    Instagram   https://www.instagram.com/khizooo_art
+    Pinterest   https://www.pinterest.com/KhizoOo_
+    Blogger     https://khizooo.blogspot.com
+    OpenSea     https://opensea.io/KhizoOo_
+*/
 
 
 
 (function ($) {
     'use strict';
     
-AOS.init({
-    once: true
-});
+   AOS.init({ once: true });
 
     // ----------------------- 
         // Progress Bar--------------------

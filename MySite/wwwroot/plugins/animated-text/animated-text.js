@@ -1,4 +1,17 @@
-jQuery(document).ready(function($){
+/*
+	Website     https://www.khizooo.com
+	LinkedIn    https://www.linkedin.com/in/khizar-imtiaz
+	Facebook    https://www.facebook.com/khizoooartist
+	Twitter	    https://twitter.com/khizaroo
+	Instagram   https://www.instagram.com/khizooo_art
+	Pinterest   https://www.pinterest.com/KhizoOo_
+	Blogger     https://khizooo.blogspot.com
+	OpenSea     https://opensea.io/KhizoOo_
+*/
+
+(function ($) {
+	'use strict';
+
 	//set animation timing
 	var animationDelay = 2500,
 		//loading bar effect
@@ -46,12 +59,13 @@ jQuery(document).ready(function($){
 			if(headline.hasClass('loading-bar')) {
 				duration = barAnimationDelay;
 				setTimeout(function(){ headline.find('.cd-words-wrapper').addClass('is-loading') }, barWaiting);
-			} else if (headline.hasClass('clip')){
+			}
+			else if (headline.hasClass('clip')) {
 				var spanWrapper = headline.find('.cd-words-wrapper'),
 					newWidth = spanWrapper.width() + 10
 				spanWrapper.css('width', newWidth);
-			} else if (!headline.hasClass('type') ) {
-				//assign to .cd-words-wrapper the width of its longest word
+			}
+			else if (!headline.hasClass('type')) {
 				var words = headline.find('.cd-words-wrapper b'),
 					width = 0;
 				words.each(function(){
@@ -151,4 +165,5 @@ jQuery(document).ready(function($){
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
-});
+
+})(jQuery);

@@ -1,30 +1,28 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
             <Node name="MySite" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="LandingPages" expanded="True" />
+              </Node>
               <Node name="Site-Data" expanded="True">
                 <Node name="Theme" expanded="True">
-                  <Node name="images" expanded="True" />
+                  <Node name="plugins" expanded="True" />
+                  <Node name="index.html" selected="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="images" expanded="True">
-                  <Node name="portfolio" selected="True" />
-                </Node>
-                <Node name="sample-data" expanded="True" />
-                <Node name="SiteIcons" expanded="True" />
-              </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

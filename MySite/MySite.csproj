@@ -22,11 +22,13 @@
     <Folder Include="wwwroot\images\blog\" />
     <Folder Include="wwwroot\images\portfolio\" />
     <Folder Include="wwwroot\js\" />
+    <Folder Include="Pages\LandingPages\Listings\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
     <None Remove="Pages\LandingPages\Swipers\" />
     <None Remove="Site-Data\" />
+    <None Remove="Pages\LandingPages\Listings\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\css\style.css" />
@@ -64,7 +66,6 @@
     <Content Remove="wwwroot\images\profile.jpg" />
     <Content Remove="wwwroot\images\signature.png" />
     <Content Remove="wwwroot\js\" />
-    <Content Remove="wwwroot\js\contact.js" />
     <Content Remove="wwwroot\js\script.js" />
     <Content Remove="wwwroot\plugins\.DS_Store" />
     <Content Remove="wwwroot\plugins\animated-text\animated-text.css" />
@@ -140,7 +141,6 @@
     <None Include="wwwroot\images\pattern-short.png" />
     <None Include="wwwroot\images\profile.jpg" />
     <None Include="wwwroot\images\signature.png" />
-    <None Include="wwwroot\js\contact.js" />
     <None Include="wwwroot\js\script.js" />
     <None Include="wwwroot\plugins\.DS_Store" />
     <None Include="wwwroot\plugins\animated-text\animated-text.css" />

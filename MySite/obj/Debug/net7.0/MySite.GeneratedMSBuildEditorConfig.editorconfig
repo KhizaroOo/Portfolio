@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/AboutMySelf.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0Fib3V0TXlTZWxmLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Content.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0NvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Listings/ArtListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0xpc3RpbmdzL0FydExpc3RpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Listings/TechListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0xpc3RpbmdzL1RlY2hMaXN0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/MyExperience.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL015RXhwZXJpZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1N3aXBlcnMvQXJ0c19Td2lwZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1N3aXBlcnMvVGVjaF9Td2lwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/TopBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1RvcEJhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Shared/SurveyPrompt.razor]
