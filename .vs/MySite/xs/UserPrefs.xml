@@ -1,24 +1,22 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/LandingPages/Header.razor">
+    <Files>
+      <File FileName="MySite/Site-Data/Theme/index.html" />
+      <File FileName="MySite/Site-Data/Theme/plugins/animated-text/animated-text.js" />
+      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.js" />
+      <File FileName="MySite/wwwroot/js/script.js" />
+      <File FileName="MySite/wwwroot/index.html" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="38" Column="1" />
+      <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" Line="5" Column="78" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="203" Column="29" />
+      <File FileName="MySite/Pages/LandingPages/Footer.razor" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite" expanded="True">
-            <Node name="MySite" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="LandingPages" expanded="True" />
-              </Node>
-              <Node name="Site-Data" expanded="True">
-                <Node name="Theme" expanded="True">
-                  <Node name="plugins" expanded="True" />
-                  <Node name="index.html" selected="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="MySite" expanded="True" />
         </State>
       </Pad>
     </Pads>

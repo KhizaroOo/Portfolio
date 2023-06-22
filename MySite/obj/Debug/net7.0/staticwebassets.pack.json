@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Header.razor.js",
+      "PackagePath": "staticwebassets/Pages/LandingPages/Header.razor.js"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
