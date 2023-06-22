@@ -13,16 +13,15 @@
 
 <html lang="en">
 
-    <!-- HEAD -->
+<!-- HEAD -->
 <head>
 
     <!-- Common META -->
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="author" content="KhizoOo">
-    <link rel="icon" type="image/png" href="Favicons/favicon-16.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="KhizoOo-Theme-01" content="KhizoOo" />
+    <link rel="icon" type="image/png" href="Favicons/favicon-16.png" />
     <!-- Common META -->
     <!-- For Github Pages -->
     <base href="/" />
@@ -35,14 +34,16 @@
     <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="plugins/animated-text/animated-text.css">
+    <!-- <link rel="stylesheet" href="plugins/animated-text/animated-text.css"> -->
     <!-- STYLES -->
     <!-- MAIN STYLES -->
     <link href="css/style.css" rel="stylesheet">
     <!-- MAIN STYLES -->
+
+
 </head>
-    <!-- HEAD -->
-    <!-- BODY -->
+<!-- HEAD -->
+<!-- BODY -->
 <body>
 
     <!-- LOADER -->
@@ -54,6 +55,8 @@
     <!-- APP -->
     <!-- Go To Top -->
     <!-- Go To Top -->
+    <!-- WEB Assembly | DotNet Core -->
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">(function (l) {
             if (l.search) {
@@ -72,11 +75,33 @@
             }
         }(window.location))</script>
     <!-- End Single Page Apps for GitHub Pages -->
-    <!-- WEB Assembly | DotNet Core -->
-    <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
     <!-- WEB Assembly | DotNet Core -->
+
+
+    <script>Blazor.start().then(function () {
+            Load_My_Script("plugins/jQuery/jquery.min.js");
+            Load_My_Script("plugins/bootstrap/bootstrap.min.js");
+            Load_My_Script("plugins/aos/aos.js");
+            Load_My_Script("plugins/owl-carousel/owl.carousel.min.js");
+            Load_My_Script("plugins/shuffle/shuffle.min.js");
+            Load_My_Script("plugins/magnific-popup/jquery.magnific-popup.min.js");
+            Load_My_Script("plugins/counto/apear.js");
+            Load_My_Script("plugins/counto/counTo.js");
+            Load_My_Script("js/script.js");
+        });
+
+
+        function Load_My_Script(url) {
+            var head = document.getElementsByTagName('body')[0];
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = url;
+            head.appendChild(script);
+        }</script>
+
+
     <!-- Theme JS -->
     <!-- jQuery -->
     <script src="plugins/jQuery/jquery.min.js"></script>
@@ -88,14 +113,19 @@
     <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script src="plugins/counto/apear.js"></script>
     <script src="plugins/counto/counTo.js"></script>
-    <script src="plugins/animated-text/animated-text.js"></script>
+    <!-- <script src="plugins/animated-text/animated-text.js"></script> -->
     <!-- Bootstrap JS -->
-    <!-- Main Script -->
+    <!-- Main Script --
     <script src="js/script.js"></script>
     <!-- Main Script -->
     <!-- Theme JS -->
 
 </body>
-    <!-- BODY -->
+<!-- BODY -->
 
 </html>
+
+
+
+
+
