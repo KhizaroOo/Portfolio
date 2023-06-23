@@ -1,29 +1,66 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/LandingPages/Header.razor">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/LandingPages/AboutMySelf.razor">
     <Files>
-      <File FileName="MySite/Site-Data/Theme/index.html" />
-      <File FileName="MySite/Site-Data/Theme/plugins/animated-text/animated-text.js" />
-      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.js" />
-      <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/wwwroot/index.html" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="38" Column="1" />
+      <File FileName="MySite/Site-Data/Theme/index.html" Line="37" Column="1" />
+      <File FileName="MySite/Site-Data/Theme/plugins/animated-text/animated-text.js" Line="30" Column="32" />
+      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.js" Line="24" Column="43" />
+      <File FileName="MySite/wwwroot/js/script.js" Line="181" Column="51" />
+      <File FileName="MySite/wwwroot/index.html" Line="13" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="83" Column="11" />
       <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" Line="5" Column="78" />
       <File FileName="MySite/wwwroot/css/style.css" Line="203" Column="29" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
+      <File FileName="MySite/Pages/LandingPages/MyExperience.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="23" Column="1" />
+      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.css" Line="1059" Column="20" />
+      <File FileName="MySite/wwwroot/css/app.css" Line="1" Column="1" />
+      <File FileName="MySite/Site-Data/Theme/plugins/bootstrap/bootstrap.min.css" Line="7" Column="31" />
+      <File FileName="MySite/wwwroot/plugins/counto/animate.css" Line="1" Column="1" />
+      <File FileName="MySite/wwwroot/plugins/counto/counTo.js" Line="1" Column="1" />
+      <File FileName="MySite/wwwroot/plugins/counto/apear.js" Line="1" Column="1" />
+      <File FileName="MySite/Pages/Index.razor" Line="6" Column="1" />
+      <File FileName="MySite/Pages/LandingPage.razor" Line="5" Column="22" />
+      <File FileName="MySite/wwwroot/service-worker.js" Line="4" Column="4" />
+      <File FileName="MySite/App.razor" Line="1" Column="1" />
+      <File FileName="MySite/_Imports.razor" Line="1" Column="1" />
+      <File FileName="MySite/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="MySite/Program.cs" Line="17" Column="31" />
+      <File FileName="MySite/wwwroot/manifest.json" Line="1" Column="1" />
+      <File FileName="MySite/wwwroot/service-worker.published.js" Line="45" Column="6" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor.js" Line="4" Column="12" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="36" Column="55" />
+      <File FileName="MySite/Pages/LandingPages/Content.razor" Line="5" Column="1" />
+      <File FileName="MySite/Site-Data/Theme/css/style.css" Line="27" Column="3" />
+      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" Line="94" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="16" Column="120" />
+      <File FileName="MySite/Pages/Index.razor" Line="13" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite" expanded="True" />
+          <Node name="MySite" expanded="True">
+            <Node name="MySite" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="LandingPages" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" selected="True" />
+                <Node name="js" expanded="True" />
+                <Node name="service-worker.js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>

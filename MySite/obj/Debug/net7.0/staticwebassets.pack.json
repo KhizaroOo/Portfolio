@@ -69,8 +69,36 @@
       "PackagePath": "staticwebassets/icon-512.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-01.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-01.svg"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/l-logo.png",
       "PackagePath": "staticwebassets/images/l-logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.jpg",
+      "PackagePath": "staticwebassets/images/myPics/01.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.png",
+      "PackagePath": "staticwebassets/images/myPics/01.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/02.png",
+      "PackagePath": "staticwebassets/images/myPics/02.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/03.png",
+      "PackagePath": "staticwebassets/images/myPics/03.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/k.ico",
+      "PackagePath": "staticwebassets/images/myPics/k.ico"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/s-logo.png",
@@ -107,6 +135,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/S-Logo.png",
       "PackagePath": "staticwebassets/logo/S-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/T-Logo.png",
+      "PackagePath": "staticwebassets/logo/T-Logo.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/XL-Logo.png",
