@@ -77,6 +77,14 @@
       "PackagePath": "staticwebassets/images/bcg/bcg-01.svg"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-02.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-02.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-03.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-03.svg"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/l-logo.png",
       "PackagePath": "staticwebassets/images/l-logo.png"
     },
@@ -99,6 +107,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/k.ico",
       "PackagePath": "staticwebassets/images/myPics/k.ico"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/my_signature.png",
+      "PackagePath": "staticwebassets/images/myPics/my_signature.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/s-logo.png",
@@ -127,6 +139,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/M-Logo.png",
       "PackagePath": "staticwebassets/logo/M-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/New-Logo.png",
+      "PackagePath": "staticwebassets/logo/New-Logo.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/OK-Logo.png",
@@ -171,6 +187,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/Logo.psd",
       "PackagePath": "staticwebassets/psd/Logo.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/New-Logo.psd",
+      "PackagePath": "staticwebassets/psd/New-Logo.psd"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/sample-data/weather.json",

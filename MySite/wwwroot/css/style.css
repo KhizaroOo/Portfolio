@@ -20,17 +20,19 @@ html {
 }
 
 body {
-  font-family: "Lato", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  font-size: 16px;
-  font-weight: 400;
-  letter-spacing: 0.166667px;
-  line-height: 1.7em;
-  color: #818385;
+    font-family: "Lato", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.166667px;
+    line-height: 1.7em;
+    color: #818385;
+    background-image: url("../images/bcg/bcg-03.svg");
+    
 }
 
 p {
-  color: #818385;
+  color: #000;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
@@ -73,7 +75,7 @@ h6, .h6 {
 }
 
 .section {
-  padding: 120px 0px;
+  padding: 80px 0px;
 }
 
 .section-sm {
@@ -97,7 +99,7 @@ h6, .h6 {
 }
 
 .btn-main {
-  background: #f44336;
+  background: #e84b3c;
   color: #fff;
 }
 .btn-main:hover {
@@ -110,7 +112,7 @@ h6, .h6 {
   color: #fff;
 }
 .btn-black:hover {
-  background: #f44336;
+  background: #e84b3c;
   color: #fff;
 }
 
@@ -129,13 +131,13 @@ a {
   transition: all 0.25s ease;
 }
 a:hover {
-  color: #f44336;
+  color: #e84b3c;
   text-decoration: none;
   outline: none;
 }
 
 .bg-primary {
-  background: #f44336 !important;
+  background: #e84b3c !important;
 }
 
 .bg-secondary {
@@ -147,7 +149,7 @@ a:hover {
 }
 
 .text-color {
-  color: #f44336;
+  color: #e84b3c;
 }
 
 .page-title h1 {
@@ -162,7 +164,7 @@ a:hover {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #e84b3c;
 }
 
 @media (max-width: 575px) {
@@ -227,7 +229,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
   text-transform: uppercase;
 }
 ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hover {
-  color: #f44336;
+  color: #e84b3c;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
@@ -352,14 +354,14 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   font-weight: 700;
 }
 .portfolio .btn-group .btn:hover {
-  color: #f44336;
+  color: #e84b3c;
 }
 .portfolio .btn-group:not(:first-child) > .btn, .portfolio .btn-group > .btn:not(:first-child) {
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
 }
 .portfolio .btn.active {
-  color: #f44336;
+  color: #e84b3c;
 }
 
 .inner-box {
@@ -583,7 +585,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 .form-control:focus {
   box-shadow: none;
-  border-color: #f44336;
+  border-color: #e84b3c;
 }
 
 textarea.form-control {
@@ -606,7 +608,7 @@ textarea.form-control {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #e84b3c;
 }
 
 .letter-spacing {
@@ -632,7 +634,7 @@ textarea.form-control {
   transition: all 0.35s ease;
 }
 .post .post-content a:hover h4 {
-  color: #f44336;
+  color: #e84b3c;
 }
 
 .pagination {
@@ -648,11 +650,11 @@ textarea.form-control {
   transition: 0.3s;
 }
 .pagination li a:hover {
-  background: #f44336;
+  background: #e84b3c;
   color: #fff;
 }
 .pagination li.active a {
-  background: #f44336;
+  background: #e84b3c;
   color: #fff;
 }
 
@@ -749,6 +751,6 @@ textarea.form-control {
   text-transform: capitalize;
 }
 .footer-widget a:hover {
-  color: #f44336;
+  color: #e84b3c;
 }
 /*# sourceMappingURL=style.css.map */
