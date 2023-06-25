@@ -6,57 +6,37 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/wwwroot/css/style.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/LandingPages/TopBanner.razor">
     <Files>
-      <File FileName="MySite/Site-Data/Theme/index.html" />
-      <File FileName="MySite/Site-Data/Theme/plugins/animated-text/animated-text.js" />
-      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.js" />
-      <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/wwwroot/index.html" Line="13" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="88" Column="2" />
-      <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
-      <File FileName="MySite/wwwroot/css/style.css" Line="696" Column="29" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="9" Column="13" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="29" Column="35" />
+      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" Line="2" Column="1" />
+      <File FileName="MySite/Pages/Index.razor" Line="14" Column="9" />
+      <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" Line="9" Column="5" />
+      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" Line="104" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="9" Column="64" />
+      <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" Line="7" Column="73" />
+      <File FileName="MySite/wwwroot/js/script.js" Line="103" Column="68" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="31" Column="5" />
       <File FileName="MySite/Pages/LandingPages/MyExperience.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="23" Column="1" />
-      <File FileName="MySite/wwwroot/plugins/animated-text/animated-text.css" />
-      <File FileName="MySite/wwwroot/css/app.css" />
-      <File FileName="MySite/Site-Data/Theme/plugins/bootstrap/bootstrap.min.css" />
-      <File FileName="MySite/wwwroot/plugins/counto/animate.css" />
-      <File FileName="MySite/wwwroot/plugins/counto/counTo.js" />
-      <File FileName="MySite/wwwroot/plugins/counto/apear.js" />
-      <File FileName="MySite/Pages/Index.razor" Line="14" Column="10" />
-      <File FileName="MySite/Pages/LandingPage.razor" />
-      <File FileName="MySite/wwwroot/service-worker.js" />
-      <File FileName="MySite/App.razor" />
-      <File FileName="MySite/_Imports.razor" />
-      <File FileName="MySite/MainLayout.razor" />
-      <File FileName="MySite/Program.cs" />
-      <File FileName="MySite/wwwroot/manifest.json" />
-      <File FileName="MySite/wwwroot/service-worker.published.js" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor.js" />
-      <File FileName="MySite/Pages/LandingPages/Content.razor" />
-      <File FileName="MySite/Site-Data/Theme/css/style.css" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
-      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" Line="1" Column="1" />
-      <File FileName="MySite/wwwroot/404.html" />
-      <File FileName="MySite/Pages/Index.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="8" Column="29" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" Line="1" Column="1" />
-      <File FileName="MySite/Site-Data/Theme/css/style.css" Line="30" Column="20" />
+      <File FileName="MySite/wwwroot/index.html" Line="104" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
             <Node name="MySite" expanded="True">
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="style.css" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="LandingPages" expanded="True">
+                  <Node name="TopBanner.razor" selected="True" />
                 </Node>
-                <Node name="images" expanded="True" />
-                <Node name="js" expanded="True" />
-                <Node name="service-worker.js" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="plugins" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

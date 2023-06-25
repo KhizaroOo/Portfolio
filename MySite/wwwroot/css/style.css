@@ -535,6 +535,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 .about-list li {
   text-transform: capitalize;
   color: #000;
+  font-weight: 700;
 }
 
 .progress {
@@ -754,3 +755,12 @@ textarea.form-control {
   color: #e84b3c;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+/* Fixed Social */
+
+.social-img {
+    width: 95px;
+}
+
+/* Fixed Social */

@@ -145,6 +145,10 @@
       "PackagePath": "staticwebassets/logo/New-Logo.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/OK-Logo-S.png",
+      "PackagePath": "staticwebassets/logo/OK-Logo-S.png"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/OK-Logo.png",
       "PackagePath": "staticwebassets/logo/OK-Logo.png"
     },
@@ -181,8 +185,16 @@
       "PackagePath": "staticwebassets/plugins/themify/.DS_Store"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo.psd",
-      "PackagePath": "staticwebassets/psd/KhizoOo-Logo.psd"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-L.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-L.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-M.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-M.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-S.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-S.psd"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/Logo.psd",
