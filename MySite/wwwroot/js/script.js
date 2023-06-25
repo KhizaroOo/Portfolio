@@ -74,7 +74,7 @@
         try {
             var ArtShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-art'), {
                 itemSelector: '.shuffle-item',
-                buffer: 2
+                buffer: 4
             });
 
             jQuery('.shuffle-wrapper-art input[name="shuffle-filter"]').on('change', function (evt) {
@@ -102,7 +102,7 @@
         try {
             var TechShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-tech'), {
                 itemSelector: '.shuffle-item',
-                buffer: 1
+                buffer: 4
             });
 
             jQuery('.shuffle-wrapper-tech input[name="shuffle-filter"]').on('change', function (evt) {
