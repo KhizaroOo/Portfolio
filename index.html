@@ -34,7 +34,6 @@
     <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
-    <!-- <link rel="stylesheet" href="plugins/animated-text/animated-text.css"> -->
     <!-- STYLES -->
     <!-- MAIN STYLES -->
     <link href="css/style.css" rel="stylesheet">
@@ -81,7 +80,19 @@
 
 
     <script>Blazor.start().then(function () {
+
+    
+
+
+        setTimeout(function () {
+
             Load_My_Script("plugins/jQuery/jquery.min.js");
+
+        }, 1000);
+
+
+        setTimeout(function () {
+
             Load_My_Script("plugins/bootstrap/bootstrap.min.js");
             Load_My_Script("plugins/aos/aos.js");
             Load_My_Script("plugins/owl-carousel/owl.carousel.min.js");
@@ -90,16 +101,21 @@
             Load_My_Script("plugins/counto/apear.js");
             Load_My_Script("plugins/counto/counTo.js");
             Load_My_Script("js/script.js");
-        });
 
+        }, 2000);
 
-        function Load_My_Script(url) {
-            var head = document.getElementsByTagName('body')[0];
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.src = url;
-            head.appendChild(script);
-        }</script>
+         
+    });
+
+    function Load_My_Script(url) {
+        var head = document.getElementsByTagName('body')[0];
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = url;
+        head.appendChild(script);
+    }
+
+    </script>
 
 </body>
 <!-- BODY -->
