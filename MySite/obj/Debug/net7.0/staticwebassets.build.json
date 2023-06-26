@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a2MNg0UvMsSpQ2cebOj6YGqo2p86J1d4vCKoIDC6nhQ=",
+  "Hash": "KrdylVm3mYcEpfLfU5JPOOgCHJXey5YQskGktlhlnrY=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -7291,6 +7291,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/l-logo.png"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Green-Skirt-Girl.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Green-Skirt-Girl.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Green-Skirt-Girl.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.jpg",

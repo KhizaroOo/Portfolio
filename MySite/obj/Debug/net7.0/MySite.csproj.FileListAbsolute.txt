@@ -1,5 +1,6 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/BlazorSectionLib.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.7.2udsrd5nwf.js
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
@@ -211,6 +212,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Channels.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Data.dll.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/BlazorSectionLib.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Net.Quic.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/icudt_EFIGS.dat.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
@@ -408,6 +410,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.staticwebassets.runtime.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.pdb
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/BlazorSectionLib.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
@@ -613,6 +616,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.AssemblyInfo.cs
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.csproj.CoreCompileInputs.cache
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.MvcApplicationPartsAssemblyInfo.cache
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/+m4ewmT+.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/nK92QL+8.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/gAjiKPIo.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/dAsb8ejt.gz
@@ -832,7 +836,3 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/refint/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.pdb
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/ref/MySite.dll
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/BlazorSectionLib.dll
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/BlazorSectionLib.dll.gz
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/BlazorSectionLib.dll
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/+m4ewmT+.gz
