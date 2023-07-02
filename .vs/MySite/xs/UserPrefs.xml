@@ -5,64 +5,52 @@
     <BreakpointStore>
       <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="82" column="1" />
       <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="88" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/Arts/ArtDetail.razor" relfile="MySite/Pages/Arts/ArtDetail.razor" line="109" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="92" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/Art_Detail.razor" relfile="MySite/Pages/Art_Detail.razor" line="39" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/MyArtFulness.razor" relfile="MySite/Pages/MyArtFulness.razor" line="110" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/Arts/ArtDetail.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/Art_Detail.razor">
     <Files>
-      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="27" Column="122" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="40" Column="76" />
-      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" Line="2" Column="1" />
-      <File FileName="MySite/Pages/Index.razor" Line="15" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" />
+      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
+      <File FileName="MySite/Pages/Index.razor" />
       <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" Line="104" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="201" Column="56" />
+      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
       <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" />
-      <File FileName="MySite/wwwroot/js/script.js" Line="105" Column="26" />
+      <File FileName="MySite/wwwroot/js/script.js" />
       <File FileName="MySite/wwwroot/css/style.css" />
       <File FileName="MySite/Pages/LandingPages/MyExperience.razor" />
-      <File FileName="MySite/wwwroot/index.html" Line="91" Column="5" />
+      <File FileName="MySite/wwwroot/index.html" />
       <File FileName="MySite/wwwroot/plugins/themify/css/themify-icons.css" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" Line="20" Column="26" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" />
       <File FileName="MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" Line="3" Column="116" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-single.html" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPage.razor" Line="5" Column="22" />
-      <File FileName="MySite/Pages/MyArtFulness/Green_Skirt_Girl.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/Index.razor" Line="20" Column="7" />
-      <File FileName="MySite/Pages/MyArtFulness.razor" Line="1" Column="21" />
-      <File FileName="MySite/App.razor" Line="1" Column="1" />
-      <File FileName="MySite/AppData/Art.cs" Line="86" Column="35" />
-      <File FileName="MySite/Pages/Arts/StickyNote/ArtDetail.razor" Line="7" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="230" Column="24" />
-      <File FileName="MySite/Pages/Arts/ArtDetail.razor" Line="84" Column="1" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-single.html" Line="93" Column="1" />
-      <File FileName="MySite/Program.cs" Line="1" Column="1" />
-      <File FileName="MySite/MainLayout.razor" Line="1" Column="1" />
-      <File FileName="MySite/_Imports.razor" Line="1" Column="1" />
-      <File FileName="MySite/wwwroot/manifest.json" Line="1" Column="1" />
-      <File FileName="MySite/wwwroot/service-worker.js" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" />
+      <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" />
+      <File FileName="MySite/Site-Data/Theme/portfolio-single.html" />
+      <File FileName="MySite/Pages/MyArtFulness.razor" />
+      <File FileName="MySite/App.razor" />
+      <File FileName="MySite/AppData/Art.cs" />
+      <File FileName="MySite/Pages/Arts/ArtDetail.razor" />
+      <File FileName="MySite/Program.cs" />
+      <File FileName="MySite/MainLayout.razor" />
+      <File FileName="MySite/_Imports.razor" />
+      <File FileName="MySite/wwwroot/manifest.json" />
+      <File FileName="MySite/wwwroot/service-worker.js" />
+      <File FileName="MySite/Pages/Art_Detail.razor" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite" selected="True">
+          <Node name="MySite">
             <Node name="NuGet.Config files" expanded="True" />
-            <Node name="MySite">
-              <Node name="AppData" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Arts" expanded="True" />
-                <Node name="LandingPages" expanded="True">
-                  <Node name="Listings" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True" />
-            </Node>
           </Node>
         </State>
       </Pad>
