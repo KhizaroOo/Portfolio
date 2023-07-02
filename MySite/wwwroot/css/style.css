@@ -1,22 +1,66 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
+/*
+
+    Website       https://www.khizooo.com
+    Facebook    https://www.facebook.com/khizoooartist
+    Instagram   https://www.instagram.com/khizooo_art
+    LinkedIn      https://www.linkedin.com/in/khizar-imtiaz
+    OpenSea     https://opensea.io/KhizoOo_
+    Twitter         https://twitter.com/khizaroo
+    Pinterest     https://www.pinterest.com/KhizoOo_
+    Snapchat    https://www.snapchat.com/add/khizooo_1163?share_id=ZIvI4JY3joU&locale=en-PK
+    Skype          https://join.skype.com/invite/b0k5jlb9HRmk
+    YouTube     https://youtube.com/@khizooo?sub_confirmation=1
+    Whatsapp  https://wa.me/923007683396?text=KhizoOo%20%3C3
+    TikTok        https://www.tiktok.com/@khizooo_butt
+
+    Theme Color Scheme
+    #ef5555           | Main Headings 1st Part , In Logo
+    #8c7851           | Main Sub Headings , In Logo
+    #333333           | Main Headings, Detail Headings ( 2nd Part )
+    #6593ce           | Detail Headings 1st Part
+    #f4e051           | Links Color , Hover Effect #F94d1d
+    #f595b0           | Theme Color
+
  */
 
-/*!------------------------------------------------------------------
-[MAIN STYLESHEET]
 
-PROJECT:	Thomson
-VERSION:	1.0
--------------------------------------------------------------------*/
+
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Lato:400,600,700|Work+Sans:400,700,800");
+
+.Color-Theme-01 {
+    color: #ef5555; /* Main Headings 1st Part , In Logo */
+}
+.Color-Theme-02 {
+    color: #8c7851; /* Main Sub Headings , In Logo */
+}
+
+.Color-Theme-03 {
+    color: #333333; /* Main Headings, Detail Headings ( 2nd Part ) */
+}
+
+.Color-Theme-04 {
+    color: #6593ce; /* Detail Headings ( 1st Part ) */
+}
+
+.Color-Theme-05 {
+    color: #f4e051; /* Links Color , Hover Effect */
+}
+
+.Color-Theme-05 {
+    color: #ef5555; /* Theme Color 01 */
+}
+
+
+#6593ce | Detail Headings 1st Part
+#f4e051 | Links Color, Hover Effect #F94d1d
+#f595b0 | Theme Things Color
+
+
 html {
-  overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 body {
@@ -962,3 +1006,33 @@ textarea.form-control {
     }
 }
 /* Swipers */
+
+
+
+
+/* Art Detail */
+.Art-Detail-Text {
+    font-size: 1rem;
+    font-weight: 200;
+    text-align: justify;
+}
+.Art-Title{
+    color: transparent;
+    background: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+}
+
+/* Art Detail */
+
+
+/* Social Share Icons */
+.social-svg {
+    fill: #000;
+ }
+    .social-svg:hover {
+        fill: #e84b3c;
+    }
+/* Social Share Icons */
