@@ -25,6 +25,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.ti-tiktok:before {
+	content: "\e07b";
+}
 .ti-wand:before {
 	content: "\e600";
 }

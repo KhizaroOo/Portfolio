@@ -69,59 +69,33 @@
 
     }
 
-    { // Art Shuffle
+    { // Swipers
 
         try {
-            var ArtShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-art'), {
-                itemSelector: '.shuffle-item',
-                buffer: 4
-            });
-
-            jQuery('.shuffle-wrapper-art input[name="shuffle-filter"]').on('change', function (evt) {
-                var input = evt.currentTarget;
-                if (input.checked) {
-                    ArtShuffle.filter(input.value);
+            const swiper = new Swiper('.Art-Swiper', {
+                direction: 'vertical',
+                mousewheel: {},
+                effect: 'cube',
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: true
                 }
             });
-
-            $('.shuffle-wrapper-art .portfolio-gallery').each(function () {
-                $(this).find('.popup-gallery').magnificPopup({
-                    type: 'image',
-                    gallery: {
-                        enabled: true
-                    }
-                });
-            });
         }
-        catch (E) { console.log("Art Shuffle"); }
-
-    }
-
-    { // Tech Shuffle
+        catch (E) { console.log("Art Swipers"); }
 
         try {
-            var TechShuffle = new Shuffle(document.querySelector('.shuffle-wrapper-tech'), {
-                itemSelector: '.shuffle-item',
-                buffer: 4
-            });
-
-            jQuery('.shuffle-wrapper-tech input[name="shuffle-filter"]').on('change', function (evt) {
-                var input = evt.currentTarget;
-                if (input.checked) {
-                    TechShuffle.filter(input.value);
+            const swiper = new Swiper('.Tech-Swiper', {
+                direction: 'vertical',
+                mousewheel: {},
+                effect: 'cube',
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: true
                 }
             });
-
-            $('.shuffle-wrapper-tech .portfolio-gallery').each(function () {
-                $(this).find('.popup-gallery').magnificPopup({
-                    type: 'image',
-                    gallery: {
-                        enabled: true
-                    }
-                });
-            });
-        }
-        catch (E) { console.log("Tech Shuffle"); }
+        } 
+        catch (E) { console.log("Tech Swipers"); }
 
     }
 

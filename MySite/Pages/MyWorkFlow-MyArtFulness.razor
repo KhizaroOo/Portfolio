@@ -1,4 +1,4 @@
-﻿@page "/MyArtFulness"
+﻿@page "/MyWorkFlow-MyArtfulness"
 
 @inject NavigationManager NavigationManager
 
@@ -88,33 +88,20 @@
 
 @code {
 
-    [Parameter]
-    public long ID { get; set; }
 
-    [Parameter]
-    public string Slug { get; set; }
+    MyArts ArtsOBJ = new MyArts();
+    
+    List<Art> MyAllArts = new List<Art>();
 
-    List<Art> MyAllArts;
-
-    Art MyArt = null;
-    Art MyPreviousArt = null;
-    Art MyNextArt = null;
 
     protected override void OnInitialized()
     {
-        this.MyAllArts = MyArts.GetMyArts(100);
-
-        long MyPreviousArtID = this.ID - 1;
-        long MyNextArtID = this.ID + 1;
-
-        this.MyArt = MyArts.GetMyArt(this.ID, this.Slug);
-        this.MyPreviousArt = MyArts.GetMyArt(MyPreviousArtID);
-        this.MyNextArt = MyArts.GetMyArt(MyNextArtID);
+        this.MyAllArts = ArtsOBJ.GetMyArts(100);
     }
 
     private void Navigate()
     {
-        NavigationManager.NavigateTo("MyArtFulness/"+ this.ID+ "/" + this.Slug);
+        NavigationManager.NavigateTo("/MyWorkFlow-MyArtfulness/");
     }
 
 }

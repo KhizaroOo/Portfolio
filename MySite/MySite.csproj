@@ -24,16 +24,15 @@
     <Folder Include="wwwroot\images\portfolio\" />
     <Folder Include="wwwroot\js\" />
     <Folder Include="Pages\LandingPages\Listings\" />
-    <Folder Include="Pages\Arts\" />
     <Folder Include="AppData\" />
     <Folder Include="wwwroot\images\MyArts\" />
+    <Folder Include="wwwroot\plugins\swipers\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
     <None Remove="Pages\LandingPages\Swipers\" />
     <None Remove="Site-Data\" />
     <None Remove="Pages\LandingPages\Listings\" />
-    <None Remove="Pages\Arts\" />
     <None Remove="AppData\" />
   </ItemGroup>
   <ItemGroup>
@@ -114,6 +113,7 @@
     <Content Remove="wwwroot\plugins\themify\fonts\themify.ttf" />
     <Content Remove="wwwroot\plugins\themify\fonts\themify.woff" />
     <Content Remove="wwwroot\images\MyArts\" />
+    <Content Remove="wwwroot\plugins\swipers\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\css\style.css" />

@@ -185,6 +185,14 @@
       "PackagePath": "staticwebassets/plugins/fontawesome/.DS_Store"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.css",
+      "PackagePath": "staticwebassets/plugins/swipers/swiper.min.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.js",
+      "PackagePath": "staticwebassets/plugins/swipers/swiper.min.js"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/.DS_Store",
       "PackagePath": "staticwebassets/plugins/themify/.DS_Store"
     },

@@ -1,6 +1,5 @@
 ﻿(function ($) {
-    debugger
-    alert("Loo Aya Jey GORI");
+    connsole.log("Loo Aya Jey GORI");
 })(jQuery);
 
 

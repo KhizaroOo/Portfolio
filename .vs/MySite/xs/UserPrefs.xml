@@ -1,30 +1,17 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="82" column="1" />
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="88" column="1" />
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/Arts/ArtDetail.razor" relfile="MySite/Pages/Arts/ArtDetail.razor" line="109" column="1" />
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="92" column="1" />
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/Art_Detail.razor" relfile="MySite/Pages/Art_Detail.razor" line="39" column="1" />
-      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/MyArtFulness.razor" relfile="MySite/Pages/MyArtFulness.razor" line="110" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/Art_Detail.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/ArtDetail.razor">
     <Files>
-      <File FileName="MySite/Pages/LandingPages/Header.razor" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="41" Column="22" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="44" Column="42" />
       <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
-      <File FileName="MySite/Pages/Index.razor" />
+      <File FileName="MySite/Pages/Index.razor" Line="1" Column="1" />
       <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
       <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
       <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
       <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" />
       <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/wwwroot/css/style.css" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="783" Column="22" />
       <File FileName="MySite/Pages/LandingPages/MyExperience.razor" />
       <File FileName="MySite/wwwroot/index.html" />
       <File FileName="MySite/wwwroot/plugins/themify/css/themify-icons.css" />
@@ -35,25 +22,52 @@
       <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" />
       <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" />
       <File FileName="MySite/Site-Data/Theme/portfolio-single.html" />
-      <File FileName="MySite/Pages/MyArtFulness.razor" />
+      <File FileName="MySite/Pages/MyArtFulness.razor" Line="101" Column="50" />
       <File FileName="MySite/App.razor" />
-      <File FileName="MySite/AppData/Art.cs" />
-      <File FileName="MySite/Pages/Arts/ArtDetail.razor" />
+      <File FileName="MySite/AppData/Art.cs" Line="49" Column="35" />
+      <File FileName="MySite/Pages/Arts/ArtDetail.razor" Line="119" Column="76" />
       <File FileName="MySite/Program.cs" />
       <File FileName="MySite/MainLayout.razor" />
       <File FileName="MySite/_Imports.razor" />
       <File FileName="MySite/wwwroot/manifest.json" />
       <File FileName="MySite/wwwroot/service-worker.js" />
-      <File FileName="MySite/Pages/Art_Detail.razor" Line="18" Column="1" />
+      <File FileName="MySite/wwwroot/css/app.css" />
+      <File FileName="MySite/wwwroot/plugins/swipers/swiper.min.css" />
+      <File FileName="MySite/wwwroot/plugins/swipers/swiper.min.js" />
+      <File FileName="MySite/Pages/ArtDetail.razor" Line="21" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite">
+          <Node name="MySite" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
+            <Node name="MySite" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Arts" expanded="True" />
+                <Node name="LandingPages" expanded="True">
+                  <Node name="Listings" expanded="True" />
+                </Node>
+                <Node name="ArtDetail.razor" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="82" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="88" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/AppData/Art.cs" relfile="MySite/AppData/Art.cs" line="92" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/ArtDetail.razor" relfile="MySite/Pages/ArtDetail.razor" line="39" column="1" />
+      <Breakpoint file="/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/Arts/MyArtDetail.razor" relfile="MySite/Pages/Arts/MyArtDetail.razor" line="109" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
