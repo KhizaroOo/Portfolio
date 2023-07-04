@@ -1036,3 +1036,39 @@ textarea.form-control {
         fill: #e84b3c;
     }
 /* Social Share Icons */
+
+/* Text Color Theme */
+
+.MH-1-C {
+    color: #ef5555;
+    text-shadow: 1px 1px #000;
+}
+.MH-2-C {
+    color: #333333;
+    text-shadow: 1px 1px #000;
+}
+.MSH-C {
+    color: #8c7851;
+    text-shadow: 1px 1px #000;
+}
+.MHD-1-C {
+    color: #0062cc;
+    text-shadow: 1px 1px #000;
+}
+.H1-C {
+    color: #c71552;
+}
+.L-C {
+    color: #edd000;
+    text-shadow: 1px 1px #000;
+}
+    .L-C:hover {
+        color: #e5cf36;
+        text-shadow: 1px 1px #000;
+    }
+.T-C {
+    color: #f595b0;
+    text-shadow: 1px 1px #000;
+}
+
+/* Text Color Theme */
