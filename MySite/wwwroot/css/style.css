@@ -127,14 +127,14 @@ h6, .h6 {
 }
 
 .btn {
-  padding: 18px 38px;
-  border: 2px solid transparent;
-  text-transform: uppercase;
-  border-radius: 0px;
-  font-size: 14px;
-  line-height: 14px;
-  font-weight: 600;
-  box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px;
+    padding: 10px 15px;
+    border: 2px solid #000000;
+    text-transform: uppercase;
+    border-radius: 0px;
+    font-size: 12px;
+    font-weight: bolder;
+    box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px;
+    margin:5px;
 }
 .btn:focus {
   outline: 0px;
@@ -143,8 +143,8 @@ h6, .h6 {
 }
 
 .btn-main {
-  background: #e84b3c;
-  color: #fff;
+    background: #c71652;
+    color: #fff;
 }
 .btn-main:hover {
   color: #fff !important;
@@ -1060,11 +1060,10 @@ textarea.form-control {
 }
 .L-C {
     color: #edd000;
-    text-shadow: 1px 1px #000;
+    font-weight:700;
 }
     .L-C:hover {
         color: #e5cf36;
-        text-shadow: 1px 1px #000;
     }
 .T-C {
     color: #f595b0;
