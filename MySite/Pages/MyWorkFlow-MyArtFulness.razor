@@ -52,11 +52,18 @@
 
                     foreach (var art in MyAllArts)
                     {
-                        <div class="col-lg-3 col-md-3 col-6 mb-4 shuffle-item" data-groups="@art.DataGroup">
+                        <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
                             <div class="position-relative inner-box">
                                 <div class="image position-relative">
 
-                                    <img class="img-fluid w-100 d-block" src="@art.IMG" alt="@art.Heading" title="@art.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                                    @if (art.IMG != "")
+                                    {
+                                        <img class="img-fluid w-100 d-block" src="@art.IMG" alt="@art.Heading" title="@art.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                                    }
+                                    else
+                                    {
+                                        <video autoplay="" class="img-fluid w-100 d-block" controls="" controlslist="nodownload" loop="" playsinline="" preload="metadata" style="object-fit: contain; border-radius: initial;"><source data-testid="AssetMedia--video" src="@art.VIDEO" type="video/mp4"></video>
+                                    }
 
                                     <div class="overlay-box">
                                         <div class="overlay-inner">

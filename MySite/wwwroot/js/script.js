@@ -34,6 +34,7 @@
 
         try {
             $(window).on('load', function () {
+
                 $('.progress-bar').each(function () {
                     var width = $(this).data('percent');
                     $(this).css({ 'transition': 'width 3s' });
@@ -48,6 +49,11 @@
                         });
                     });
                 });
+
+                debugger
+
+                document.querySelector('video').play();
+
             });
         }
         catch (E) { console.log("Progress Bar"); }

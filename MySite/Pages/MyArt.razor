@@ -1,9 +1,10 @@
 ﻿@page "/MyArt/{Id}/{Slug}"
 
 @inject NavigationManager NavigationManager
+@inject NavigationManager uriHelper;
 
+@using System.Threading
 @using MySite.Pages.LandingPages
-
 @using MySite.AppData
 
 <!-- WRAPPER -->
@@ -27,8 +28,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid w-100" src="@MyArtDetail.IMG" alt="@MyArtDetail.Heading" title="@MyArtDetail.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
-                </div>
+
+                    @if (MyArtDetail.IMG != "")
+                    {
+                        <img class="img-fluid w-100 d-block" src="@MyArtDetail.IMG" alt="@MyArtDetail.Heading" title="@MyArtDetail.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                    }
+                    else
+                    {
+                        <video autoplay="" class="img-fluid w-100 d-block" controls="" controlslist="nodownload" loop="" playsinline="" preload="metadata" style="object-fit: contain; border-radius: initial;"><source data-testid="AssetMedia--video" src="@MyArtDetail.VIDEO" type="video/mp4"></video>
+                    }
+
+
+                 </div>
 
                 <div class="col-lg-6">
                     <div class="project-info">
@@ -65,7 +76,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
+                            <div class="col-lg-12">
                                 <div class="info">
                                     <h5>Social Links</h5>
                                     <a href="#" class="btn btn-main btn-small">Opensea</a>
@@ -80,7 +91,7 @@
                                 </div>
                             </div>
 
-                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -91,12 +102,16 @@
 
                         if (MyPreviousArt != null)
                         {
-                            <a href="@MyPreviousArt.URL" title="@MyPreviousArt.Heading" class="btn btn-dark">Previous Work</a>
+                            <a href="@MyPreviousArt.SITE_URL" target="_self" title="@MyPreviousArt.Heading" class="btn btn-dark" @onclick="PreviousWork">Previous Work</a>
                         }
 
                         if (MyNextArt != null)
                         {
-                            <a href="@MyNextArt.URL" title="@MyNextArt.Heading" class="btn btn-dark">Next Work</a>
+                            <a href="@MyNextArt.SITE_URL" target="_self" title="@MyNextArt.Heading" class="btn btn-dark" @onclick="NextWork">Next Work</a>
+                        }
+                        else
+                        {
+                            <a href="/CommingSoon" target="_self" title="Comming Soon" class="btn btn-dark" disabled>Comming Soon</a>
                         }
 
                     }
@@ -105,7 +120,7 @@
             </div>
         </div>
     </section>
-    
+
     <Footer />
 
 </div>
@@ -143,5 +158,22 @@
     {
         NavigationManager.NavigateTo("/MyWorkFlow-MyArtfulness");
     }
+
+
+
+
+    #region HANDLERS
+
+    private void PreviousWork()
+    {
+        NavigationManager.NavigateTo(MyPreviousArt.SITE_URL,true);
+    }
+
+    private void NextWork()
+    {
+        NavigationManager.NavigateTo(MyNextArt.SITE_URL,true);
+    }
+
+    #endregion
 
 }

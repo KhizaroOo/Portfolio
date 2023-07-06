@@ -128,7 +128,6 @@ h6, .h6 {
 
 .btn {
     padding: 10px 15px;
-    border: 2px solid #000000;
     text-transform: uppercase;
     border-radius: 0px;
     font-size: 12px;
@@ -1059,11 +1058,11 @@ textarea.form-control {
     color: #c71552;
 }
 .L-C {
-    color: #edd000;
-    font-weight:700;
+    color: #c71552;
+    font-weight: 700;
 }
     .L-C:hover {
-        color: #e5cf36;
+        color: #333333;
     }
 .T-C {
     color: #f595b0;
