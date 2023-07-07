@@ -293,6 +293,68 @@ namespace MySite.AppData
               PreviousWorkID = 7,
               NextWorkID = 9
           },
+          new Art()
+          {
+              ID = 9,
+              URL = BASEPATH + "/MyArt/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
+              SITE_URL = "/MyArt/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
+              Tags = "[\"Art\",\"Sticky-Note\",]",
+              Slug = "Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
+              DataGroup = "[\"all\",\"stickynotes\"]",
+              Heading = "Young Girl vs Dark Wind - Sticky Note - Art",
+              Title = "Young Girl vs Dark Wind",
+              SubTitle = "Sticky Note - Art",
+              IMG = "/images/MyArts/Young-Girl-vs-Dark-Wind.avif",
+              VIDEO = "",
+              Desription = "<p class='Art-Detail-Text'>This art belongs to a beautiful story named “Young Girl vs Dark Wind”. So here is the story.</p><p class='Art-Detail-Text'>In a village, there lived a young girl named Mia. She was a curious and kind-hearted girl with a love for animals. One day, while exploring the nearby woods, she stumbled upon a wounded bird with a broken wing. Mia's heart filled with compassion, and she gently picked up the bird, vowing to help it.</p><p class='Art-Detail-Text'>Mia took the bird home and made a cozy nest for it. She carefully splinted its wing and provided food and water. Day by day, the bird grew stronger under Mia's tender care. As it healed, they formed a special bond.</p><p class='Art-Detail-Text'>One evening, as Mia sat near the window, a soft melody filled the air. The bird, now able to fly, perched on her windowsill and chirped joyfully. Mia understood that the bird was saying goodbye. With a bittersweet feeling, she opened the window, allowing the bird to soar into the sky.</p><p class='Art-Detail-Text'>Months passed, and Mia missed her feathery friend. But one sunny morning, as she strolled through the woods, she heard a familiar chirping. There, in a clearing, stood the bird, surrounded by other creatures Mia had helped over time. They had come together to thank her for her kindness.</p><p class='Art-Detail-Text'>Overwhelmed with joy, Mia realized that her acts of compassion had created a community of grateful animals. From that day forward, Mia continued her mission, caring for and protecting the wildlife around her. And the village, inspired by her selflessness, joined her in creating a harmonious world where kindness and love thrived.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='/MyWorkFlow-MyArtfulness'>MORE</a>] to step into a world where creativity dances with imagination. Where colors come alive. Art whispers its secrets.</p>",
+              Type = "Art",
+              Category = "Sticky Note",
+              CreatedOn = "1st MARCH 2023",
+
+              Facebook = "",
+              Instagram = "",
+              LinkedIn = "",
+              YouTube = "",
+              OpenSea = "",
+              Twitter = "",
+              TikTok = "",
+              Pinterest = "",
+              Snapchat = "",
+
+              PreviousWorkID = 8,
+              NextWorkID = 10
+          },
+          new Art()
+          {
+              ID = 10,
+              URL = BASEPATH + "/MyArt/10/Portal-To-The-Past-Sticky-Note-Art",
+              SITE_URL = "/MyArt/9/Portal-To-The-Past-Sticky-Note-Art",
+              Tags = "[\"Art\",\"Sticky-Note\",]",
+              Slug = "Portal-To-The-Past-Sticky-Note-Art",
+              DataGroup = "[\"all\",\"stickynotes\"]",
+              Heading = "Portal To The Past - Sticky Note - Art",
+              Title = "Portal To The Past",
+              SubTitle = "Sticky Note - Art",
+              IMG = "/images/MyArts/Portal-To-The-Past.avif",
+              VIDEO = "",
+              Desription = "<p class='Art-Detail-Text'>This art belongs to a beautiful story named “Portal To The Past”. So here is the story.</p><p class='Art-Detail-Text'>In a village, there lived a young girl named Mia. She was a curious and kind-hearted girl with a love for animals. One day, while exploring the nearby woods, she stumbled upon a wounded bird with a broken wing. Mia's heart filled with compassion, and she gently picked up the bird, vowing to help it.</p><p class='Art-Detail-Text'>Mia took the bird home and made a cozy nest for it. She carefully splinted its wing and provided food and water. Day by day, the bird grew stronger under Mia's tender care. As it healed, they formed a special bond.</p><p class='Art-Detail-Text'>One evening, as Mia sat near the window, a soft melody filled the air. The bird, now able to fly, perched on her windowsill and chirped joyfully. Mia understood that the bird was saying goodbye. With a bittersweet feeling, she opened the window, allowing the bird to soar into the sky.</p><p class='Art-Detail-Text'>Months passed, and Mia missed her feathery friend. But one sunny morning, as she strolled through the woods, she heard a familiar chirping. There, in a clearing, stood the bird, surrounded by other creatures Mia had helped over time. They had come together to thank her for her kindness.</p><p class='Art-Detail-Text'>Overwhelmed with joy, Mia realized that her acts of compassion had created a community of grateful animals. From that day forward, Mia continued her mission, caring for and protecting the wildlife around her. And the village, inspired by her selflessness, joined her in creating a harmonious world where kindness and love thrived.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='/MyWorkFlow-MyArtfulness'>MORE</a>] to step into a world where creativity dances with imagination. Where colors come alive. Art whispers its secrets.</p>",
+              Type = "Art",
+              Category = "Sticky Note",
+              CreatedOn = "3rd MARCH 2023",
+
+              Facebook = "",
+              Instagram = "",
+              LinkedIn = "",
+              YouTube = "",
+              OpenSea = "",
+              Twitter = "",
+              TikTok = "",
+              Pinterest = "",
+              Snapchat = "",
+
+              PreviousWorkID = 9,
+              NextWorkID = 11
+          },
         };
 
         public List<Art> GetMyArts(int Count)
