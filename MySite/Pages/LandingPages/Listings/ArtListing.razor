@@ -37,7 +37,7 @@
 
                 foreach (var art in MyAllArts)
                 {
-                    <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
+                    <div class="col-lg-2 col-md-2 col-3 mb-2" data-groups="@art.DataGroup">
                         <div class="position-relative inner-box">
                             <div class="image position-relative">
 
@@ -54,7 +54,7 @@
                                     <div class="overlay-inner">
 
                                         <a class="overlay-content" href="@art.URL" title="@art.Heading" target="_self">
-                                            <h5 class="mb-0">@art.Title</h5>
+                                            <h5 class="mb-0">@((MarkupString)art.Title)</h5>
                                             <p>@art.SubTitle</p>
                                         </a>
 
