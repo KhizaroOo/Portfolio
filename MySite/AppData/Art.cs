@@ -3,6 +3,13 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace MySite.AppData
 {
+
+    public class ShowingLocation
+    {
+        public long ID { get; set; }
+        public string Title { get; set; }
+    }
+
 	public class Art
 	{
 
@@ -33,15 +40,25 @@ namespace MySite.AppData
         public string Pinterest { get; set; }
         public string Snapchat { get; set; }
 
-
-
         public long PreviousWorkID { get; set; }
         public long NextWorkID { get; set; }
+
+        // PENDINGS
+        public long ShowingLocationID { get; set; }
+
     }
 
     public class MyArts
     {
         public static string BASEPATH = "http://localhost:5064";
+
+        private List<ShowingLocation> ShowingLocations = new List<ShowingLocation>()
+        {
+            new ShowingLocation(){ ID = 1 , Title = "Landing Page To Display" },
+            new ShowingLocation(){ ID = 2 , Title = "Landing Page Listing" },
+            new ShowingLocation(){ ID = 3 , Title = "Complete Listing Page" },
+            new ShowingLocation(){ ID = 4 , Title = "Detail Page" },
+        };
 
         private List<Art> MyAllyArts = new List<Art>()
         { 
