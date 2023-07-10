@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row mb-5 justify-content-center">
             <div class="col-10 text-center">
-                <div class="btn-group btn-group-toggle " data-toggle="buttons">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
                     <label class="btn active ">
                         <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
                     </label>
@@ -31,13 +31,13 @@
             </div>
         </div>
 
-        <div class="shuffle-wrapper-art row shuffle-wrapper portfolio-gallery">
+        <div id="Art-Listings" class="shuffle-wrapper-art row shuffle-wrapper portfolio-gallery">
 
             @{
 
                 foreach (var art in MyAllArts)
                 {
-                    <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
+                    <div class="col-lg-2 col-md-2 col-3 mb-2 item" data-groups="@art.DataGroup">
                         <div class="position-relative inner-box">
                             <div class="image position-relative">
 
@@ -85,4 +85,3 @@
     }
 
 }
-

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EkJJLp5kdLgyJ9LU+eFjXtN2lYQ4boVZySNN+33yE+o=",
+  "Hash": "zyVAhJr/5HAw4F7DVKuu8225mMFZjsO5/3FvBkHDK5M=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -7327,6 +7327,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/A-Treehouse-Dream.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Above-Earth.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Above-Earth.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Above-Earth.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Aurora.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7342,6 +7359,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/Aurora.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beach-Beauty.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Beach-Beauty.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Beach-Beauty.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Bearded-Man.avif",
@@ -7361,6 +7395,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Bearded-Man.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Big-Bang-Theory.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Big-Bang-Theory.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Big-Bang-Theory.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cat-In-The-Coffee-Mug.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7376,6 +7427,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/Cat-In-The-Coffee-Mug.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cats.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Cats.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Cats.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Colorful-Elephant.avif",
@@ -7463,6 +7531,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Fire-Heart.mp4"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Fulgent-Life.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Fulgent-Life.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Fulgent-Life.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Green-Skirt-Girl.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7495,6 +7580,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/I-Believe-I-Can-Fly.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Isabella.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Isabella.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Isabella.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Junior-Professor.avif",
@@ -7531,6 +7633,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Little-Angel.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Long-Distance-Relationships.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Long-Distance-Relationships.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Long-Distance-Relationships.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Love-Day.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7563,6 +7682,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/Midnight-Muse.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Nature-Excavation.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Nature-Excavation.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Nature-Excavation.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Peak-Perfection.avif",
@@ -7599,6 +7735,40 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Portal-To-The-Past.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Sophia.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Sophia.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Sophia.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Rose-Enchanted.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/The-Rose-Enchanted.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/The-Rose-Enchanted.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Spot.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7614,6 +7784,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/The-Spot.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Thorny-Beauty.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/The-Thorny-Beauty.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/The-Thorny-Beauty.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Tree-House.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Tree-House.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Tree-House.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Young-Girl-vs-Dark-Wind.avif",
@@ -7835,6 +8039,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/js/Bricks.js",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "js/Bricks.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Bricks.js"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/.DS_Store",

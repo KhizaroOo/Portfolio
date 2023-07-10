@@ -47,29 +47,12 @@
         autoplayTimeout:8000
     });
 
-    // Shuffle js filter and masonry
-    var Shuffle = window.Shuffle;
-    var jQuery = window.jQuery;
-
-    var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
-        itemSelector: '.shuffle-item',
-        buffer: 1
+    $('#Art-Listings').bricks({
+        itemSelector: '.item'
     });
 
-    jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
-        var input = evt.currentTarget;
-        if (input.checked) {
-            myShuffle.filter(input.value);
-        }
-    });
-
-     $('.portfolio-gallery').each(function () {
-        $(this).find('.popup-gallery').magnificPopup({
-            type: 'image',
-            gallery: {
-                enabled: true
-            }
-        });
+    $('#Tech-Listings').bricks({
+        itemSelector: '.item'
     });
 
 
