@@ -85,8 +85,16 @@
       "PackagePath": "staticwebassets/images/MyArts/Above-Earth.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Amelia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Amelia.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Aurora.avif",
       "PackagePath": "staticwebassets/images/MyArts/Aurora.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Ava.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Ava.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beach-Beauty.avif",
@@ -107,6 +115,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cats.avif",
       "PackagePath": "staticwebassets/images/MyArts/Cats.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Charlotte.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Charlotte.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Colorful-Elephant.avif",
@@ -133,6 +145,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Fulgent-Life.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Grace.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Grace.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Green-Skirt-Girl.avif",
       "PackagePath": "staticwebassets/images/MyArts/Green-Skirt-Girl.avif"
     },
@@ -149,6 +165,14 @@
       "PackagePath": "staticwebassets/images/MyArts/Junior-Professor.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Kia-Sia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Kia-Sia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Lily.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Lily.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Angel.avif",
       "PackagePath": "staticwebassets/images/MyArts/Little-Angel.avif"
     },
@@ -161,12 +185,20 @@
       "PackagePath": "staticwebassets/images/MyArts/Love-Day.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Mia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Mia.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Midnight-Muse.avif",
       "PackagePath": "staticwebassets/images/MyArts/Midnight-Muse.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Nature-Excavation.avif",
       "PackagePath": "staticwebassets/images/MyArts/Nature-Excavation.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Olivia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Olivia.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Peak-Perfection.avif",
@@ -179,6 +211,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Sophia.avif",
       "PackagePath": "staticwebassets/images/MyArts/Sophia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Stella.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Stella.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Rose-Enchanted.avif",
@@ -263,10 +299,6 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
-    },
-    {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/js/Bricks.js",
-      "PackagePath": "staticwebassets/js/Bricks.js"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/.DS_Store",
