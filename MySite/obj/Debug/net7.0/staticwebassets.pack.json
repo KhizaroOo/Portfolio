@@ -85,8 +85,16 @@
       "PackagePath": "staticwebassets/images/MyArts/Above-Earth.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Alice.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Alice.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Amelia.avif",
       "PackagePath": "staticwebassets/images/MyArts/Amelia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Astro-Love.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Astro-Love.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Aurora.avif",
@@ -141,6 +149,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Fire-Heart.mp4"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Freedom.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Freedom.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Fulgent-Life.avif",
       "PackagePath": "staticwebassets/images/MyArts/Fulgent-Life.avif"
     },
@@ -169,12 +181,24 @@
       "PackagePath": "staticwebassets/images/MyArts/Kia-Sia.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Lia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Lia.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Lily.avif",
       "PackagePath": "staticwebassets/images/MyArts/Lily.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Angel.avif",
       "PackagePath": "staticwebassets/images/MyArts/Little-Angel.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Princess.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Little-Princess.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Professor.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Little-Professor.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Long-Distance-Relationships.avif",
@@ -209,6 +233,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Portal-To-The-Past.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Rapunzel.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Rapunzel.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Sophia.avif",
       "PackagePath": "staticwebassets/images/MyArts/Sophia.avif"
     },
@@ -231,6 +259,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Tree-House.avif",
       "PackagePath": "staticwebassets/images/MyArts/Tree-House.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Unveiling-Beauty.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Unveiling-Beauty.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Young-Girl-vs-Dark-Wind.avif",
