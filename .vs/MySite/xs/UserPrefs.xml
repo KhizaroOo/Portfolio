@@ -1,18 +1,24 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/AppData/Art.cs">
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/wwwroot/css/style.css">
     <Files>
       <File FileName="MySite/Pages/LandingPages/Header.razor" />
       <File FileName="MySite/Pages/LandingPages/TopBanner.razor" />
       <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
       <File FileName="MySite/Pages/Index.razor" />
       <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="87" Column="2" />
+      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="20" Column="79" />
       <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" />
-      <File FileName="MySite/wwwroot/js/script.js" Line="108" Column="25" />
-      <File FileName="MySite/wwwroot/css/style.css" Line="1095" Column="14" />
+      <File FileName="MySite/wwwroot/js/script.js" />
+      <File FileName="MySite/wwwroot/css/style.css" />
       <File FileName="MySite/Pages/LandingPages/MyExperience.razor" />
-      <File FileName="MySite/wwwroot/index.html" Line="121" Column="1" />
+      <File FileName="MySite/wwwroot/index.html" />
       <File FileName="MySite/wwwroot/plugins/themify/css/themify-icons.css" />
       <File FileName="MySite/Pages/LandingPages/Footer.razor" />
       <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" />
@@ -22,7 +28,7 @@
       <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" />
       <File FileName="MySite/Site-Data/Theme/portfolio-single.html" />
       <File FileName="MySite/App.razor" />
-      <File FileName="MySite/AppData/Art.cs" Line="1170" Column="29" />
+      <File FileName="MySite/AppData/Art.cs" Line="1542" Column="29" />
       <File FileName="MySite/Program.cs" />
       <File FileName="MySite/MainLayout.razor" />
       <File FileName="MySite/_Imports.razor" />
@@ -45,24 +51,27 @@
       <File FileName="MySite/Site-Data/Theme/css/style.css.map" />
       <File FileName="MySite/Pages/MyArt.razor" />
       <File FileName="MySite/Pages/MyWorkFlow-MyArtFulness.razor" />
-      <File FileName="MySite/Site-Data/Theme/js/script.js" Line="50" Column="32" />
-      <File FileName="MySite/Site-Data/Theme/js/contact.js" Line="1" Column="1" />
+      <File FileName="MySite/Site-Data/Theme/js/script.js" />
+      <File FileName="MySite/Site-Data/Theme/js/contact.js" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="68" Column="61" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="912" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite" expanded="True" selected="True">
-            <Node name="MySite">
+          <Node name="MySite" expanded="True">
+            <Node name="MySite" expanded="True">
               <Node name="AppData" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="LandingPages" expanded="True">
                   <Node name="Listings" expanded="True" />
-                  <Node name="Swipers" expanded="True" />
                 </Node>
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
+                <Node name="images" expanded="True">
+                  <Node name="MyArts" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -70,11 +79,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

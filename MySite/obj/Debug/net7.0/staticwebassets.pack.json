@@ -269,6 +269,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/.DS_Store",
+      "PackagePath": "staticwebassets/images/MyWordplay/.DS_Store"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/BCG-600-800.psd",
       "PackagePath": "staticwebassets/images/MyWordplay/BCG-600-800.psd"
     },
@@ -279,6 +283,34 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/Blockchain/logo.webp",
       "PackagePath": "staticwebassets/images/MyWordplay/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Artist-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Artist-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Blockchain-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Blockchain-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Code-Vault-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Code-Vault-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Color-Pallette-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Color-Pallette-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/DotNet-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/DotNet-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Fonts-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Fonts-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/InfoGraphics-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/InfoGraphics-CT.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/Video-Loader.gif",
