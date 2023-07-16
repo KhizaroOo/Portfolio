@@ -7,16 +7,16 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="MySite/wwwroot/css/style.css">
     <Files>
-      <File FileName="MySite/Pages/LandingPages/Header.razor" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" />
-      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="45" Column="20" />
+      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" Line="1" Column="1" />
       <File FileName="MySite/Pages/Index.razor" />
       <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
       <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="20" Column="79" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
       <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" />
-      <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/wwwroot/css/style.css" />
+      <File FileName="MySite/wwwroot/js/script.js" Line="1" Column="1" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="901" Column="28" />
       <File FileName="MySite/Pages/LandingPages/MyExperience.razor" />
       <File FileName="MySite/wwwroot/index.html" />
       <File FileName="MySite/wwwroot/plugins/themify/css/themify-icons.css" />
@@ -28,7 +28,7 @@
       <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" />
       <File FileName="MySite/Site-Data/Theme/portfolio-single.html" />
       <File FileName="MySite/App.razor" />
-      <File FileName="MySite/AppData/Art.cs" Line="1542" Column="29" />
+      <File FileName="MySite/AppData/Art.cs" />
       <File FileName="MySite/Program.cs" />
       <File FileName="MySite/MainLayout.razor" />
       <File FileName="MySite/_Imports.razor" />
@@ -40,10 +40,10 @@
       <File FileName="MySite/Shared/SurveyPrompt.razor" />
       <File FileName="MySite/Shared/NavMenu.razor" />
       <File FileName="MySite/Pages/LandingPages/Header.razor.js" />
-      <File FileName="MySite/Pages/LandingPages/Content.razor" />
+      <File FileName="MySite/Pages/LandingPages/Content.razor" Line="1" Column="1" />
       <File FileName="MySite/wwwroot/plugins/aos/aos.css" />
       <File FileName="MySite/Site-Data/Theme/about-us.html" />
-      <File FileName="MySite/Site-Data/Theme/index.html" Line="339" Column="24" />
+      <File FileName="MySite/Site-Data/Theme/index.html" />
       <File FileName="MySite/Site-Data/Theme/portfolio-2.html" />
       <File FileName="MySite/Site-Data/Theme/portfolio-3.html" />
       <File FileName="MySite/Site-Data/Theme/css/style.css" />
@@ -53,28 +53,11 @@
       <File FileName="MySite/Pages/MyWorkFlow-MyArtFulness.razor" />
       <File FileName="MySite/Site-Data/Theme/js/script.js" />
       <File FileName="MySite/Site-Data/Theme/js/contact.js" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="68" Column="61" />
-      <File FileName="MySite/wwwroot/css/style.css" Line="912" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySite" expanded="True">
-            <Node name="MySite" expanded="True">
-              <Node name="AppData" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="LandingPages" expanded="True">
-                  <Node name="Listings" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="images" expanded="True">
-                  <Node name="MyArts" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="MySite" expanded="True" />
         </State>
       </Pad>
     </Pads>

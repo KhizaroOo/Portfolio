@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S5fMsbkF19bzETcnbR9XZnTFr5AoYTNr+YeMAxl/YEA=",
+  "Hash": "ABISRgY8UhRSoZnqNxyRMAbNnPvl29bHqUKh6XUX8Wk=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -7378,6 +7378,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Amelia.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Art-&-Depression.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Art-&-Depression.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Art-&-Depression.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Astro-Love.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7463,6 +7480,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Bearded-Man.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beauty-Behind-Flowers.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Beauty-Behind-Flowers.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Beauty-Behind-Flowers.avif"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Big-Bang-Theory.avif",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -7478,6 +7512,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyArts/Big-Bang-Theory.avif"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Blossom.avif",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyArts/Blossom.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyArts/Blossom.avif"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cat-In-The-Coffee-Mug.avif",
@@ -8311,6 +8362,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/s-logo.png"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/.DS_Store",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/SiteCategory/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/SiteCategory/.DS_Store"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Artist-CT.png",

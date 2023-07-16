@@ -93,6 +93,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Amelia.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Art-&-Depression.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Art-&-Depression.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Astro-Love.avif",
       "PackagePath": "staticwebassets/images/MyArts/Astro-Love.avif"
     },
@@ -113,8 +117,16 @@
       "PackagePath": "staticwebassets/images/MyArts/Bearded-Man.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beauty-Behind-Flowers.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Beauty-Behind-Flowers.avif"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Big-Bang-Theory.avif",
       "PackagePath": "staticwebassets/images/MyArts/Big-Bang-Theory.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Blossom.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Blossom.avif"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cat-In-The-Coffee-Mug.avif",
@@ -283,6 +295,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/Blockchain/logo.webp",
       "PackagePath": "staticwebassets/images/MyWordplay/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/.DS_Store",
+      "PackagePath": "staticwebassets/images/SiteCategory/.DS_Store"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Artist-CT.png",

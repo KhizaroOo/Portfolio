@@ -1522,8 +1522,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 48,
-              URL = BASEPATH + "/MyArt/47/Little-Professor-Sticky-Note-Art",
-              SITE_URL = "/MyArt/47/Little-Professor-Sticky-Note-Art",
+              URL = BASEPATH + "/MyArt/48/Little-Professor-Sticky-Note-Art",
+              SITE_URL = "/MyArt/48/Little-Professor-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Little-Professor-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1549,6 +1549,68 @@ namespace MySite.AppData
 
               PreviousWorkID = 47,
               NextWorkID = 49
+          },
+          new Art()
+          {
+              ID = 49,
+              URL = BASEPATH + "/MyArt/49/Beauty-Behind-Flowers-Sticky-Note-Art",
+              SITE_URL = "/MyArt/49/Beauty-Behind-Flowers-Sticky-Note-Art",
+              Tags = "[\"Art\",\"Sticky-Note\",]",
+              Slug = "Beauty-Behind-Flowers-Sticky-Note-Art",
+              DataGroup = "[\"all\",\"stickynotes\"]",
+              Heading = "Beauty Behind Flowers - Sticky Note - Art",
+              Title = "Beauty Behind Flowers",
+              SubTitle = "Sticky Note - Art",
+              IMG = "/images/MyArts/Beauty-Behind-Flowers.avif",
+              VIDEO = "",
+              Desription = "<p class='Art-Detail-Text'>Welcome to my artistic world, where I weave captivating tales on tiny canvases known as sticky notes. As a drawing artist, I find joy and inspiration in the simplest of things. In this post, I want to share with you one of my favorite creations. A mesmerizing doodle featuring a beautiful girl hiding her face behind a bouquet of flowers.</p><p class='Art-Detail-Text'>As a drawing artist, I find joy in the process of creating art that touches hearts and sparks imagination. My doodle of the beautiful girl behind the flowers is just one of the many stories I weave with my art. With each drawing, I hope to inspire a sense of wonder in the world around us and encourage viewers to find beauty in the simplest of moments.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='/MyWorkFlow-MyArtfulness'>MORE</a>] to step into a world where creativity dances with imagination. Where colors come alive. Art whispers its secrets.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='https://opensea.io/KhizoOo_'>MORE</a>] to visit my OpenSea account.\n</p>",
+              Type = "Art",
+              Category = "Sticky Note",
+              CreatedOn = "1st JULY 2023",
+
+              Facebook = "",
+              Instagram = "",
+              LinkedIn = "",
+              YouTube = "",
+              OpenSea = "",
+              Twitter = "",
+              TikTok = "",
+              Pinterest = "",
+              Snapchat = "",
+
+              PreviousWorkID = 48,
+              NextWorkID = 50
+          },
+          new Art()
+          {
+              ID = 50,
+              URL = BASEPATH + "/MyArt/50/Art-&-Depression-Sticky-Note-Art",
+              SITE_URL = "/MyArt/50/Art-&-Depression-Sticky-Note-Art",
+              Tags = "[\"Art\",\"Sticky-Note\",]",
+              Slug = "Art-&-Depression-Sticky-Note-Art",
+              DataGroup = "[\"all\",\"stickynotes\"]",
+              Heading = "Art & Depression - Sticky Note - Art",
+              Title = "Art & Depression",
+              SubTitle = "Sticky Note - Art",
+              IMG = "/images/MyArts/Art-&-Depression.avif",
+              VIDEO = "",
+              Desription = "<p class='Art-Detail-Text'>Creating art on sticky notes has become my artistic signature, allowing me to explore emotions, thoughts, and vulnerabilities through abstract expression. I invite you to explore my gallery and experience the depth of emotions that these tiny masterpieces hold. Let us embrace the power of art to foster understanding and connection as we navigate the complexities of life and emotions together.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='/MyWorkFlow-MyArtfulness'>MORE</a>] to step into a world where creativity dances with imagination. Where colors come alive. Art whispers its secrets.</p><p class='Art-Detail-Text'>Visit [<a class='L-C' href='https://opensea.io/KhizoOo_'>MORE</a>] to visit my OpenSea account.\n</p>",
+              Type = "Art",
+              Category = "Sticky Note",
+              CreatedOn = "2nd JULY 2023",
+
+              Facebook = "",
+              Instagram = "",
+              LinkedIn = "",
+              YouTube = "",
+              OpenSea = "",
+              Twitter = "",
+              TikTok = "",
+              Pinterest = "",
+              Snapchat = "",
+
+              PreviousWorkID = 49,
+              NextWorkID = 51
           },
         };
 
