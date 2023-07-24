@@ -60,7 +60,7 @@ namespace MySite.AppData
             new ShowingLocation(){ ID = 4 , Title = "Detail Page" },
         };
 
-        private List<Art> MyAllyArts = new List<Art>()
+        private List<Art> MyAllArts = new List<Art>()
         { 
           new Art()
           {
@@ -1617,28 +1617,28 @@ namespace MySite.AppData
         public List<Art> GetMyArts(int Count)
         {
             List<Art> Data = new List<Art>();
-            Data = MyAllyArts.Take(Count).ToList();
+            Data = MyAllArts.Take(Count).ToList();
             return Data;
         }
 
         public Art GetMyArt(long ID)
         {
             Art Data = new Art();
-            Data = MyAllyArts.FirstOrDefault(A => A.ID == ID);
+            Data = MyAllArts.FirstOrDefault(A => A.ID == ID);
             return Data;
         }
 
         public Art GetMyArt(string Slug)
         {
             Art Data = new Art();
-            Data = MyAllyArts.FirstOrDefault(A => A.Slug == Slug);
+            Data = MyAllArts.FirstOrDefault(A => A.Slug == Slug);
             return Data;
         }
 
         public Art GetMyArt(long ID , string Slug)
         {
             Art Data = new Art();
-            Data = MyAllyArts.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
+            Data = MyAllArts.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
             return Data;
         }
 

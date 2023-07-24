@@ -73,6 +73,14 @@
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.jpg",
+      "PackagePath": "staticwebassets/images/ArtvsTech.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.png",
+      "PackagePath": "staticwebassets/images/ArtvsTech.png"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/.DS_Store",
       "PackagePath": "staticwebassets/images/MyArts/.DS_Store"
     },
@@ -295,6 +303,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/Blockchain/logo.webp",
       "PackagePath": "staticwebassets/images/MyWordplay/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/LandingPage-ArtvdTech.psd",
+      "PackagePath": "staticwebassets/images/MyWordplay/LandingPage-ArtvdTech.psd"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/.DS_Store",
