@@ -55,9 +55,9 @@ namespace MySite.AppData
         new WordPlay()
         {
             ID = 1,
-            URL = BASEPATH + "/MyArt/1/Green-Skirt-Girl-Sticky-Note-Art",
-            SITE_URL = "/MyArt/1/Green-Skirt-Girl-Sticky-Note-Art",
-            Tags = "[\"Art\",\"Sticky-Note\",]",
+            URL = BASEPATH + "/MyWordPlay/1/How-Blockchain-Works",
+            SITE_URL = "/MyWordPlay/1/How-Blockchain-Works",
+            Tags = "[\"WordPlay\",\"\",]",
             Slug = "Green-Skirt-Girl-Sticky-Note-Art",
             DataGroup = "[\"all\",\"stickynotes\"]",
             Heading = "Green Skirt Girl - Sticky Note - Art",
