@@ -1,4 +1,6 @@
-﻿<!-- My Tech Listing -->
+﻿@using MySite.AppData;
+
+<!-- My Tech Listing -->
 <section class="page-title section pb-0">
     <div class="container">
         <div class="row">
@@ -13,14 +15,15 @@
 
 <section class="portfolio">
     <div class="container">
+
         <div class="row mb-5 justify-content-center">
             <div class="col-10 text-center">
-                <div class="btn-group btn-group-toggle " data-toggle="buttons">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
                     <label class="btn active ">
                         <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
                     </label>
                     <label class="btn">
-                        <input type="radio" name="shuffle-filter" value="blockchain-cryptocurrency" />Technologies
+                        <input type="radio" name="shuffle-filter" value="technology" />Technologies
                     </label>
                     <label class="btn">
                         <input type="radio" name="shuffle-filter" value="web-development" />Web Development
@@ -41,179 +44,41 @@
             </div>
         </div>
 
-        <div class="row shuffle-wrapper portfolio-gallery">
-         
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div id="Wordplay-Listings" class="shuffle-wrapper-art row shuffle-wrapper portfolio-gallery">
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            @{
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                foreach (var tech in MyAllWordPlays)
+                {
+                    <div class="col-lg-3 col-3 mb-3 shuffle-item" data-groups="@tech.DataGroup">
+                        <div class="position-relative inner-box">
+                            <div class="image position-relative ">
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                                @if (tech.IMG != "")
+                                {
+                                    <img class="img-fluid w-100 d-block" src="@tech.IMG" alt="@tech.Heading" title="@tech.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                                }
+                                else
+                                {
+                                    <video autoplay="" loop="" muted="" playsinline="" class="ArtVideo-Listing" style="object-fit: contain; pointer-events: none;" alt="@tech.Heading" title="@tech.Heading"><source src="@tech.VIDEO" type="video/mp4"></video>
+                                }
+                                
+                                <div class="overlay-box">
+                                    <div class="overlay-inner">
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                                        <a class="overlay-content" href="@tech.URL" title="@tech.Heading" target="_self">
+                                            <h5 class="mb-0">@((MarkupString)tech.Title)</h5>
+                                            <p>@tech.SubTitle</p>
+                                        </a>
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                }
 
-            <div class="col-lg-4 col-4 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
-                <div class="position-relative inner-box">
-                    <div class="image position-relative ">
-                        <img src="images/portfolio/4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <a class="overlay-content" href="portfolio-single.html">
-                                    <h5 class="mb-0">Web app</h5>
-                                    <p>Development</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            }
 
         </div>
 
@@ -221,7 +86,17 @@
 </section>
 <!-- My Tech Listing -->
 
-@code {
+
+@code
+{
+
+    MyWordPlays WordPlaysOBJ = new MyWordPlays();
+
+    List<WordPlay> MyAllWordPlays = new List<WordPlay>();
+
+    protected override void OnInitialized()
+    {
+        this.MyAllWordPlays = WordPlaysOBJ.GetMyWordPlays(100);
+    }
 
 }
-

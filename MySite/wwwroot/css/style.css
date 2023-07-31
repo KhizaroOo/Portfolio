@@ -475,7 +475,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   left: 0px;
   bottom: 30px;
   z-index: 1;
-  padding: 10px 40px;
+  padding: 0px 0px;
 }
 
 .inner-box .image .overlay-box .overlay-inner .overlay-content i {

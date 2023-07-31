@@ -75,36 +75,6 @@
 
     }
 
-    { // Swipers
-
-        try {
-            const swiper = new Swiper('.Art-Swiper', {
-                direction: 'vertical',
-                mousewheel: {},
-                effect: 'cube',
-                keyboard: {
-                    enabled: true,
-                    onlyInViewport: true
-                }
-            });
-        }
-        catch (E) { console.log("Art Swipers"); }
-
-        try {
-            const swiper = new Swiper('.Tech-Swiper', {
-                direction: 'vertical',
-                mousewheel: {},
-                effect: 'cube',
-                keyboard: {
-                    enabled: true,
-                    onlyInViewport: true
-                }
-            });
-        } 
-        catch (E) { console.log("Tech Swipers"); }
-
-    }
-
     { // Images Galleery
 
         // Shuffle js filter and masonry

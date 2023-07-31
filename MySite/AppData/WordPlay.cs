@@ -42,28 +42,20 @@ namespace MySite.AppData
     {
         public static string BASEPATH = "http://localhost:5064";
 
-    private List<Module> Modules = new List<Module>()
-    {
-        new Module(){ ID = 1 , Title = "Landing Page To Display" },
-        new Module(){ ID = 2 , Title = "Landing Page Listing" },
-        new Module(){ ID = 3 , Title = "Complete Listing Page" },
-        new Module(){ ID = 4 , Title = "Detail Page" },
-    };
-
     private List<WordPlay> MyAllWordPlays = new List<WordPlay>()
     {
         new WordPlay()
         {
             ID = 1,
-            URL = BASEPATH + "/MyWordPlay/1/How-Blockchain-Works",
-            SITE_URL = "/MyWordPlay/1/How-Blockchain-Works",
-            Tags = "[\"WordPlay\",\"InfoGraphic\",]",
+            URL = BASEPATH + "/MyWordPlay/Blockchain/How-Blockchain-Works",
+            SITE_URL = "/MyWordPlay/Blockchain/How-Blockchain-Works",
+            Tags = "[\"WordPlay\",\"InfoGraphic\", \"Blockchain\"]",
             Slug = "How-Blockchain-Works",
             DataGroup = "[\"all\",\"technology\"]",
             Heading = "How Blockchain Works - Blockchain - Wordplay",
-            Title = "Green Skirt Girl",
-            SubTitle = "Sticky Note - Art",
-            IMG = "/images/MyTech/Blockchain/How-Blockchain-Works.jpg",
+            Title = "How Blockchain Works",
+            SubTitle = "Blockchain - Wordplay",
+            IMG = "/images/MyWordplay/Blockchain/How-Blockchain-Works.jpg",
             VIDEO = "",
             Desription = "",
             Type = "Wordplay",
@@ -85,28 +77,28 @@ namespace MySite.AppData
         },
     };
 
-    public List<WordPlay> GetMyTechs(int Count)
+    public List<WordPlay> GetMyWordPlays(int Count)
     {
         List<WordPlay> Data = new List<WordPlay>();
         Data = MyAllWordPlays.Take(Count).ToList();
         return Data;
     }
 
-    public WordPlay GetMyArt(long ID)
+    public WordPlay GetMyWordPlay(long ID)
     {
         WordPlay Data = new WordPlay();
         Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID);
         return Data;
     }
 
-    public WordPlay GetMyArt(string Slug)
+    public WordPlay GetMyWordPlay(string Slug)
     {
         WordPlay Data = new WordPlay();
         Data = MyAllWordPlays.FirstOrDefault(A => A.Slug == Slug);
         return Data;
     }
 
-    public WordPlay GetMyArt(long ID, string Slug)
+    public WordPlay GetMyWordPlay(long ID, string Slug)
     {
         WordPlay Data = new WordPlay();
         Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);

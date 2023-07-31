@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LLIzvCxKrrd3mIzAIZ1yXgiQEo2AUbEpz+27AmgPxEU=",
+  "Hash": "Yj46Rdwh7nJSFcEaQ7khHLEZs6NU1Gw0fGzhXDXaL2E=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -8362,6 +8362,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyWordplay/BCG-800-600.psd"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/Blockchain/How-Blockchain-Works.jpg",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyWordplay/Blockchain/How-Blockchain-Works.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyWordplay/Blockchain/How-Blockchain-Works.jpg"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplay/Blockchain/logo.webp",
