@@ -35,6 +35,8 @@
         try {
             $(window).on('load', function () {
 
+                $('body').removeClass("planet");
+
                 $('.progress-bar').each(function () {
                     var width = $(this).data('percent');
                     $(this).css({ 'transition': 'width 3s' });
@@ -57,21 +59,6 @@
             });
         }
         catch (E) { console.log("Progress Bar"); }
-
-    }
-
-    { // OWL Carousel
-
-        try {
-            $('.owl-carousel').owlCarousel({
-                items: 1,
-                loop: true,
-                autoplay: true,
-                dots: false,
-                autoplayTimeout: 8000
-            });
-        }
-        catch (E) { console.log("OWL Carousel"); }
 
     }
 

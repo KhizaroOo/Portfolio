@@ -1,3 +1,4 @@
+
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
@@ -11,7 +12,6 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 
 builder.Services.AddScoped<BlazorSectionLib.SectionService>();
 builder.Services.AddMudServices();
-
 
 
 await builder.Build().RunAsync();
