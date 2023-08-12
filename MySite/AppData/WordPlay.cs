@@ -42,13 +42,13 @@ namespace MySite.AppData
     {
         public static string BASEPATH = "http://localhost:5064";
 
-    private List<WordPlay> MyAllWordPlays = new List<WordPlay>()
+        private List<WordPlay> MyAllWordPlays = new List<WordPlay>()
     {
         new WordPlay()
         {
             ID = 1,
-            URL = BASEPATH + "/MyWordPlay/Blockchain/How-Blockchain-Works",
-            SITE_URL = "/MyWordPlay/Blockchain/How-Blockchain-Works",
+            URL = BASEPATH +"/My-Writings/1/How-Blockchain-Works",
+            SITE_URL ="/My-Writings/1/How-Blockchain-Works",
             Tags = "[\"WordPlay\",\"InfoGraphic\", \"Blockchain\"]",
             Slug = "How-Blockchain-Works",
             DataGroup = "[\"all\",\"technology\"]",
@@ -77,33 +77,33 @@ namespace MySite.AppData
         },
     };
 
-    public List<WordPlay> GetMyWordPlays(int Count)
-    {
-        List<WordPlay> Data = new List<WordPlay>();
-        Data = MyAllWordPlays.Take(Count).ToList();
-        return Data;
-    }
+        public List<WordPlay> GetMyWordPlays(int Count)
+        {
+            List<WordPlay> Data = new List<WordPlay>();
+            Data = MyAllWordPlays.Take(Count).ToList();
+            return Data;
+        }
 
-    public WordPlay GetMyWordPlay(long ID)
-    {
-        WordPlay Data = new WordPlay();
-        Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID);
-        return Data;
-    }
+        public WordPlay GetMyWordPlay(long ID)
+        {
+            WordPlay Data = new WordPlay();
+            Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID);
+            return Data;
+        }
 
-    public WordPlay GetMyWordPlay(string Slug)
-    {
-        WordPlay Data = new WordPlay();
-        Data = MyAllWordPlays.FirstOrDefault(A => A.Slug == Slug);
-        return Data;
-    }
+        public WordPlay GetMyWordPlay(string Slug)
+        {
+            WordPlay Data = new WordPlay();
+            Data = MyAllWordPlays.FirstOrDefault(A => A.Slug == Slug);
+            return Data;
+        }
 
-    public WordPlay GetMyWordPlay(long ID, string Slug)
-    {
-        WordPlay Data = new WordPlay();
-        Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
-        return Data;
-    }
+        public WordPlay GetMyWordPlay(long ID, string Slug)
+        {
+            WordPlay Data = new WordPlay();
+            Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
+            return Data;
+        }
 
     }
 
