@@ -2,7 +2,7 @@
 namespace MySite.AppData
 {
 	
-    public class WordPlay
+    public class Writing
     {
         public long ID { get; set; }
         public string URL { get; set; }
@@ -38,27 +38,27 @@ namespace MySite.AppData
         public long ModuleID { get; set; }
     }
 
-    public class MyWordPlays
+    public class MyWritings
     {
         public static string BASEPATH = "http://localhost:5064";
 
-        private List<WordPlay> MyAllWordPlays = new List<WordPlay>()
+        private List<Writing> MyAllWritings = new List<Writing>()
     {
-        new WordPlay()
+        new Writing()
         {
             ID = 1,
             URL = BASEPATH +"/My-Writings/1/How-Blockchain-Works",
             SITE_URL ="/My-Writings/1/How-Blockchain-Works",
-            Tags = "[\"WordPlay\",\"InfoGraphic\", \"Blockchain\"]",
+            Tags = "[\"Writing\",\"InfoGraphic\", \"Blockchain\"]",
             Slug = "How-Blockchain-Works",
             DataGroup = "[\"all\",\"technology\"]",
-            Heading = "How Blockchain Works - Blockchain - Wordplay",
+            Heading = "How Blockchain Works - Blockchain - Writing",
             Title = "How Blockchain Works",
-            SubTitle = "Blockchain - Wordplay",
-            IMG = "/images/MyWordplay/Blockchain/How-Blockchain-Works.jpg",
+            SubTitle = "Blockchain - Writing",
+            IMG = "/images/MyWriting/Blockchain/How-Blockchain-Works.jpg",
             VIDEO = "",
             Desription = "",
-            Type = "Wordplay",
+            Type = "Writing",
             Category = "Technologies",
             CreatedOn = "30th JUL 2023",
 
@@ -77,31 +77,31 @@ namespace MySite.AppData
         },
     };
 
-        public List<WordPlay> GetMyWordPlays(int Count)
+        public List<Writing> GetMyWritings(int Count)
         {
-            List<WordPlay> Data = new List<WordPlay>();
-            Data = MyAllWordPlays.Take(Count).ToList();
+            List<Writing> Data = new List<Writing>();
+            Data = MyAllWritings.Take(Count).ToList();
             return Data;
         }
 
-        public WordPlay GetMyWordPlay(long ID)
+        public Writing GetMyWriting(long ID)
         {
-            WordPlay Data = new WordPlay();
-            Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID);
+            Writing Data = new Writing();
+            Data = MyAllWritings.FirstOrDefault(A => A.ID == ID);
             return Data;
         }
 
-        public WordPlay GetMyWordPlay(string Slug)
+        public Writing GetMyWriting(string Slug)
         {
-            WordPlay Data = new WordPlay();
-            Data = MyAllWordPlays.FirstOrDefault(A => A.Slug == Slug);
+            Writing Data = new Writing();
+            Data = MyAllWritings.FirstOrDefault(A => A.Slug == Slug);
             return Data;
         }
 
-        public WordPlay GetMyWordPlay(long ID, string Slug)
+        public Writing GetMyWriting(long ID, string Slug)
         {
-            WordPlay Data = new WordPlay();
-            Data = MyAllWordPlays.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
+            Writing Data = new Writing();
+            Data = MyAllWritings.FirstOrDefault(A => A.ID == ID && A.Slug == Slug);
             return Data;
         }
 

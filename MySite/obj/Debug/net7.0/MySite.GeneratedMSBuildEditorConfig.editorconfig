@@ -76,16 +76,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL1RvcEJhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/MyArt.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlBcnQucmF6b3I=
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Art-Fulness.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktQXJ0LUZ1bG5lc3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/MyWordPlay.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlXb3JkUGxheS5yYXpvcg==
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Art.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktQXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/MyWorkFlow-MyArtFulness.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlXb3JrRmxvdy1NeUFydEZ1bG5lc3MucmF6b3I=
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-WordPlay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktV29yZFBsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Writings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktV3JpdGluZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Shared/SurveyPrompt.razor]

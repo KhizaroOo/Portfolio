@@ -1,256 +1,112 @@
-﻿@page "/My-Writings/{Id}/{Slug}"
+﻿@page "/My-Writings"
 
 @inject NavigationManager NavigationManager
-@inject NavigationManager uriHelper;
 
-@using System.Threading
 @using MySite.Pages.LandingPages
+@using MySite.Pages.LandingPages.Swipers
+@using MySite.Pages.LandingPages.Listings
+
 @using MySite.AppData
 
 <!-- WRAPPER -->
 <div id="wrapper" class="noice-effect overflow-hidden">
+
+    <Header />
+
+
+    <!-- My Art Listing -->
 
     <section class="page-title section pb-0">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h1 class="text-capitalize mb-0 text-lg">Blog Single post</h1>
+                        <h1 class="text-capitalize mb-0 text-lg"><span class="MSH-C">MY</span> <span class="MH-2-C"> WRITINGS</span></h1>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="section blog-post">
+    <section class="portfolio">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <article class="single-post">
-                        <img src="images/blog/01.jpg" alt="" class="img-fluid">
-
-                        <div class="single-post-content mt-4">
-                            <div class="post-meta mb-4">
-                                <span class="text-black">Tags :</span>
-                                <span>Design,</span>
-                                <span>Development</span>
-
-                                <span class="ml-3">-</span>
-                                <span class="date">17 june 2019</span>
-                            </div>
-
-                            <h3>If you are starting off with a new domain name with no traffic so to speak of you.</h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro odio aperiam nostrum sequi mollitia, sapiente eos aspernatur obcaecati molestias cupiditate autem, tempora dicta esse. Reprehenderit unde, maiores at expedita repellendus.</p>
-
-                            <h5>Porro odio aperiam nostrum sequi mollitia, sapiente eos aspernatur obcaecati molestias cupiditate autem</h5>
-                            <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happinesso one rejects dislikes actual teachings of the great explorer of the truth the master-builder of human </p>
-
-                            <div class="share mt-4">
-                                <ul class="list-inline">
-                                    <li class="mb-3">Share Now :</li>
-                                    <li class="list-inline-item"><a href="#"><i class="ti-facebook mr-2"></i> Facebook</a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="ti-twitter mr-2"></i> Twitter</a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="ti-linkedin mr-2"></i> Linkedin</a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="ti-pinterest mr-2"></i> Pinterest</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </article>
-
-                    <div class="comments bg-secondary p-4 mt-5">
-                        <h4 class="mb-4">Comments</h4>
-
-                        <div class="latest-comments">
-                            <ul class="list-unstyled">
-                                <li>
-
-                                    <div class="media comments-box mb-45">
-                                        <img src="images/blog/author1.jpg" alt="" class="img-fluid mr-3">
-                                        <div class="comments-text media-body">
-                                            <h5>John Doe</h5>
-                                            <p>Maecenas fermentum consequat mi Donec fermentum Pelle maleuada nulla amiuis sapien sem aliquet nec commodo eget consequat </p>
-                                            <a href="#" class="text-sm text-muted">Reply</a>
-
-                                            <div class="media mt-4">
-                                                <img src="images/blog/author2.jpg" alt="" class="img-fluid mr-3">
-                                                <div class="media-body comments-text">
-                                                    <div class="avatar-name">
-                                                        <h5>Jennifer S. Bowen</h5>
-                                                    </div>
-                                                    <p>Maecenas fermentum consequat mi Donec fermentum Pelle maleuada nulla amiuis sapien sem aliquet nec commodo eget </p>
-                                                    <a href="#" class="text-sm text-muted">Reply</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="media">
-                                        <img src="images/blog/author1.jpg" alt="" class="img-fluid mr-3">
-                                        <div class="media-body comments-text">
-                                            <h5>Omar Elnagar</h5>
-                                            <p>Maecenas fermentum consequat mi Donec fermentum Pelle maleuada nulla amiuis sapien sem aliquet nec commodo eget consequat </p>
-                                            <a href="#" class="text-sm text-muted">Reply</a>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="comment-form bg-secondary p-4 mt-5">
-                        <h4 class="mb-4">Leave a comment</h4>
-                        <form action="#" class="comment-form">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your name">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Email">
-                            </div>
-                            <div class="form-group">
-                                <textarea name="msg" id="msg" cols="30" rows="4" class="form-control" placeholder="Your Comment"></textarea>
-                            </div>
-
-                            <a href="#" class="btn btn-main">Post Comment</a>
-
-                        </form>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="sidebar-widget mt-5 mt-lg-0">
-                        <div class="widget mb-5 follow">
-                            <h4 class="mb-4 widget-title">Follow us</h4>
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="ti-github"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="ti-pinterest"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="ti-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-
-                        <div class="widget mb-5">
-                            <h4 class="mb-4 widget-title">Popular Posts</h4>
-                            <ul class="list-unstyled">
-                                <li class="d-flex mb-4">
-                                    <img src="images/blog/s-1.jpg" alt="" class="img-fluid mr-3">
-                                    <div class="post-body">
-                                        <span class="text-capitalize">by mesut Ozil</span>
-                                        <a href="#"><h5>Elegant Brand Identity for Artistic Glass</h5></a>
-                                    </div>
-                                </li>
-                                <li class="d-flex mb-4">
-                                    <img src="images/blog/s-2.jpg" alt="" class="img-fluid mr-3">
-                                    <div class="post-body">
-                                        <span class="text-capitalize">by mesut Ozil</span>
-                                        <a href="#"><h5>Elegant Brand Identity for Artistic Glass</h5></a>
-                                    </div>
-                                </li>
-                                <li class="d-flex">
-                                    <img src="images/blog/s-1.jpg" alt="" class="img-fluid mr-3">
-                                    <div class="post-body">
-                                        <span class="text-capitalize">by mesut Ozil</span>
-                                        <a href="#"><h5>Elegant Brand Identity for Artistic Glass</h5></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <div class="widget category mb-5">
-                            <h4 class="mb-4 widget-title">Categories</h4>
-                            <ul class="list-unstyled">
-                                <li class="d-flex justify-content-between align-items-center">
-                                    <a href="#">Web Design</a>
-                                    <span class="cat-count">14</span>
-                                </li>
-                                <li class="d-flex justify-content-between align-items-center">
-                                    <a href="#">Development</a>
-                                    <span class="cat-count">2</span>
-                                </li>
-                                <li class="d-flex justify-content-between align-items-center">
-                                    <a href="#">Marketing</a>
-                                    <span class="cat-count">1</span>
-                                </li>
-                                <li class="d-flex justify-content-between align-items-center">
-                                    <a href="#">Video Production</a>
-                                    <span class="cat-count">1</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="widget mb-5 tags">
-                            <h4 class="mb-4 widget-title">Tags</h4>
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a href="#">Design</a></li>
-                                <li class="list-inline-item"><a href="#">Marketing</a></li>
-                                <li class="list-inline-item"><a href="#">Development</a></li>
-                                <li class="list-inline-item"><a href="#">Seo</a></li>
-                                <li class="list-inline-item"><a href="#">agency</a></li>
-                                <li class="list-inline-item"><a href="#">wordpress</a></li>
-                            </ul>
-                        </div>
-
+            <div class="row mb-5 justify-content-center">
+                <div class="col-10 text-center">
+                    <div class="btn-group btn-group-toggle " data-toggle="buttons">
+                        <label class="btn active ">
+                            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+                        </label>
+                        <label class="btn">
+                            <input type="radio" name="shuffle-filter" value="stickynotes" />Sticky Notes
+                        </label>
                     </div>
                 </div>
             </div>
+
+            <div class="shuffle-wrapper-art row shuffle-wrapper portfolio-gallery">
+
+                @{
+
+                    foreach (var art in MyAllWritings)
+                    {
+                        <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
+                            <div class="position-relative inner-box">
+                                <div class="image position-relative">
+
+                                    @if (art.IMG != "")
+                                    {
+                                        <img class="img-fluid w-100 d-block" src="@art.IMG" alt="@art.Heading" title="@art.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                                    }
+                                    else
+                                    {
+                                        <video autoplay="" class="img-fluid w-100 d-block" controls="" controlslist="nodownload" loop="" playsinline="" preload="metadata" style="object-fit: contain; border-radius: initial;"><source data-testid="AssetMedia--video" src="@art.VIDEO" type="video/mp4"></video>
+                                    }
+
+                                    <div class="overlay-box">
+                                        <div class="overlay-inner">
+
+                                            <a class="overlay-content" href="@art.URL" title="@art.Heading" target="_self">
+                                                <h5 class="mb-0">@art.Title</h5>
+                                                <p>@art.SubTitle</p>
+                                            </a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                }
+
+            </div>
         </div>
     </section>
+
+    <!-- My Art Listing -->
+
+    <Footer />
 
 </div>
 <!-- WRAPPER -->
 
+@code {
 
 
-@code
-{
+    MyWritings ArtsOBJ = new MyWritings();
 
-    [Parameter]
-    public string Id { get; set; } = "";
+    List<Writing> MyAllWritings = new List<Writing>();
 
-    [Parameter]
-    public string Slug { get; set; } = "";
-
-    WordPlay MyWordPlays = new WordPlay();
-    WordPlay MyPreviousWordPlay = new WordPlay();
-    WordPlay MyNextWordPlay = new WordPlay();
-
-    MyWordPlays WordPlayOBJ = new MyWordPlays();
 
     protected override void OnInitialized()
     {
-        long WordPlayID = Convert.ToInt64(Id);
-
-        long MyPreviousWordPlayID = WordPlayID - 1;
-        long MyNextWordPlayID = WordPlayID + 1;
-
-        MyWordPlays = WordPlayOBJ.GetMyWordPlay(WordPlayID, Slug);
-        MyPreviousWordPlay = WordPlayOBJ.GetMyWordPlay(MyPreviousWordPlayID);
-        MyNextWordPlay = WordPlayOBJ.GetMyWordPlay(MyNextWordPlayID);
+        this.MyAllWritings = ArtsOBJ.GetMyWritings(100);
     }
 
     private void Navigate()
     {
-        NavigationManager.NavigateTo("/MyWorkFlow-MyArtfulness");
+        NavigationManager.NavigateTo("/My-Writings/");
     }
-
-
-
-
-    #region HANDLERS
-
-    private void PreviousWork()
-    {
-        NavigationManager.NavigateTo(MyPreviousWordPlay.SITE_URL, true);
-    }
-
-    private void NextWork()
-    {
-        NavigationManager.NavigateTo(MyNextWordPlay.SITE_URL, true);
-    }
-
-    #endregion
 
 }
 
