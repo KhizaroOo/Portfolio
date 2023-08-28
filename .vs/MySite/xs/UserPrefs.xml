@@ -1,76 +1,42 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/MySite/AppData/Writing.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Pages/LandingPages/Header.razor">
     <Files>
-      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="33" Column="1" />
+      <File FileName="MySite/Pages/My-WordPlay.razor" Line="203" Column="15" />
+      <File FileName="MySite/Pages/Index.razor" Line="25" Column="2" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="16" Column="28" />
+      <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" Line="20" Column="45" />
+      <File FileName="MySite/Pages/LandingPages/Footer.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" Line="53" Column="1" />
       <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
-      <File FileName="MySite/Pages/Index.razor" Line="12" Column="15" />
-      <File FileName="MySite/wwwroot/plugins/bootstrap/bootstrap.min.css" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-1.html" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" Line="16" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/TechListing.razor" Line="52" Column="18" />
-      <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/wwwroot/css/style.css" />
-      <File FileName="MySite/Pages/LandingPages/MyExperience.razor" />
-      <File FileName="MySite/wwwroot/index.html" />
-      <File FileName="MySite/wwwroot/plugins/themify/css/themify-icons.css" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/FixedSocial.razor" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-single.html" />
-      <File FileName="MySite/App.razor" />
-      <File FileName="MySite/AppData/Art.cs" Line="63" Column="54" />
-      <File FileName="MySite/Program.cs" />
-      <File FileName="MySite/MainLayout.razor" />
-      <File FileName="MySite/_Imports.razor" />
-      <File FileName="MySite/wwwroot/manifest.json" />
-      <File FileName="MySite/wwwroot/service-worker.js" />
-      <File FileName="MySite/wwwroot/css/app.css" />
-      <File FileName="MySite/wwwroot/plugins/swipers/swiper.min.css" />
-      <File FileName="MySite/wwwroot/plugins/swipers/swiper.min.js" />
-      <File FileName="MySite/Shared/SurveyPrompt.razor" />
-      <File FileName="MySite/Shared/NavMenu.razor" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor.js" />
-      <File FileName="MySite/Pages/LandingPages/Content.razor" Line="3" Column="1" />
-      <File FileName="MySite/wwwroot/plugins/aos/aos.css" />
-      <File FileName="MySite/Site-Data/Theme/about-us.html" />
-      <File FileName="MySite/Site-Data/Theme/index.html" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-2.html" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-3.html" />
-      <File FileName="MySite/Site-Data/Theme/css/style.css" />
-      <File FileName="MySite/wwwroot/css/style.css.map" />
-      <File FileName="MySite/Site-Data/Theme/css/style.css.map" />
-      <File FileName="MySite/Pages/MyWorkFlow-MyArtFulness.razor" Line="93" Column="1" />
-      <File FileName="MySite/Site-Data/Theme/js/script.js" />
-      <File FileName="MySite/Site-Data/Theme/js/contact.js" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-single3.html" />
+      <File FileName="MySite/Pages/Timeline.razor" Line="1" Column="24" />
+      <File FileName="MySite/Pages/My-Art.razor" Line="13" Column="4" />
+      <File FileName="MySite/Pages/My-Writings.razor" Line="55" Column="102" />
+      <File FileName="MySite/AppData/Writing.cs" Line="5" Column="1" />
+      <File FileName="MySite/Pages/My-Art-Fulness.razor" Line="49" Column="82" />
+      <File FileName="MySite/wwwroot/js/script.js" Line="84" Column="33" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" Line="1" Column="1" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" Line="1" Column="1" />
+      <File FileName="MySite/Pages/My-Timeline.razor" Line="34" Column="45" />
+      <File FileName="MySite/wwwroot/css/style.css" Line="1358" Column="15" />
+      <File FileName="MySite/wwwroot/css/app.css" Line="1" Column="1" />
+      <File FileName="MySite/wwwroot/sitemap.xml" Line="167" Column="5" />
+      <File FileName="MySite/AppData/Timeline.cs" Line="70" Column="25" />
       <File FileName="MySite/AppData/Module.cs" Line="1" Column="1" />
-      <File FileName="MySite/AppData/WordPlay.cs" Line="44" Column="1" />
-      <File FileName="MySite/Site-Data/Theme/portfolio-single4.html" />
-      <File FileName="MySite/Site-Data/Theme/blog-single.html" />
-      <File FileName="MySite/AppData/KhizoOo.cs" Line="73" Column="19" />
-      <File FileName="MySite/wwwroot/service-worker.published.js" />
-      <File FileName="MySite/Pages/My-Art.razor" Line="159" Column="50" />
-      <File FileName="MySite/Pages/My-Writings.razor" Line="50" Column="54" />
-      <File FileName="MySite/Pages/My_WordPlay.razor" Line="34" Column="44" />
+      <File FileName="MySite/AppData/Art.cs" Line="560" Column="13" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
-            <Node name="MySite" expanded="True">
-              <Node name="AppData" expanded="True" />
+            <Node name="MySite">
               <Node name="Pages" expanded="True">
                 <Node name="LandingPages" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="images" expanded="True" />
-                <Node name="service-worker.js" expanded="True" />
+                <Node name="My-Chronologies.razor" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -78,9 +44,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -47,15 +47,15 @@ namespace MySite.AppData
         new Writing()
         {
             ID = 1,
-            URL = BASEPATH +"/My-Writings/1/How-Blockchain-Works",
-            SITE_URL ="/My-Writings/1/How-Blockchain-Works",
+            URL = BASEPATH +"/My-Wordplay/1/How-Blockchain-Works",
+            SITE_URL ="/My-Wordplay/1/How-Blockchain-Works",
             Tags = "[\"Writing\",\"InfoGraphic\", \"Blockchain\"]",
             Slug = "How-Blockchain-Works",
             DataGroup = "[\"all\",\"technology\"]",
             Heading = "How Blockchain Works - Blockchain - Writing",
             Title = "How Blockchain Works",
             SubTitle = "Blockchain - Writing",
-            IMG = "/images/MyWriting/Blockchain/How-Blockchain-Works.jpg",
+            IMG = "/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",
             VIDEO = "",
             Desription = "",
             Type = "Writing",

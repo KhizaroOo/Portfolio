@@ -68,18 +68,23 @@
         var Shuffle = window.Shuffle;
         var jQuery = window.jQuery;
 
-        var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
-            itemSelector: '.shuffle-item',
-            buffer: 1
-        });
+        var ArtShuffle = new Shuffle(document.querySelector('#Art-Shuffle-Wrapper'), { itemSelector: '.shuffle-item', buffer: 1 });
+        var WritingShuffle = new Shuffle(document.querySelector('#Writing-Shuffle-Wrapper'), { itemSelector: '.shuffle-item', buffer: 1 });
 
-        jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
+        jQuery('input[name="shuffle-filter-art"]').on('change', function (evt) {
             var input = evt.currentTarget;
             if (input.checked) {
-                myShuffle.filter(input.value);
+                ArtShuffle.filter(input.value);
             }
         });
 
+
+        jQuery('input[name="shuffle-filter-writing"]').on('change', function (evt) {
+            var input = evt.currentTarget;
+            if (input.checked) {
+                WritingShuffle.filter(input.value);
+            }
+        });
     }
 
 })(jQuery);

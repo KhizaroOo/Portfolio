@@ -65,8 +65,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 1,
-              URL = BASEPATH + "/My-Artfulness/1/Green-Skirt-Girl-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/1/Green-Skirt-Girl-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/1/Green-Skirt-Girl-Sticky-Note-Art",
+              SITE_URL = "/My-Art/1/Green-Skirt-Girl-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Green-Skirt-Girl-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -96,8 +96,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 2,
-              URL = BASEPATH + "/My-Artfulness/2/Bearded-Man-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/2/Bearded-Man-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/2/Bearded-Man-Sticky-Note-Art",
+              SITE_URL = "/My-Art/2/Bearded-Man-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Bearded-Man-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -127,8 +127,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 3,
-              URL = BASEPATH + "/My-Artfulness/3/Midnight-Muse-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/3/Midnight-Muse-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/3/Midnight-Muse-Sticky-Note-Art",
+              SITE_URL = "/My-Art/3/Midnight-Muse-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Midnight-Muse-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -158,8 +158,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 4,
-              URL = BASEPATH + "/My-Artfulness/4/Fire-Heart-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/4/Fire-Heart-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/4/Fire-Heart-Sticky-Note-Art",
+              SITE_URL = "/My-Art/4/Fire-Heart-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Fire-Heart-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -189,8 +189,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 5,
-              URL = BASEPATH + "/My-Artfulness/5/Junior-Professor-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/5/Junior-Professor-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/5/Junior-Professor-Sticky-Note-Art",
+              SITE_URL = "/My-Art/5/Junior-Professor-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Junior-Professor-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -220,8 +220,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 6,
-              URL = BASEPATH + "/My-Artfulness/6/Colorful-Elephant-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/6/Colorful-Elephant-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/6/Colorful-Elephant-Sticky-Note-Art",
+              SITE_URL = "/My-Art/6/Colorful-Elephant-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Colorful-Elephant-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -251,8 +251,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 7,
-              URL = BASEPATH + "/My-Artfulness/7/Peak-Perfection-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/7/Peak-Perfection-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/7/Peak-Perfection-Sticky-Note-Art",
+              SITE_URL = "/My-Art/7/Peak-Perfection-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Peak-Perfection-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -282,8 +282,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 8,
-              URL = BASEPATH + "/My-Artfulness/8/The-Spot-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/8/The-Spot-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/8/The-Spot-Sticky-Note-Art",
+              SITE_URL = "/My-Art/8/The-Spot-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "The-Spot-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -313,8 +313,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 9,
-              URL = BASEPATH + "/My-Artfulness/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
+              SITE_URL = "/My-Art/9/Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Young-Girl-vs-Dark-Wind-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -344,8 +344,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 10,
-              URL = BASEPATH + "/My-Artfulness/10/Portal-To-The-Past-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/10/Portal-To-The-Past-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/10/Portal-To-The-Past-Sticky-Note-Art",
+              SITE_URL = "/My-Art/10/Portal-To-The-Past-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Portal-To-The-Past-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -375,8 +375,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 11,
-              URL = BASEPATH + "/My-Artfulness/11/Little-Angel-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/11/Little-Angel-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/11/Little-Angel-Sticky-Note-Art",
+              SITE_URL = "/My-Art/11/Little-Angel-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Little-Angel-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -406,8 +406,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 12,
-              URL = BASEPATH + "/My-Artfulness/12/Aurora-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/12/Aurora-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/12/Aurora-Sticky-Note-Art",
+              SITE_URL = "/My-Art/12/Aurora-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Aurora-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -437,8 +437,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 13,
-              URL = BASEPATH + "/My-Artfulness/13/A-Treehouse-Dream-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/13/A-Treehouse-Dream-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/13/A-Treehouse-Dream-Sticky-Note-Art",
+              SITE_URL = "/My-Art/13/A-Treehouse-Dream-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "A-Treehouse-Dream-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -468,8 +468,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 14,
-              URL = BASEPATH + "/My-Artfulness/14/Find-Positive-In-Everything-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/14/Find-Positive-In-Everything-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/14/Find-Positive-In-Everything-Sticky-Note-Art",
+              SITE_URL = "/My-Art/14/Find-Positive-In-Everything-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Find-Positive-In-Everything-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -499,8 +499,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 15,
-              URL = BASEPATH + "/My-Artfulness/15/Love-Day-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/15/Love-Day-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/15/Love-Day-Sticky-Note-Art",
+              SITE_URL = "/My-Art/15/Love-Day-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Love-Day-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -530,8 +530,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 16,
-              URL = BASEPATH + "/My-Artfulness/16/Cat-In-The-Coffee-Mug-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/16/Cat-In-The-Coffee-Mug-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/16/Cat-In-The-Coffee-Mug-Sticky-Note-Art",
+              SITE_URL = "/My-Art/16/Cat-In-The-Coffee-Mug-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Cat-In-The-Coffee-Mug-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -561,8 +561,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 17,
-              URL = BASEPATH + "/My-Artfulness/17/Embracing-Joy-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/17/Embracing-Joy-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/17/Embracing-Joy-Sticky-Note-Art",
+              SITE_URL = "/My-Art/17/Embracing-Joy-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Embracing-Joy-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -592,8 +592,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 18,
-              URL = BASEPATH + "/My-Artfulness/18/I-Believe-I-Can-Fly-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/18/I-Believe-I-Can-Fly-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/18/I-Believe-I-Can-Fly-Sticky-Note-Art",
+              SITE_URL = "/My-Art/18/I-Believe-I-Can-Fly-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "I-Believe-I-Can-Fly-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -623,8 +623,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 19,
-              URL = BASEPATH + "/My-Artfulness/19/Tree-House-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/19/Tree-House-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/19/Tree-House-Sticky-Note-Art",
+              SITE_URL = "/My-Art/19/Tree-House-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Tree-House-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -654,8 +654,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 20,
-              URL = BASEPATH + "/My-Artfulness/20/Above-Earth-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/20/Above-Earth-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/20/Above-Earth-Sticky-Note-Art",
+              SITE_URL = "/My-Art/20/Above-Earth-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Above-Earth-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -685,8 +685,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 21,
-              URL = BASEPATH + "/My-Artfulness/21/Fulgent-Life-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/21/Fulgent-Life-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/21/Fulgent-Life-Sticky-Note-Art",
+              SITE_URL = "/My-Art/21/Fulgent-Life-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Fulgent-Life-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -716,8 +716,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 22,
-              URL = BASEPATH + "/My-Artfulness/22/Nature-Excavation-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/22/Nature-Excavation-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/22/Nature-Excavation-Sticky-Note-Art",
+              SITE_URL = "/My-Art/22/Nature-Excavation-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Nature-Excavation-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -747,8 +747,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 23,
-              URL = BASEPATH + "/My-Artfulness/23/Cats-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/23/Cats-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/23/Cats-Sticky-Note-Art",
+              SITE_URL = "/My-Art/23/Cats-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Cats-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -778,8 +778,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 24,
-              URL = BASEPATH + "/My-Artfulness/24/Long-Distance-Relationships-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/24/Long-Distance-Relationships-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/24/Long-Distance-Relationships-Sticky-Note-Art",
+              SITE_URL = "/My-Art/24/Long-Distance-Relationships-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Long-Distance-Relationships-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -809,8 +809,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 25,
-              URL = BASEPATH + "/My-Artfulness/25/The-Rose-Enchanted-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/25/The-Rose-Enchanted-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/25/The-Rose-Enchanted-Sticky-Note-Art",
+              SITE_URL = "/My-Art/25/The-Rose-Enchanted-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "The-Rose-Enchanted-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -840,8 +840,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 26,
-              URL = BASEPATH + "/My-Artfulness/26/The-Thorny-Beauty-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/26/The-Thorny-Beauty-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/26/The-Thorny-Beauty-Sticky-Note-Art",
+              SITE_URL = "/My-Art/26/The-Thorny-Beauty-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "The-Thorny-Beauty-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -871,8 +871,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 27,
-              URL = BASEPATH + "/My-Artfulness/27/Beach-Beauty-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/27/Beach-Beauty-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/27/Beach-Beauty-Sticky-Note-Art",
+              SITE_URL = "/My-Art/27/Beach-Beauty-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Beach-Beauty-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -902,8 +902,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 28,
-              URL = BASEPATH + "/My-Artfulness/28/Big-Bang-Theory-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/28/Big-Bang-Theory-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/28/Big-Bang-Theory-Sticky-Note-Art",
+              SITE_URL = "/My-Art/28/Big-Bang-Theory-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Big-Bang-Theory-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -933,8 +933,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 29,
-              URL = BASEPATH + "/My-Artfulness/29/Sophia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/29/Sophia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/29/Sophia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/29/Sophia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Sophia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -964,8 +964,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 30,
-              URL = BASEPATH + "/My-Artfulness/30/Isabella-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/30/Isabella-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/30/Isabella-Sticky-Note-Art",
+              SITE_URL = "/My-Art/30/Isabella-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Isabella-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -995,8 +995,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 31,
-              URL = BASEPATH + "/My-Artfulness/31/Olivia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/31/Olivia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/31/Olivia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/31/Olivia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Olivia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1026,8 +1026,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 32,
-              URL = BASEPATH + "/My-Artfulness/32/Ava-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/32/Ava-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/32/Ava-Sticky-Note-Art",
+              SITE_URL = "/My-Art/32/Ava-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Ava-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1057,8 +1057,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 33,
-              URL = BASEPATH + "/My-Artfulness/33/Mia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/33/Mia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/33/Mia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/33/Mia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Mia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1088,8 +1088,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 34,
-              URL = BASEPATH + "/My-Artfulness/34/Kia-Sia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/34/Kia-Sia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/34/Kia-Sia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/34/Kia-Sia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Kia-Sia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1119,8 +1119,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 35,
-              URL = BASEPATH + "/My-Artfulness/35/Lily-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/35/Lily-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/35/Lily-Sticky-Note-Art",
+              SITE_URL = "/My-Art/35/Lily-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Lily-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1150,8 +1150,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 36,
-              URL = BASEPATH + "/My-Artfulness/36/Charlotte-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/36/Charlotte-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/36/Charlotte-Sticky-Note-Art",
+              SITE_URL = "/My-Art/36/Charlotte-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Charlotte-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1181,8 +1181,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 37,
-              URL = BASEPATH + "/My-Artfulness/37/Amelia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/37/Amelia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/37/Amelia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/37/Amelia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Amelia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1212,8 +1212,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 38,
-              URL = BASEPATH + "/My-Artfulness/38/Grace-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/38/Grace-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/38/Grace-Sticky-Note-Art",
+              SITE_URL = "/My-Art/38/Grace-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Grace-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1243,8 +1243,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 39,
-              URL = BASEPATH + "/My-Artfulness/39/Stella-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/39/Stella-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/39/Stella-Sticky-Note-Art",
+              SITE_URL = "/My-Art/39/Stella-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Stella-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1274,8 +1274,8 @@ namespace MySite.AppData
            new Art()
           {
               ID = 40,
-              URL = BASEPATH + "/My-Artfulness/40/Lia-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/43/Lia-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/40/Lia-Sticky-Note-Art",
+              SITE_URL = "/My-Art/43/Lia-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Lia-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1305,8 +1305,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 41,
-              URL = BASEPATH + "/My-Artfulness/41/Alice-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/41/Alice-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/41/Alice-Sticky-Note-Art",
+              SITE_URL = "/My-Art/41/Alice-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Alice-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1336,8 +1336,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 42,
-              URL = BASEPATH + "/My-Artfulness/42/Blossom-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/42/Blossom-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/42/Blossom-Sticky-Note-Art",
+              SITE_URL = "/My-Art/42/Blossom-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Blossom-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1367,8 +1367,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 43,
-              URL = BASEPATH + "/My-Artfulness/43/Little-Princess-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/43/Little-Princess-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/43/Little-Princess-Sticky-Note-Art",
+              SITE_URL = "/My-Art/43/Little-Princess-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Little-Princess-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1398,8 +1398,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 44,
-              URL = BASEPATH + "/My-Artfulness/44/Astro-Love-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/44/Astro-Love-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/44/Astro-Love-Sticky-Note-Art",
+              SITE_URL = "/My-Art/44/Astro-Love-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Astro-Love-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1429,8 +1429,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 45,
-              URL = BASEPATH + "/My-Artfulness/45/Freedom-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/45/Freedom-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/45/Freedom-Sticky-Note-Art",
+              SITE_URL = "/My-Art/45/Freedom-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Freedom-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1460,8 +1460,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 46,
-              URL = BASEPATH + "/My-Artfulness/46/Rapunzel-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/46/Rapunzel-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/46/Rapunzel-Sticky-Note-Art",
+              SITE_URL = "/My-Art/46/Rapunzel-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Rapunzel-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1491,8 +1491,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 47,
-              URL = BASEPATH + "/My-Artfulness/47/Unveiling-Beauty-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/47/Unveiling-Beauty-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/47/Unveiling-Beauty-Sticky-Note-Art",
+              SITE_URL = "/My-Art/47/Unveiling-Beauty-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Unveiling-Beauty-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1522,8 +1522,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 48,
-              URL = BASEPATH + "/My-Artfulness/48/Little-Professor-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/48/Little-Professor-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/48/Little-Professor-Sticky-Note-Art",
+              SITE_URL = "/My-Art/48/Little-Professor-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Little-Professor-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1553,8 +1553,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 49,
-              URL = BASEPATH + "/My-Artfulness/49/Beauty-Behind-Flowers-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/49/Beauty-Behind-Flowers-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/49/Beauty-Behind-Flowers-Sticky-Note-Art",
+              SITE_URL = "/My-Art/49/Beauty-Behind-Flowers-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Beauty-Behind-Flowers-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",
@@ -1584,8 +1584,8 @@ namespace MySite.AppData
           new Art()
           {
               ID = 50,
-              URL = BASEPATH + "/My-Artfulness/50/Art-&-Depression-Sticky-Note-Art",
-              SITE_URL = "/My-Artfulness/50/Art-&-Depression-Sticky-Note-Art",
+              URL = BASEPATH + "/My-Art/50/Art-&-Depression-Sticky-Note-Art",
+              SITE_URL = "/My-Art/50/Art-&-Depression-Sticky-Note-Art",
               Tags = "[\"Art\",\"Sticky-Note\",]",
               Slug = "Art-&-Depression-Sticky-Note-Art",
               DataGroup = "[\"all\",\"stickynotes\"]",

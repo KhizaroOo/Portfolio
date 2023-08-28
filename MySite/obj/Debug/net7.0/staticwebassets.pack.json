@@ -289,28 +289,28 @@
       "PackagePath": "staticwebassets/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/.DS_Store",
-      "PackagePath": "staticwebassets/images/MyWriting/.DS_Store"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/.DS_Store",
+      "PackagePath": "staticwebassets/images/MyWordplays/.DS_Store"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/BCG-600-800.psd",
-      "PackagePath": "staticwebassets/images/MyWriting/BCG-600-800.psd"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/BCG-600-800.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/BCG-600-800.psd"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/BCG-800-600.psd",
-      "PackagePath": "staticwebassets/images/MyWriting/BCG-800-600.psd"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/BCG-800-600.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/BCG-800-600.psd"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/Blockchain/How-Blockchain-Works.jpg",
-      "PackagePath": "staticwebassets/images/MyWriting/Blockchain/How-Blockchain-Works.jpg"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",
+      "PackagePath": "staticwebassets/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/Blockchain/logo.webp",
-      "PackagePath": "staticwebassets/images/MyWriting/Blockchain/logo.webp"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/logo.webp",
+      "PackagePath": "staticwebassets/images/MyWordplays/Blockchain/logo.webp"
     },
     {
-      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWriting/LandingPage-ArtvdTech.psd",
-      "PackagePath": "staticwebassets/images/MyWriting/LandingPage-ArtvdTech.psd"
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/LandingPage-ArtvdTech.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/LandingPage-ArtvdTech.psd"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/.DS_Store",
@@ -499,6 +499,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/service-worker.published.js",
       "PackagePath": "staticwebassets/service-worker.published.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/sitemap.xml",
+      "PackagePath": "staticwebassets/sitemap.xml"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/.DS_Store",
