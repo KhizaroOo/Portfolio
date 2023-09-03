@@ -52,8 +52,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0xpc3RpbmdzL0FydExpc3RpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Listings/TechListing.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0xpc3RpbmdzL1RlY2hMaXN0aW5nLnJhem9y
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Listings/InfographicListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZGluZ1BhZ2VzL0xpc3RpbmdzL0luZm9ncmFwaGljTGlzdGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/MyExperience.razor]
@@ -86,6 +86,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Chronologies.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktQ2hyb25vbG9naWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Infographic.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktSW5mb2dyYXBoaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Infographics.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXktSW5mb2dyYXBoaWNzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/My-Timeline.razor]

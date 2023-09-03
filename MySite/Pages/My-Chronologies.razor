@@ -44,7 +44,7 @@
 
                 @{
 
-                    foreach (var art in MyAllWritings)
+                    foreach (var art in MyAllInfographics)
                     {
                         <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
                             <div class="position-relative inner-box">
@@ -89,19 +89,19 @@
 @code {
 
 
-    MyWritings ArtsOBJ = new MyWritings();
+    MyInfographics ArtsOBJ = new MyInfographics();
 
-    List<Writing> MyAllWritings = new List<Writing>();
+    List<Infographic> MyAllInfographics = new List<Infographic>();
 
 
     protected override void OnInitialized()
     {
-        this.MyAllWritings = ArtsOBJ.GetMyWritings(100);
+        this.MyAllInfographics = ArtsOBJ.GetMyInfographics(100);
     }
 
     private void Navigate()
     {
-        NavigationManager.NavigateTo("/My-Writings/");
+        NavigationManager.NavigateTo("/My-Chronologies/");
     }
 
 }

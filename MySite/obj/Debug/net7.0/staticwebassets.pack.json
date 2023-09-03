@@ -81,6 +81,10 @@
       "PackagePath": "staticwebassets/images/ArtvsTech.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/KhizoOo-Sitemap.png",
+      "PackagePath": "staticwebassets/images/KhizoOo-Sitemap.png"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/.DS_Store",
       "PackagePath": "staticwebassets/images/MyArts/.DS_Store"
     },
@@ -289,6 +293,34 @@
       "PackagePath": "staticwebassets/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/.DS_Store",
+      "PackagePath": "staticwebassets/images/MyInfographics/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-600-800.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/BCG-600-800.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-800-600.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/BCG-800-600.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/How-Blockchain-Works-Infogrphics.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/How-Blockchain-Works-Infogrphics.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/How-Blockchain-Works.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/How-Blockchain-Works.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/logo.webp",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/LandingPage-ArtvdTech.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/LandingPage-ArtvdTech.psd"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/.DS_Store",
       "PackagePath": "staticwebassets/images/MyWordplays/.DS_Store"
     },
@@ -299,6 +331,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/BCG-800-600.psd",
       "PackagePath": "staticwebassets/images/MyWordplays/BCG-800-600.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/.DS_Store",
+      "PackagePath": "staticwebassets/images/MyWordplays/Blockchain/.DS_Store"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",

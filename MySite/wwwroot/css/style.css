@@ -1047,12 +1047,17 @@ textarea.form-control {
     color: #c71552;
     font-weight: 700;
 }
-    .L-C:hover {
+.L-C:hover {
         color: #333333;
-    }
+}
 .T-C {
-    color: #f595b0;
-    text-shadow: 1px 1px #000;
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Work Sans';
+}
+
+.G-C {
+    color: #2196f3;
 }
 
 /* Text Color Theme */

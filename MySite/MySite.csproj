@@ -27,6 +27,8 @@
     <Folder Include="AppData\" />
     <Folder Include="wwwroot\images\MyArts\" />
     <Folder Include="wwwroot\plugins\swipers\" />
+    <Folder Include="wwwroot\images\MyInfographics\" />
+    <Folder Include="wwwroot\images\MyInfographics\JS\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
@@ -114,6 +116,8 @@
     <Content Remove="wwwroot\plugins\themify\fonts\themify.woff" />
     <Content Remove="wwwroot\images\MyArts\" />
     <Content Remove="wwwroot\plugins\swipers\" />
+    <Content Remove="wwwroot\images\MyInfographics\" />
+    <Content Remove="wwwroot\images\MyInfographics\JS\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\css\style.css" />
