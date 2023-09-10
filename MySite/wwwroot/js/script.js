@@ -15,6 +15,12 @@
 
     'use strict';
 
+    var myNodeTemplate =
+            $(go.Node, "Auto", { locationSpot: go.Spot.Center }, new go.Binding("text", "key", go.Binding.toString),
+            $(go.Shape, "Rectangle", new go.Binding("fill", "color"), { stroke: null }),
+            $(go.TextBlock, { margin: 5 }, new go.Binding("text", "key", k => "node" + k))
+        );
+
     // GENERAL
     var Shuffle = window.Shuffle;
     var jQuery = window.jQuery;

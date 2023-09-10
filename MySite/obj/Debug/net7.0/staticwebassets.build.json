@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jI3RZebZ4W7v78ftjEm1cuWumlfDdv5m820W8vC12Hs=",
+  "Hash": "6enb9cTXy0QyiF0mfRkquUsWdu2DRwqRXJmzb35AtFs=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -8328,6 +8328,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/MyInfographics/Blockchain/logo.webp"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/LandingPage-ArtvdTech.psd",
