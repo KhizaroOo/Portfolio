@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rUSpLS3055Tx17vKM1Yg722F4MhRv7+VRf1IQko1Vg+ZFkiPSv9g62CqAbxRog8oXBjcf7qwVjFPLPakUbRIbg==",
+  "dgSpecHash": "GIdqqdMa+rUBKE0lxonlO8iqLO9beGaP2YLTZq0G2iP8crLczizHQ6DlQBXaOubYGeHbZDu0IESpldixloJGCg==",
   "success": true,
   "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite.csproj",
   "expectedPackageFiles": [
@@ -29,11 +29,13 @@
     "/Users/khizooo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop/7.0.5/microsoft.jsinterop.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop.webassembly/7.0.5/microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23062.2/microsoft.net.illink.tasks.7.0.100-1.23062.2.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.0-preview.4.23259.5/microsoft.net.sdk.webassembly.pack.8.0.0-preview.4.23259.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/mudblazor/6.4.1/mudblazor.6.4.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.10/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.10.nupkg.sha512"
+    "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.5/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }
