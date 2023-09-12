@@ -89,7 +89,8 @@
     <!-- WEB Assembly | DotNet Core -->
 
 
-    <script>Blazor.start().then(function () {
+    <script>
+        Blazor.start().then(function () {
 
 
             setTimeout(function () {
@@ -109,7 +110,7 @@
                 Load_My_Script("plugins/counto/apear.js");
                 Load_My_Script("plugins/counto/counTo.js");
                 Load_My_Script("plugins/swipers/swiper.min.js");
-                Load_My_Script("/js/script.js");
+                Load_My_Script("js/script.js");
 
             }, 2000);
 
@@ -122,7 +123,8 @@
             script.type = 'text/javascript';
             script.src = url;
             head.appendChild(script);
-        }</script>
+        }
+    </script>
 
 </body>
 <!-- BODY -->
