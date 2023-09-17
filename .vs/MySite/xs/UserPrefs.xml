@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/wwwroot/index.html">
+    <Files>
+      <File FileName="MySite/Pages/My-WordPlay.razor" />
+      <File FileName="MySite/Pages/Index.razor" />
+      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
+      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
+      <File FileName="MySite/Pages/LandingPages/Header.razor" />
+      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" />
+      <File FileName="MySite/Pages/My-Art.razor" />
+      <File FileName="MySite/Pages/My-Writings.razor" />
+      <File FileName="MySite/AppData/Writing.cs" />
+      <File FileName="MySite/Pages/My-Art-Fulness.razor" />
+      <File FileName="MySite/wwwroot/js/script.js" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" />
+      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" />
+      <File FileName="MySite/Pages/My-Timeline.razor" />
+      <File FileName="MySite/wwwroot/css/style.css" />
+      <File FileName="MySite/wwwroot/css/app.css" />
+      <File FileName="MySite/wwwroot/sitemap.xml" />
+      <File FileName="MySite/AppData/Timeline.cs" />
+      <File FileName="MySite/AppData/Module.cs" />
+      <File FileName="MySite/AppData/Infographic.cs" />
+      <File FileName="MySite/Pages/My-Chronologies.razor" />
+      <File FileName="MySite/Pages/My-Infographics.razor" />
+      <File FileName="MySite/Pages/LandingPages/Listings/InfographicListing.razor" />
+      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
+      <File FileName="MySite/Pages/LandingPages/Content.razor" />
+      <File FileName="MySite/Pages/My-Infographic.razor" />
+      <File FileName="MySite/AppData/Art.cs" />
+      <File FileName="MySite/Properties/launchSettings.json" />
+      <File FileName="MySite/wwwroot/index.html" Line="37" Column="25" />
+      <File FileName="MySite/wwwroot/service-worker.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySite" expanded="True">
+            <Node name="MySite" expanded="True" selected="True">
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
