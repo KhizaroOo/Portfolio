@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cRT9ZPe1nELJ5JBWnuRNpI6ptLPxZ/LOUhnpVyRuYfY=",
+  "Hash": "6enb9cTXy0QyiF0mfRkquUsWdu2DRwqRXJmzb35AtFs=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -8347,12 +8347,12 @@
       "OriginalItemSpec": "wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg"
     },
     {
-      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-of-Computer-Hardware.jpg",
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg",
       "SourceId": "MySite",
       "SourceType": "Discovered",
       "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "images/MyInfographics/General/Evolution-of-Computer-Hardware.jpg",
+      "RelativePath": "images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8361,7 +8361,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/MyInfographics/General/Evolution-of-Computer-Hardware.jpg"
+      "OriginalItemSpec": "wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/LandingPage-ArtvdTech.psd",
