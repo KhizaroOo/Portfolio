@@ -1,14 +1,11 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/release/wwwroota/MySite/wwwroot/index.html">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Properties/launchSettings.json">
     <Files>
-      <File FileName="MySite/Pages/My-WordPlay.razor" />
+      <File FileName="MySite/Pages/My-WordPlay.razor" Line="20" Column="7" />
       <File FileName="MySite/Pages/Index.razor" />
       <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
       <File FileName="MySite/Pages/LandingPages/Footer.razor" />
@@ -35,24 +32,23 @@
       <File FileName="MySite/Pages/LandingPages/Listings/InfographicListing.razor" />
       <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
       <File FileName="MySite/Pages/LandingPages/Content.razor" />
-      <File FileName="MySite/Pages/My-Infographic.razor" />
+      <File FileName="MySite/Pages/My-Infographic.razor" Line="20" Column="50" />
       <File FileName="MySite/AppData/Art.cs" />
-      <File FileName="MySite/Properties/launchSettings.json" />
-      <File FileName="MySite/wwwroot/index.html" Line="87" Column="54" />
+      <File FileName="MySite/Properties/launchSettings.json" Line="28" Column="2" />
+      <File FileName="MySite/wwwroot/index.html" />
       <File FileName="MySite/wwwroot/service-worker.js" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
-            <Node name="MySite" selected="True">
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="MySite" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
