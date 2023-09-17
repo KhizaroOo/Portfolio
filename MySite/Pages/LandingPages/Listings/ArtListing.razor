@@ -1,0 +1,81 @@
+﻿@using MySite.AppData
+
+<!-- My Art Listing -->
+<section class="page-title section pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center">
+                    <h1 class="text-capitalize mb-0 text-lg"><span class="MSH-C">MY</span> <span class="MH-2-C"> ARTFULNESS</span></h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="portfolio">
+    <div class="container">
+        <div class="row mb-5 justify-content-center">
+            <div class="col-10 text-center">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn active">
+                        <input type="radio" name="shuffle-filter-art" value="stickynotes" checked="checked"/>Sticky Notes
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div id="Art-Shuffle-Wrapper" class="shuffle-wrapper-art row shuffle-wrapper portfolio-gallery">
+
+            @{
+
+                foreach (var art in MyAllArts)
+                {
+                    <div class="col-lg-2 col-md-2 col-3 mb-2 shuffle-item" data-groups="@art.DataGroup">
+                        <div class="position-relative inner-box">
+                            <div class="image position-relative">
+
+                                @if (art.IMG != "")
+                                {
+                                    <img class="img-fluid w-100 d-block" src="@art.IMG" alt="@art.Heading" title="@art.Heading" loading="lazy" decoding="async" importance="high" crossorigin="anonymous">
+                                }
+                                else
+                                {
+                                    <video autoplay="" loop="" muted="" playsinline="" class="ArtVideo-Listing" style="object-fit: contain; pointer-events: none;" alt="@art.Heading" title="@art.Heading"><source src="@art.VIDEO" type="video/mp4"></video>
+                                }
+
+                                <div class="overlay-box">
+                                    <div class="overlay-inner">
+
+                                        <a class="overlay-content" href="@art.URL" title="@art.Heading" target="_self">
+                                            <h5 class="mb-0">@((MarkupString)art.Title)</h5>
+                                            <p>@art.SubTitle</p>
+                                        </a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            }
+
+        </div>
+    </div>
+</section>
+<!-- My Art Listing -->
+
+@code {
+
+    MyArts ArtsOBJ = new MyArts();
+
+    List<Art> MyAllArts = new List<Art>();
+
+
+    protected override void OnInitialized()
+    {
+        this.MyAllArts = ArtsOBJ.GetMyArts(100);
+    }
+
+}
