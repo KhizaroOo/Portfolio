@@ -1,3 +1,0 @@
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/release/Pages/LandingPages/Swipers/Short_App_Swiper.json
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/release/Site-Data/Theme/package.json
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/release/web.config
