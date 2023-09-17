@@ -32,4 +32,4 @@ jobs:
               with:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   BRANCH: main
-                  FOLDER: release/build
+                  FOLDER: release/wwwroot
