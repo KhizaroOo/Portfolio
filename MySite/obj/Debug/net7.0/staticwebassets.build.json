@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6enb9cTXy0QyiF0mfRkquUsWdu2DRwqRXJmzb35AtFs=",
+  "Hash": "o8DIabMiiM2hqyGuaTgiZvh4jA8I1eh7poJNkLOmkJQ=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/khizooo/.nuget/packages/blazorsectionlib/1.0.0/lib/netstandard2.0/BlazorSectionLib.dll"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll",
+      "SourceId": "MySite",
+      "SourceType": "Computed",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Docker.DotNet.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/khizooo/.nuget/packages/docker.dotnet/3.125.15/lib/netstandard2.1/Docker.DotNet.dll"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.10.wfn8gshxbn.js",
@@ -729,6 +746,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.10/runtimes/browser-wasm/lib/net7.0/netstandard.dll"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll",
+      "SourceId": "MySite",
+      "SourceType": "Computed",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/khizooo/.nuget/packages/newtonsoft.json/13.0.1/lib/netstandard2.0/Newtonsoft.Json.dll"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.AppContext.dll",
@@ -4471,6 +4505,23 @@
       "OriginalItemSpec": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Globalization.Extensions.dll"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/BmfkYsOx.gz",
+      "SourceId": "MySite",
+      "SourceType": "Computed",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/c2yFRzFS.gz",
       "SourceId": "MySite",
       "SourceType": "Computed",
@@ -4503,6 +4554,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Collections.NonGeneric.dll"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/cHUIzJEL.gz",
+      "SourceId": "MySite",
+      "SourceType": "Computed",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Docker.DotNet.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/CZIfzYVn.gz",

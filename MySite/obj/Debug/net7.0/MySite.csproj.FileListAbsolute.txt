@@ -1,6 +1,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/BlazorSectionLib.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.10.wfn8gshxbn.js
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
@@ -40,6 +41,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/MySite.pdb
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/netstandard.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.AppContext.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Buffers.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Collections.Concurrent.dll
@@ -260,8 +262,10 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Net.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Newtonsoft.Json.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/Docker.DotNet.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Windows.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
@@ -411,6 +415,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.pdb
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/BlazorSectionLib.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Docker.DotNet.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
@@ -434,6 +439,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.JSInterop.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.JSInterop.WebAssembly.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MudBlazor.dll
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Newtonsoft.Json.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/System.IO.Pipelines.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.CSharp.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Microsoft.VisualBasic.Core.dll
@@ -617,6 +623,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.csproj.CoreCompileInputs.cache
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/MySite.MvcApplicationPartsAssemblyInfo.cache
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/+m4ewmT+.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/cHUIzJEL.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/nK92QL+8.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/gAjiKPIo.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/dAsb8ejt.gz
@@ -640,6 +647,7 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/NC+6k0fI.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/m78LLlWZ.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/+7ZuUaRb.gz
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/BmfkYsOx.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/osKeWTRA.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/AYuPyOak.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Debug/net7.0/build-gz/dQmJ2qIO.gz

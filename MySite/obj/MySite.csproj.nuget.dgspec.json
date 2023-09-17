@@ -42,6 +42,10 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[7.0.5, )"
