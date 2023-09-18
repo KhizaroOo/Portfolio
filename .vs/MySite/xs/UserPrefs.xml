@@ -5,59 +5,23 @@
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/App.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Program.cs">
     <Files>
-      <File FileName="MySite/Pages/My-WordPlay.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/Index.razor" />
-      <File FileName="MySite/Pages/LandingPages/Listings/ArtListing.razor" />
-      <File FileName="MySite/Pages/LandingPages/Footer.razor" />
-      <File FileName="MySite/Pages/LandingPages/Header.razor" />
-      <File FileName="MySite/Pages/LandingPages/TopBanner.razor" Line="47" Column="1" />
-      <File FileName="MySite/Pages/My-Art.razor" />
-      <File FileName="MySite/Pages/My-Writings.razor" />
-      <File FileName="MySite/AppData/Writing.cs" />
-      <File FileName="MySite/Pages/My-Art-Fulness.razor" />
-      <File FileName="MySite/wwwroot/js/script.js" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Arts_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Extensions_Swiper.razor" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Short_App_Swiper.json" />
-      <File FileName="MySite/Pages/LandingPages/Swipers/Tech_Swiper.razor" />
-      <File FileName="MySite/Pages/My-Timeline.razor" />
-      <File FileName="MySite/wwwroot/css/style.css" />
-      <File FileName="MySite/wwwroot/css/app.css" />
-      <File FileName="MySite/wwwroot/sitemap.xml" />
-      <File FileName="MySite/AppData/Timeline.cs" />
-      <File FileName="MySite/AppData/Module.cs" />
-      <File FileName="MySite/AppData/Infographic.cs" />
-      <File FileName="MySite/Pages/My-Chronologies.razor" />
-      <File FileName="MySite/Pages/My-Infographics.razor" Line="1" Column="1" />
-      <File FileName="MySite/Pages/LandingPages/Listings/InfographicListing.razor" />
-      <File FileName="MySite/Pages/LandingPages/AboutMySelf.razor" />
-      <File FileName="MySite/Pages/LandingPages/Content.razor" />
-      <File FileName="MySite/Pages/My-Infographic.razor" />
-      <File FileName="MySite/AppData/Art.cs" />
       <File FileName="MySite/Properties/launchSettings.json" />
-      <File FileName="MySite/wwwroot/index.html" />
-      <File FileName="MySite/wwwroot/service-worker.js" />
-      <File FileName="MySite/Program.cs" Line="18" Column="1" />
-      <File FileName="MySite/MainLayout.razor" Line="1" Column="1" />
-      <File FileName="MySite/App.razor" Line="1" Column="1" />
-      <File FileName="MySite/_Imports.razor" />
-      <File FileName="MySite/wwwroot/manifest.json" />
       <File FileName="../../../../../../../../../Users/khizooo/.microsoft/usersecrets/0588a5d0-b884-4825-b8fd-f6da8c063514/secrets.json" />
-      <File FileName="MySite/Dockerfile" Line="12" Column="17" />
       <File FileName=".dockerignore" />
-      <File FileName="docker-compose.yml" Line="7" Column="17" />
-      <File FileName="../../../../../../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" Line="412" Column="5" />
+      <File FileName="docker-compose.yml" />
+      <File FileName="../../../../../../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" />
+      <File FileName="MySite/Dockerfile" />
+      <File FileName="MySite/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
-            <Node name="docker-compose" expanded="True" />
-            <Node name="MySite">
-              <Node name="App.razor" selected="True" />
+            <Node name="MySite" expanded="True">
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
