@@ -32,6 +32,8 @@
     <Folder Include="wwwroot\plugins\swipers\" />
     <Folder Include="wwwroot\images\MyInfographics\" />
     <Folder Include="wwwroot\images\MyInfographics\JS\" />
+    <Folder Include="app\" />
+    <Folder Include="publish\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Pages\LandingPages\" />
@@ -39,6 +41,8 @@
     <None Remove="Site-Data\" />
     <None Remove="Pages\LandingPages\Listings\" />
     <None Remove="AppData\" />
+    <None Remove="app\" />
+    <None Remove="publish\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\css\style.css" />
