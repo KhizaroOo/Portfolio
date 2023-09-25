@@ -1,0 +1,585 @@
+{
+  "Files": [
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/Pages/LandingPages/Header.razor.js",
+      "PackagePath": "staticwebassets/Pages/LandingPages/Header.razor.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Release/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Release/net7.0/compressed/wp4w5jea5o.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/obj/Release/net7.0/scopedcss/bundle/MySite.styles.css",
+      "PackagePath": "staticwebassets/MySite.styles.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-16.ico",
+      "PackagePath": "staticwebassets/favicons/Favicon-16.ico"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-16.png",
+      "PackagePath": "staticwebassets/favicons/Favicon-16.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-24.ico",
+      "PackagePath": "staticwebassets/favicons/Favicon-24.ico"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-24.png",
+      "PackagePath": "staticwebassets/favicons/Favicon-24.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-32.ico",
+      "PackagePath": "staticwebassets/favicons/Favicon-32.ico"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicons/Favicon-32.png",
+      "PackagePath": "staticwebassets/favicons/Favicon-32.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.jpg",
+      "PackagePath": "staticwebassets/images/ArtvsTech.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.png",
+      "PackagePath": "staticwebassets/images/ArtvsTech.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/KhizoOo-Sitemap.png",
+      "PackagePath": "staticwebassets/images/KhizoOo-Sitemap.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/A-Treehouse-Dream.avif",
+      "PackagePath": "staticwebassets/images/MyArts/A-Treehouse-Dream.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Above-Earth.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Above-Earth.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Alice.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Alice.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Amelia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Amelia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Art-&-Depression.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Art-&-Depression.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Astro-Love.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Astro-Love.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Aurora.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Aurora.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Ava.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Ava.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beach-Beauty.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Beach-Beauty.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Bearded-Man.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Bearded-Man.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Beauty-Behind-Flowers.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Beauty-Behind-Flowers.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Big-Bang-Theory.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Big-Bang-Theory.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Blossom.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Blossom.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cat-In-The-Coffee-Mug.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Cat-In-The-Coffee-Mug.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Cats.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Cats.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Charlotte.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Charlotte.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Colorful-Elephant.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Colorful-Elephant.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Embracing-Joy.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Embracing-Joy.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Find-Positive-In-Everything.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Find-Positive-In-Everything.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Fire-Heart.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Fire-Heart.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Fire-Heart.mp4",
+      "PackagePath": "staticwebassets/images/MyArts/Fire-Heart.mp4"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Freedom.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Freedom.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Fulgent-Life.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Fulgent-Life.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Grace.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Grace.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Green-Skirt-Girl.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Green-Skirt-Girl.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/I-Believe-I-Can-Fly.avif",
+      "PackagePath": "staticwebassets/images/MyArts/I-Believe-I-Can-Fly.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Isabella.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Isabella.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Junior-Professor.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Junior-Professor.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Kia-Sia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Kia-Sia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Lia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Lia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Lily.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Lily.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Angel.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Little-Angel.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Princess.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Little-Princess.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Little-Professor.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Little-Professor.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Long-Distance-Relationships.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Long-Distance-Relationships.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Love-Day.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Love-Day.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Mia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Mia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Midnight-Muse.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Midnight-Muse.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Nature-Excavation.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Nature-Excavation.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Olivia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Olivia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Peak-Perfection.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Peak-Perfection.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Portal-To-The-Past.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Portal-To-The-Past.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Rapunzel.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Rapunzel.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Sophia.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Sophia.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Stella.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Stella.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Rose-Enchanted.avif",
+      "PackagePath": "staticwebassets/images/MyArts/The-Rose-Enchanted.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Spot.avif",
+      "PackagePath": "staticwebassets/images/MyArts/The-Spot.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/The-Thorny-Beauty.avif",
+      "PackagePath": "staticwebassets/images/MyArts/The-Thorny-Beauty.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Tree-House.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Tree-House.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Unveiling-Beauty.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Unveiling-Beauty.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyArts/Young-Girl-vs-Dark-Wind.avif",
+      "PackagePath": "staticwebassets/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-600-800.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/BCG-600-800.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-800-600.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/BCG-800-600.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/How-Blockchain-Works-Infogrphics.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/How-Blockchain-Works-Infogrphics.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/How-Blockchain-Works.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/How-Blockchain-Works.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/Blockchain/logo.webp",
+      "PackagePath": "staticwebassets/images/MyInfographics/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/General/Evolution-Of-Computer-Hardware-Infogrphics.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg",
+      "PackagePath": "staticwebassets/images/MyInfographics/General/Evolution-Of-Computer-Hardware.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/LandingPage-ArtvdTech.psd",
+      "PackagePath": "staticwebassets/images/MyInfographics/LandingPage-ArtvdTech.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/BCG-600-800.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/BCG-600-800.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/BCG-800-600.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/BCG-800-600.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",
+      "PackagePath": "staticwebassets/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/Blockchain/logo.webp",
+      "PackagePath": "staticwebassets/images/MyWordplays/Blockchain/logo.webp"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyWordplays/LandingPage-ArtvdTech.psd",
+      "PackagePath": "staticwebassets/images/MyWordplays/LandingPage-ArtvdTech.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Artist-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Artist-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Blockchain-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Blockchain-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Code-Vault-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Code-Vault-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Color-Pallette-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Color-Pallette-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/DotNet-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/DotNet-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/Fonts-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/Fonts-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/SiteCategory/InfoGraphics-CT.png",
+      "PackagePath": "staticwebassets/images/SiteCategory/InfoGraphics-CT.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/Video-Loader.gif",
+      "PackagePath": "staticwebassets/images/Video-Loader.gif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-01.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-01.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-02.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-02.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-03.svg",
+      "PackagePath": "staticwebassets/images/bcg/bcg-03.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/l-logo.png",
+      "PackagePath": "staticwebassets/images/l-logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.jpg",
+      "PackagePath": "staticwebassets/images/myPics/01.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.png",
+      "PackagePath": "staticwebassets/images/myPics/01.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/02.png",
+      "PackagePath": "staticwebassets/images/myPics/02.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/03.png",
+      "PackagePath": "staticwebassets/images/myPics/03.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/k.ico",
+      "PackagePath": "staticwebassets/images/myPics/k.ico"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/my_signature.png",
+      "PackagePath": "staticwebassets/images/myPics/my_signature.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/s-logo.png",
+      "PackagePath": "staticwebassets/images/s-logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/B-OK-Logo.png",
+      "PackagePath": "staticwebassets/logo/B-OK-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/Blue Simple Business Logo.png",
+      "PackagePath": "staticwebassets/logo/Blue Simple Business Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/L-Logo.png",
+      "PackagePath": "staticwebassets/logo/L-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/M-Logo.png",
+      "PackagePath": "staticwebassets/logo/M-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/New-Logo.png",
+      "PackagePath": "staticwebassets/logo/New-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/OK-Logo-S.png",
+      "PackagePath": "staticwebassets/logo/OK-Logo-S.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/OK-Logo.png",
+      "PackagePath": "staticwebassets/logo/OK-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/S-Logo.png",
+      "PackagePath": "staticwebassets/logo/S-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/T-Logo.png",
+      "PackagePath": "staticwebassets/logo/T-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/XL-Logo.png",
+      "PackagePath": "staticwebassets/logo/XL-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/XS-Logo.png",
+      "PackagePath": "staticwebassets/logo/XS-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/XXL-Logo.png",
+      "PackagePath": "staticwebassets/logo/XXL-Logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.css",
+      "PackagePath": "staticwebassets/plugins/swipers/swiper.min.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.js",
+      "PackagePath": "staticwebassets/plugins/swipers/swiper.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-L.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-L.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-M.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-M.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-S.psd",
+      "PackagePath": "staticwebassets/psd/KhizoOo-Logo-S.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/Logo.psd",
+      "PackagePath": "staticwebassets/psd/Logo.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/New-Logo.psd",
+      "PackagePath": "staticwebassets/psd/New-Logo.psd"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/service-worker.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.published.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/sitemap.xml",
+      "PackagePath": "staticwebassets/sitemap.xml"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/facebook.png",
+      "PackagePath": "staticwebassets/social-icons/facebook.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/icon-oneheart.gif",
+      "PackagePath": "staticwebassets/social-icons/icon-oneheart.gif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/icon-twohearts.gif",
+      "PackagePath": "staticwebassets/social-icons/icon-twohearts.gif"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/instagram.png",
+      "PackagePath": "staticwebassets/social-icons/instagram.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/linkedin.png",
+      "PackagePath": "staticwebassets/social-icons/linkedin.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/messenger.png",
+      "PackagePath": "staticwebassets/social-icons/messenger.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/nft.png",
+      "PackagePath": "staticwebassets/social-icons/nft.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/opensea.png",
+      "PackagePath": "staticwebassets/social-icons/opensea.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/skype.png",
+      "PackagePath": "staticwebassets/social-icons/skype.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/snapchat.png",
+      "PackagePath": "staticwebassets/social-icons/snapchat.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/tiktok.png",
+      "PackagePath": "staticwebassets/social-icons/tiktok.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/twitter.png",
+      "PackagePath": "staticwebassets/social-icons/twitter.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/whatsapp.png",
+      "PackagePath": "staticwebassets/social-icons/whatsapp.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/social-icons/youtube.png",
+      "PackagePath": "staticwebassets/social-icons/youtube.png"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.MySite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.MySite.props",
+      "PackagePath": "build\\MySite.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.MySite.props",
+      "PackagePath": "buildMultiTargeting\\MySite.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.MySite.props",
+      "PackagePath": "buildTransitive\\MySite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
