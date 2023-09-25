@@ -55,7 +55,7 @@ namespace MySite.AppData
             Heading = "How Blockchain Works - Blockchain - Writing",
             Title = "How Blockchain Works",
             SubTitle = "Blockchain - Writing",
-            IMG = "/images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",
+            IMG = "images/MyWordplays/Blockchain/How-Blockchain-Works.jpg",
             VIDEO = "",
             Desription = "",
             Type = "Writing",
