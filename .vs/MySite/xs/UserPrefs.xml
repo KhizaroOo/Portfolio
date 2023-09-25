@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="Docker-Build">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Docker-Build" Name="Docker-Build">
+      <Items>
+        <StartupItem ItemId="{65CB2376-4671-4B17-BD19-6ECDB7FB2C99}" ItemName="docker-compose" ConfigurationId="Default" />
+        <StartupItem ItemId="{358044A5-2A00-407E-933D-7EFFD81D5BDC}" ItemName="MySite" ConfigurationId="http" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Docker-Build" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySite/Dockerfile">
+    <Files>
+      <File FileName="MySite/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="../../../../../../../../../Users/khizooo/.microsoft/usersecrets/0588a5d0-b884-4825-b8fd-f6da8c063514/secrets.json" />
+      <File FileName=".dockerignore" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="MySite/Dockerfile" Line="23" Column="36" />
+      <File FileName="MySite/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySite" expanded="True" selected="True">
+            <Node name="NuGet.Config files" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
