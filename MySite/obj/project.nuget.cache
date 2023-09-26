@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hfEBXd87fLkr3OZ574I6AMpMFMTjBrT3jWO8gt7oiGEOnKnwOyQRCrO+uhSqdukOj1UuaksV3WwPbLgTEVQIfA==",
+  "dgSpecHash": "RUwnkQofYEOOxydD2y/t+JyRhjBjgPp8ZRB/dhNyRB97z6qSPm2OQ6sZ3VAANC6V8bXV4MS+gPOIpUqHL/IBHg==",
   "success": true,
   "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,8 @@
     "/Users/khizooo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop/7.0.5/microsoft.jsinterop.7.0.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.jsinterop.webassembly/7.0.5/microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23062.2/microsoft.net.illink.tasks.7.0.100-1.23062.2.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.0-preview.4.23259.5/microsoft.net.sdk.webassembly.pack.8.0.0-preview.4.23259.5.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/mudblazor/6.4.1/mudblazor.6.4.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
@@ -37,7 +39,7 @@
     "/Users/khizooo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.11/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.11.nupkg.sha512"
+    "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.5/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vnbfSMzMZCe+X46zVxI+ObkAl9YlXav2nDVenyb5hJg=",
+  "Hash": "6B/JO7iMnv69iSpFobjpivVU48SOGbWDkdKALLYtTsA=",
   "Source": "MySite",
   "BasePath": "/",
   "Mode": "Root",
@@ -7276,6 +7276,23 @@
       "OriginalItemSpec": "wwwroot/icon-512.png"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/.DS_Store",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/.DS_Store"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.jpg",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -8262,6 +8279,23 @@
       "OriginalItemSpec": "wwwroot/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/.DS_Store",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/MyInfographics/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MyInfographics/.DS_Store"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-600-800.psd",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -8976,6 +9010,23 @@
       "OriginalItemSpec": "wwwroot/manifest.json"
     },
     {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/.DS_Store",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "plugins/fontawesome/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/plugins/fontawesome/.DS_Store"
+    },
+    {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.css",
       "SourceId": "MySite",
       "SourceType": "Discovered",
@@ -9008,6 +9059,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/plugins/swipers/swiper.min.js"
+    },
+    {
+      "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/.DS_Store",
+      "SourceId": "MySite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "plugins/themify/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/plugins/themify/.DS_Store"
     },
     {
       "Identity": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-L.psd",
