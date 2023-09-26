@@ -36,20 +36,20 @@
 
     <!-- Common META -->
     <!-- For Github Pages -->
-    <base href="/" />
+    <base href="https://khizarooo.github.io/Portfolio/" />
     <!-- For Github Pages -->
     <!-- STYLES -->
-    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
     <link rel="stylesheet" href="plugins/counto/animate.css">
     <link rel="stylesheet" href="plugins/aos/aos.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="plugins/swipers/swiper.min.css">
+    <link rel="stylesheet" href="plugins/swipers/swiper.min.css">-->
     <!-- STYLES -->
     <!-- MAIN STYLES -->
-    <link href="css/style.css" rel="stylesheet">
+    <!--<link href="css/style.css" rel="stylesheet">-->
     <!-- MAIN STYLES -->
 
 
@@ -89,40 +89,66 @@
     <!-- WEB Assembly | DotNet Core -->
 
 
-    <script>Blazor.start().then(function () {
+    <script>
+
+        Blazor.start().then(function () {
 
 
             setTimeout(function () {
 
-                Load_My_Script("plugins/jQuery/jquery.min.js");
+                LOAD_CSS("plugins/bootstrap/bootstrap.min.css");
+                LOAD_CSS("plugins/themify/css/themify-icons.css");
+                LOAD_CSS("plugins/counto/animate.css");
+                LOAD_CSS("plugins/aos/aos.css");
+                LOAD_CSS("plugins/owl-carousel/owl.carousel.min.css");
+                LOAD_CSS("plugins/owl-carousel/owl.theme.default.min.css");
+                LOAD_CSS("plugins/magnific-popup/magnific-popup.css");
+                LOAD_CSS("plugins/swipers/swiper.min.css");
+
+            }, 500);
+
+
+            setTimeout(function () {
+
+                LOAD_JS("plugins/jQuery/jquery.min.js");
 
             }, 1000);
 
 
             setTimeout(function () {
 
-                Load_My_Script("plugins/bootstrap/bootstrap.min.js");
-                Load_My_Script("plugins/aos/aos.js");
-                Load_My_Script("plugins/owl-carousel/owl.carousel.min.js");
-                Load_My_Script("plugins/shuffle/shuffle.min.js");
-                Load_My_Script("plugins/magnific-popup/jquery.magnific-popup.min.js");
-                Load_My_Script("plugins/counto/apear.js");
-                Load_My_Script("plugins/counto/counTo.js");
-                Load_My_Script("plugins/swipers/swiper.min.js");
-                Load_My_Script("js/script.js");
+                LOAD_JS("plugins/bootstrap/bootstrap.min.js");
+                LOAD_JS("plugins/aos/aos.js");
+                LOAD_JS("plugins/owl-carousel/owl.carousel.min.js");
+                LOAD_JS("plugins/shuffle/shuffle.min.js");
+                LOAD_JS("plugins/magnific-popup/jquery.magnific-popup.min.js");
+                LOAD_JS("plugins/counto/apear.js");
+                LOAD_JS("plugins/counto/counTo.js");
+                LOAD_JS("plugins/swipers/swiper.min.js");
+                LOAD_JS("js/script.js");
 
             }, 2000);
 
 
         });
 
-        function Load_My_Script(url) {
+        function LOAD_CSS(url) {
             var head = document.getElementsByTagName('body')[0];
             var script = document.createElement('script');
             script.type = 'text/javascript';
             script.src = url;
             head.appendChild(script);
-        }</script>
+        }
+
+        function LOAD_JS(url) {
+            var head = document.getElementsByTagName('head')[0];
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = url;
+            head.appendChild(link);
+        }
+
+    </script>
 
 </body>
 <!-- BODY -->
