@@ -39,17 +39,17 @@
     <base href="/" />
     <!-- For Github Pages -->
     <!-- STYLES -->
-    <!--<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
     <link rel="stylesheet" href="plugins/counto/animate.css">
     <link rel="stylesheet" href="plugins/aos/aos.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="plugins/swipers/swiper.min.css">-->
+    <link rel="stylesheet" href="plugins/swipers/swiper.min.css">
     <!-- STYLES -->
     <!-- MAIN STYLES -->
-    <!--<link href="css/style.css" rel="stylesheet">-->
+    <link href="css/style.css" rel="stylesheet">
     <!-- MAIN STYLES -->
 
 
@@ -65,7 +65,7 @@
     <!-- Go To Top -->
     <!-- Go To Top -->
     <!-- WEB Assembly | DotNet Core -->
-    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+    <script src="_framework/blazor.webassembly.js" autostart="true"></script>
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">(function (l) {
             if (l.search) {
@@ -102,15 +102,15 @@
 
             setTimeout(function () {
 
-                LOAD_CSS("plugins/bootstrap/bootstrap.min.css");
-                LOAD_CSS("plugins/themify/css/themify-icons.css");
-                LOAD_CSS("plugins/counto/animate.css");
-                LOAD_CSS("plugins/aos/aos.css");
-                LOAD_CSS("plugins/owl-carousel/owl.carousel.min.css");
-                LOAD_CSS("plugins/owl-carousel/owl.theme.default.min.css");
-                LOAD_CSS("plugins/magnific-popup/magnific-popup.css");
-                LOAD_CSS("plugins/swipers/swiper.min.css");
-                LOAD_CSS("css/style.css");
+                //LOAD_CSS("plugins/bootstrap/bootstrap.min.css");
+                //LOAD_CSS("plugins/themify/css/themify-icons.css");
+                //LOAD_CSS("plugins/counto/animate.css");
+                //LOAD_CSS("plugins/aos/aos.css");
+                //LOAD_CSS("plugins/owl-carousel/owl.carousel.min.css");
+                //LOAD_CSS("plugins/owl-carousel/owl.theme.default.min.css");
+                //LOAD_CSS("plugins/magnific-popup/magnific-popup.css");
+                //LOAD_CSS("plugins/swipers/swiper.min.css");
+                //LOAD_CSS("css/style.css");
 
                 LOAD_JS("plugins/bootstrap/bootstrap.min.js");
                 LOAD_JS("plugins/aos/aos.js");
@@ -122,12 +122,12 @@
                 LOAD_JS("plugins/swipers/swiper.min.js");
                 LOAD_JS("js/script.js");
 
-            }, 2000);
+            }, 3000);
 
 
         });
 
-        function LOAD_CSS(url) {
+        function LOAD_JS(url) {
             var head = document.getElementsByTagName('body')[0];
             var script = document.createElement('script');
             script.type = 'text/javascript';
@@ -135,7 +135,7 @@
             head.appendChild(script);
         }
 
-        function LOAD_JS(url) {
+        function LOAD_CSS(url) {
             var head = document.getElementsByTagName('head')[0];
             var link = document.createElement('link');
             link.rel = 'stylesheet';
