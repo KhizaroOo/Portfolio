@@ -410,7 +410,6 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Pages/LandingPages/Swipers/Short_App_Swiper.json
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/Site-Data/Theme/package.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.staticwebassets.runtime.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/bin/Debug/net7.0/MySite.pdb

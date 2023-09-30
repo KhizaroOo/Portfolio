@@ -1,5 +1,4 @@
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/bin/Debug/Pages/LandingPages/Swipers/Short_App_Swiper.json
-/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/bin/Debug/Site-Data/Theme/package.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/bin/Debug/MySite.staticwebassets.runtime.json
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/bin/Debug/MySite.dll
 /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/bin/Debug/System.Runtime.dll

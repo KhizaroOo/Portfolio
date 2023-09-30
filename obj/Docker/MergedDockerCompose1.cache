@@ -1,0 +1,40 @@
+name: dockercompose17330206206258464361
+services:
+  mysite:
+    build:
+      context: /System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio
+      dockerfile: MySite/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: MySite
+    container_name: MySite
+    entrypoint:
+    - tail
+    - -f
+    - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: mysite
+    labels:
+      com.microsoft.visual-studio.project-name: MySite
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/MySite.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: /Users/khizooo/vsdbg/vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose17330206206258464361_default

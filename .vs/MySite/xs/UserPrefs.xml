@@ -1,24 +1,25 @@
-﻿<Properties StartupConfiguration="{56EF49E1-EABD-4C95-B96D-D53F59383A7A}|Default">
+﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Docker-Build" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="../../../../../../../../../usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
-            <Node name="NuGet.Config files" expanded="True" />
-            <Node name="MySite" selected="True" />
+            <Node name="MySite" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.KhizoOo-WEB PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Docker-Build" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Docker-Build" Name="Docker-Build">
       <Items>
@@ -27,5 +28,4 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.MyWebsiteV1 PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" FirstBuild="True" />
 </Properties>

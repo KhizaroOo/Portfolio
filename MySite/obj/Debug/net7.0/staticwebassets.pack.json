@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets/icon-512.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.jpg",
       "PackagePath": "staticwebassets/images/ArtvsTech.jpg"
     },
@@ -281,6 +285,10 @@
       "PackagePath": "staticwebassets/images/MyArts/Young-Girl-vs-Dark-Wind.avif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/.DS_Store",
+      "PackagePath": "staticwebassets/images/MyInfographics/.DS_Store"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/MyInfographics/BCG-600-800.psd",
       "PackagePath": "staticwebassets/images/MyInfographics/BCG-600-800.psd"
     },
@@ -465,12 +473,20 @@
       "PackagePath": "staticwebassets/manifest.json"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/.DS_Store",
+      "PackagePath": "staticwebassets/plugins/fontawesome/.DS_Store"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.css",
       "PackagePath": "staticwebassets/plugins/swipers/swiper.min.css"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.js",
       "PackagePath": "staticwebassets/plugins/swipers/swiper.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/.DS_Store",
+      "PackagePath": "staticwebassets/plugins/themify/.DS_Store"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-L.psd",
