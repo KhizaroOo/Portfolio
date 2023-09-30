@@ -38,26 +38,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "BlazorSectionLib": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "Docker.DotNet": {
-              "target": "Package",
-              "version": "[3.125.15, )"
-            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.22, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "MudBlazor": {
-              "target": "Package",
-              "version": "[6.4.1, )"
+              "version": "[6.0.22, )"
             }
           },
           "imports": [

@@ -1,29 +1,31 @@
 ﻿<Properties StartupConfiguration="{358044A5-2A00-407E-933D-7EFFD81D5BDC}|http">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Docker-Build" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.5/microsoft.aspnetcore.components.webassembly.7.0.5.nupkg">
     <Files>
       <File FileName="../../../../../../../../../usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+      <File FileName="../../../../../../../../../Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.5/microsoft.aspnetcore.components.webassembly.7.0.5.nupkg" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MySite" expanded="True">
-            <Node name="MySite" expanded="True" selected="True" />
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="MySite">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MySite PreferredExecutionTarget="/Volumes/Untitled - Data/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Docker-Build" Name="Docker-Build">
       <Items>
-        <StartupItem ItemId="{65CB2376-4671-4B17-BD19-6ECDB7FB2C99}" ItemName="docker-compose" ConfigurationId="Default" />
         <StartupItem ItemId="{358044A5-2A00-407E-933D-7EFFD81D5BDC}" ItemName="MySite" ConfigurationId="http" />
       </Items>
     </MultiItemSolutionRunConfiguration>

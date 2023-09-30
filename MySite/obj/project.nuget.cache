@@ -1,51 +1,39 @@
 {
   "version": 2,
-  "dgSpecHash": "dVmZiTAubSIptom49C8jM84d/2mP7vn7UxUT6J0Rj7uefbtSs0J+GRvUgjWYOvr+k0m/LYU+PeMmTNlCTtMqSA==",
-  "success": false,
+  "dgSpecHash": "hT3bJ7fxLPUAqYFkLRJ5c2ouplnk2VYV0imVOz0L8UfJvweDaoT72rCu1M5xn1ZhSnWRlJSQxXue97zJSC+1sQ==",
+  "success": true,
   "projectFilePath": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/MySite.csproj",
   "expectedPackageFiles": [
-    "/Users/khizooo/.nuget/packages/blazorsectionlib/1.0.0/blazorsectionlib.1.0.0.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/docker.dotnet/3.125.15/docker.dotnet.3.125.15.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.authorization/6.0.16/microsoft.aspnetcore.authorization.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components/6.0.16/microsoft.aspnetcore.components.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.16/microsoft.aspnetcore.components.analyzers.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.forms/6.0.16/microsoft.aspnetcore.components.forms.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.web/6.0.16/microsoft.aspnetcore.components.web.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.5/microsoft.aspnetcore.components.webassembly.7.0.5.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/7.0.5/microsoft.aspnetcore.components.webassembly.devserver.7.0.5.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.metadata/6.0.16/microsoft.aspnetcore.metadata.6.0.16.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.authorization/6.0.22/microsoft.aspnetcore.authorization.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components/6.0.22/microsoft.aspnetcore.components.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.22/microsoft.aspnetcore.components.analyzers.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.forms/6.0.22/microsoft.aspnetcore.components.forms.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.web/6.0.22/microsoft.aspnetcore.components.web.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly/6.0.22/microsoft.aspnetcore.components.webassembly.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/6.0.22/microsoft.aspnetcore.components.webassembly.devserver.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.aspnetcore.metadata/6.0.22/microsoft.aspnetcore.metadata.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.1/microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.3/microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.4/microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/microsoft.jsinterop/6.0.16/microsoft.jsinterop.6.0.16.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/mudblazor/6.4.1/mudblazor.6.4.1.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.jsinterop/6.0.22/microsoft.jsinterop.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/microsoft.jsinterop.webassembly/6.0.22/microsoft.jsinterop.webassembly.6.0.22.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/khizooo/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/khizooo/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
     "/Users/khizooo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.22/microsoft.netcore.app.runtime.mono.browser-wasm.6.0.22.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.Components.WebAssembly 7.0.5 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package Microsoft.AspNetCore.Components.WebAssembly 7.0.5 supports: net7.0 (.NETCoreApp,Version=v7.0)",
-      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.Components.WebAssembly 7.0.5 is not compatible with net6.0 (.NETCoreApp,Version=v6.0) / browser-wasm. Package Microsoft.AspNetCore.Components.WebAssembly 7.0.5 supports: net7.0 (.NETCoreApp,Version=v7.0)",
-      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
-      "targetGraphs": [
-        "net6.0/browser-wasm"
-      ]
-    }
-  ]
+  "logs": []
 }
