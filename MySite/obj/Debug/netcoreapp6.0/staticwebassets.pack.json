@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets/css/app.css"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
@@ -75,6 +79,10 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/ArtvsTech.png",
       "PackagePath": "staticwebassets/images/ArtvsTech.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/Header-bg.png",
+      "PackagePath": "staticwebassets/images/Header-bg.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/KhizoOo-Sitemap.png",
@@ -373,6 +381,10 @@
       "PackagePath": "staticwebassets/images/Video-Loader.gif"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/about-img.jpg",
+      "PackagePath": "staticwebassets/images/about-img.jpg"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bcg/bcg-01.svg",
       "PackagePath": "staticwebassets/images/bcg/bcg-01.svg"
     },
@@ -385,8 +397,60 @@
       "PackagePath": "staticwebassets/images/bcg/bcg-03.svg"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/bg-3.jpg",
+      "PackagePath": "staticwebassets/images/bg-3.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/01.jpg",
+      "PackagePath": "staticwebassets/images/blog/01.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/author1.jpg",
+      "PackagePath": "staticwebassets/images/blog/author1.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/author2.jpg",
+      "PackagePath": "staticwebassets/images/blog/author2.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/author3.jpg",
+      "PackagePath": "staticwebassets/images/blog/author3.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/minimal-1.jpg",
+      "PackagePath": "staticwebassets/images/blog/minimal-1.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/minimal-2.jpg",
+      "PackagePath": "staticwebassets/images/blog/minimal-2.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/minimal-3.jpg",
+      "PackagePath": "staticwebassets/images/blog/minimal-3.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/minimal-4.jpg",
+      "PackagePath": "staticwebassets/images/blog/minimal-4.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/s-1.jpg",
+      "PackagePath": "staticwebassets/images/blog/s-1.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/blog/s-2.jpg",
+      "PackagePath": "staticwebassets/images/blog/s-2.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/home-2.jpg",
+      "PackagePath": "staticwebassets/images/home-2.jpg"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/l-logo.png",
       "PackagePath": "staticwebassets/images/l-logo.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/myPics/01.jpg",
@@ -413,12 +477,76 @@
       "PackagePath": "staticwebassets/images/myPics/my_signature.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/pattern-short.png",
+      "PackagePath": "staticwebassets/images/pattern-short.png"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/02.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/02.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/1.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/1.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/2.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/2.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/3.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/3.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/4.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/4.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/5.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/5.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/6.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/6.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/7.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/7.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/9.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/9.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/bag.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/bag.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/bottle.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/bottle.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/portfolio/m-3.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/m-3.jpg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/profile.jpg",
+      "PackagePath": "staticwebassets/images/profile.jpg"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/s-logo.png",
       "PackagePath": "staticwebassets/images/s-logo.png"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/images/signature.png",
+      "PackagePath": "staticwebassets/images/signature.png"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/logo/B-OK-Logo.png",
@@ -473,8 +601,148 @@
       "PackagePath": "staticwebassets/manifest.json"
     },
     {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/.DS_Store",
+      "PackagePath": "staticwebassets/plugins/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/animated-text/animated-text.css",
+      "PackagePath": "staticwebassets/plugins/animated-text/animated-text.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/animated-text/animated-text.js",
+      "PackagePath": "staticwebassets/plugins/animated-text/animated-text.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/aos/aos.css",
+      "PackagePath": "staticwebassets/plugins/aos/aos.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/aos/aos.js",
+      "PackagePath": "staticwebassets/plugins/aos/aos.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/bootstrap/bootstrap.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/bootstrap.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/counto/animate.css",
+      "PackagePath": "staticwebassets/plugins/counto/animate.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/counto/apear.js",
+      "PackagePath": "staticwebassets/plugins/counto/apear.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/counto/counTo.js",
+      "PackagePath": "staticwebassets/plugins/counto/counTo.js"
+    },
+    {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/.DS_Store",
       "PackagePath": "staticwebassets/plugins/fontawesome/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/css/all.css",
+      "PackagePath": "staticwebassets/plugins/fontawesome/css/all.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/fontawesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/plugins/fontawesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/google-map/map.js",
+      "PackagePath": "staticwebassets/plugins/google-map/map.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/jQuery/jquery.min.js",
+      "PackagePath": "staticwebassets/plugins/jQuery/jquery.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/magnific-popup/jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets/plugins/magnific-popup/jquery.magnific-popup.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/magnific-popup/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/plugins/magnific-popup/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/magnific-popup/magnific-popup.css",
+      "PackagePath": "staticwebassets/plugins/magnific-popup/magnific-popup.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/owl-carousel/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/plugins/owl-carousel/owl.carousel.min.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/owl-carousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/plugins/owl-carousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/owl-carousel/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/plugins/owl-carousel/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/shuffle/shuffle.min.js",
+      "PackagePath": "staticwebassets/plugins/shuffle/shuffle.min.js"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/swipers/swiper.min.css",
@@ -487,6 +755,26 @@
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/.DS_Store",
       "PackagePath": "staticwebassets/plugins/themify/.DS_Store"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/css/themify-icons.css",
+      "PackagePath": "staticwebassets/plugins/themify/css/themify-icons.css"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/fonts/themify.eot",
+      "PackagePath": "staticwebassets/plugins/themify/fonts/themify.eot"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/fonts/themify.svg",
+      "PackagePath": "staticwebassets/plugins/themify/fonts/themify.svg"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/plugins/themify/fonts/themify.ttf"
+    },
+    {
+      "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/plugins/themify/fonts/themify.woff",
+      "PackagePath": "staticwebassets/plugins/themify/fonts/themify.woff"
     },
     {
       "Id": "/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/Untitled/Portfolio/MySite/wwwroot/psd/KhizoOo-Logo-L.psd",
