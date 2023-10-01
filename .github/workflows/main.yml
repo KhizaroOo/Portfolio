@@ -1,4 +1,4 @@
-name: Website Deployment
+name: Deploy to GitHub Pages
 
 # Run workflow on every push to the master branch
 on:
@@ -13,20 +13,20 @@ jobs:
     # uses GitHub's checkout action to checkout code form the master branch
     - uses: actions/checkout@v2
     
-    # sets up .NET Core SDK 7.1
+    # sets up .NET Core SDK 3.1
     - name: Setup .NET Core SDK
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 7.0.100
+        dotnet-version: 6.0.317
 
     # publishes Blazor project to the release-folder
-    - name: Publish Website
+    - name: Publish .NET Core Project
       run: dotnet publish MySite/MySite.csproj -c Release -o release --nologo
-
-   # changes the base-tag in index.html from '/' to 'BlazorGitHubPagesDemo' to match GitHub Pages repository subdirectory
+    
+    # changes the base-tag in index.html from '/' to 'BlazorGitHubPagesDemo' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to Portfolio
       run: sed -i 's/<base href="\/" \/>/<base href="\/Portfolio\/" \/>/g' release/wwwroot/index.html
- 
+    
     # copy index.html to 404.html to serve the same file when a file is not found
     - name: copy index.html to 404.html
       run: cp release/wwwroot/index.html release/wwwroot/404.html
