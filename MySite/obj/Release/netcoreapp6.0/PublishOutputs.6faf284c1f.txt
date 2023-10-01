@@ -1,0 +1,2 @@
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/PUBLISH/Pages/LandingPages/Swipers/Short_App_Swiper.json
+/System/Volumes/Data/Previous Content/Data/KhizoOo/Projects/PUBLISH/web.config
