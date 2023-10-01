@@ -18,17 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\LandingPages\" />
-    <Folder Include="Pages\LandingPages\Swipers\" />
-    <Folder Include="wwwroot\images\blog\" />
-    <Folder Include="wwwroot\images\portfolio\" />
-    <Folder Include="wwwroot\js\" />
-    <Folder Include="Pages\LandingPages\Listings\" />
-    <Folder Include="AppData\" />
-    <Folder Include="wwwroot\images\MyArts\" />
-    <Folder Include="wwwroot\plugins\swipers\" />
-    <Folder Include="wwwroot\images\MyInfographics\" />
-    <Folder Include="wwwroot\images\MyInfographics\JS\" />
+    
+    <Folder Include="wwwroot\" />
     <Folder Include="app\" />
     <Folder Include="publish\" />
   </ItemGroup>
