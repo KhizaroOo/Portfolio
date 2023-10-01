@@ -36,20 +36,20 @@
 
     <!-- Common META -->
     <!-- For Github Pages -->
-    <base href="/Portfolio/" />
+    <base href="/" />
     <!-- For Github Pages -->
     <!-- STYLES -->
-    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-    <link rel="stylesheet" href="plugins/counto/animate.css">
-    <link rel="stylesheet" href="plugins/aos/aos.css">
-    <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
-    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="plugins/swipers/swiper.min.css">
+    <link defer rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <link defer rel="stylesheet" href="plugins/themify/css/themify-icons.css">
+    <link defer rel="stylesheet" href="plugins/counto/animate.css">
+    <link defer rel="stylesheet" href="plugins/aos/aos.css">
+    <link defer rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
+    <link defer rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
+    <link defer rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+    <link defer rel="stylesheet" href="plugins/swipers/swiper.min.css">
     <!-- STYLES -->
     <!-- MAIN STYLES -->
-    <link href="css/style.css" rel="stylesheet">
+    <link defer href="css/style.css" rel="stylesheet">
     <!-- MAIN STYLES -->
 
 
@@ -67,67 +67,67 @@
     <!-- WEB Assembly | DotNet Core -->
     <script src="_framework/blazor.webassembly.js" autostart="true"></script>
     <!-- Start Single Page Apps for GitHub Pages -->
-    <script type="text/javascript">
-        //(function (l) {
-        //    if (l.search) {
-        //        var q = {};
-        //        l.search.slice(1).split('&').forEach(function (v) {
-        //            var a = v.split('=');
-        //            q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
-        //        });
-        //        if (q.p !== undefined) {
-        //            window.history.replaceState(null, null,
-        //                l.pathname.slice(0, -1) + (q.p || '') +
-        //                (q.q ? ('?' + q.q) : '') +
-        //                l.hash
-        //            );
-        //        }
-        //    }
-        //}(window.location))
-    </script>
+    <script type="text/javascript">(function (l) {
+            if (l.search) {
+                var q = {};
+                l.search.slice(1).split('&').forEach(function (v) {
+                    var a = v.split('=');
+                    q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+                });
+                if (q.p !== undefined) {
+                    window.history.replaceState(null, null,
+                        l.pathname.slice(0, -1) + (q.p || '') +
+                        (q.q ? ('?' + q.q) : '') +
+                        l.hash
+                    );
+                }
+            }
+        }(window.location))</script>
     <!-- End Single Page Apps for GitHub Pages -->
     <script>navigator.serviceWorker.register('service-worker.js');</script>
-    <script src="_content/MudBlazor/MudBlazor.min.js"></script>
+    <!--<script src="_content/MudBlazor/MudBlazor.min.js"></script>-->
     <!-- WEB Assembly | DotNet Core -->
 
 
     <script>
 
-        Blazor.start().then(function () {
-
-            setTimeout(function () {
-
-                LOAD_JS("plugins/jQuery/jquery.min.js");
-
-            }, 1000);
 
 
-            setTimeout(function () {
+    //Blazor.then(function () {
 
-                //LOAD_CSS("plugins/bootstrap/bootstrap.min.css");
-                //LOAD_CSS("plugins/themify/css/themify-icons.css");
-                //LOAD_CSS("plugins/counto/animate.css");
-                //LOAD_CSS("plugins/aos/aos.css");
-                //LOAD_CSS("plugins/owl-carousel/owl.carousel.min.css");
-                //LOAD_CSS("plugins/owl-carousel/owl.theme.default.min.css");
-                //LOAD_CSS("plugins/magnific-popup/magnific-popup.css");
-                //LOAD_CSS("plugins/swipers/swiper.min.css");
-                //LOAD_CSS("css/style.css");
+    //        setTimeout(function () {
 
-                LOAD_JS("plugins/bootstrap/bootstrap.min.js");
-                LOAD_JS("plugins/aos/aos.js");
-                LOAD_JS("plugins/owl-carousel/owl.carousel.min.js");
-                LOAD_JS("plugins/shuffle/shuffle.min.js");
-                LOAD_JS("plugins/magnific-popup/jquery.magnific-popup.min.js");
-                LOAD_JS("plugins/counto/apear.js");
-                LOAD_JS("plugins/counto/counTo.js");
-                LOAD_JS("plugins/swipers/swiper.min.js");
-                LOAD_JS("js/script.js");
+    //            //LOAD_JS("plugins/jQuery/jquery.min.js");
 
-            }, 3000);
+    //        }, 1000);
 
 
-        });
+    //        setTimeout(function () {
+
+    //            //LOAD_CSS("plugins/bootstrap/bootstrap.min.css");
+    //            //LOAD_CSS("plugins/themify/css/themify-icons.css");
+    //            //LOAD_CSS("plugins/counto/animate.css");
+    //            //LOAD_CSS("plugins/aos/aos.css");
+    //            //LOAD_CSS("plugins/owl-carousel/owl.carousel.min.css");
+    //            //LOAD_CSS("plugins/owl-carousel/owl.theme.default.min.css");
+    //            //LOAD_CSS("plugins/magnific-popup/magnific-popup.css");
+    //            //LOAD_CSS("plugins/swipers/swiper.min.css");
+    //            //LOAD_CSS("css/style.css");
+
+    //            //LOAD_JS("plugins/bootstrap/bootstrap.min.js");
+    //            //LOAD_JS("plugins/aos/aos.js");
+    //            //LOAD_JS("plugins/owl-carousel/owl.carousel.min.js");
+    //            //LOAD_JS("plugins/shuffle/shuffle.min.js");
+    //            //LOAD_JS("plugins/magnific-popup/jquery.magnific-popup.min.js");
+    //            //LOAD_JS("plugins/counto/apear.js");
+    //            //LOAD_JS("plugins/counto/counTo.js");
+    //            //LOAD_JS("plugins/swipers/swiper.min.js");
+    //            //LOAD_JS("js/script.js");
+
+    //        }, 3000);
+
+
+    //    });
 
 
         function LOAD_JS(url) {
@@ -144,7 +144,28 @@
             link.rel = 'stylesheet';
             link.href = url;
             head.appendChild(link);
-        }
+        }</script>
+
+
+    <script defer src="plugins/jQuery/jquery.min.js"></script>
+    <script defer src="plugins/bootstrap/bootstrap.min.js"></script>
+    <script defer src="plugins/aos/aos.js"></script>
+    <script defer src="plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script defer src="plugins/shuffle/shuffle.min.js"></script>
+    <script defer src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script defer src="plugins/counto/apear.js"></script>
+    <script defer src="plugins/counto/counTo.js"></script>
+    <script defer src="plugins/swipers/swiper.min.js"></script>
+
+    <script>
+
+
+        setTimeout(function () {
+
+            LOAD_JS("js/script.js");
+
+        }, 3000);
+
 
     </script>
 
